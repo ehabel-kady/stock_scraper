@@ -18,10 +18,12 @@ def get_page_data(response):
     else:
         stop_loss = soup.find('b').get_text()
     stop_loss = stop_loss.replace('\n', '')
+    next_3_months = soup.find_all('p', {'class':'text-justified'})[1].get_text()
     return {
         'candidate': candidate,
         'status': status,
-        'stop_loss': stop_loss
+        'stop_loss': stop_loss,
+        'next_3_months': next_3_months
     }
 
 

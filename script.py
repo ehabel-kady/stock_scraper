@@ -40,11 +40,13 @@ def get_page_data(response):
         if 'next 3 months' in i.get_text():
             next_3_months = i.find_all('strong')[0].get_text()
             break
+    ID = soup.select(".animsition-link > strong")[0].text
     return {
         'candidate': candidate,
         'status': status,
         'stop_loss': stop_loss,
-        'next_3_months': next_3_months
+        'next_3_months': next_3_months,
+        "ID":ID
     }
 
 def get_zacks_data(response):
@@ -97,22 +99,10 @@ def get_data_from_page(dic):
             if count>limit: break
         page+=1
 
-for i in links:
-    get_data_from_page(i)
+
 
 # get_data_from_page(r.content)
 # print(stocks)
-csv_file = "Names.csv"
-csv_columns = ['score','stock_counter','candidate','status','stop_loss','next_3_months','type']
-
-try:
-    with open(csv_file, 'w') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-        writer.writeheader()
-        for data in stocks:
-            writer.writerow(data)
-except IOError:
-    print("I/O error")
 # curl 'https://stockinvest.us/list/buy/top100' \
 
 url_zacks = 'https://www.zacks.com/esp/esp_buysell_data_handler.php'
@@ -133,3 +123,38 @@ headers_zacks = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36',
     'X-Requested-With': 'XMLHttpRequest'
 }
+
+zacks_session = requests.Session()
+zacks_session.headers.update(headers_zacks)
+def extract_data_from_json(response):
+    response_convert = eval(response.replace("\n",""))
+    for i in response_convert['data']:
+
+        sympol = BeautifulSoup(i[0]).find("button")["rel"]
+        link ="https://www.zacks.com/stock/quote/{}".format(sympol)
+        r = zacks_session.get(link)
+        data = get_zacks_data(r.content)
+        dic = find_by_value(sympol)
+        dic.update(data)
+
+for i in links:
+    get_data_from_page(i) 
+
+r = zacks_session.get(url_zacks)
+extract_data_from_json(r.content)
+csv_file = "Names.csv"
+csv_columns = ["ID",'score','stock_counter','candidate','status','stop_loss','next_3_months','type','value','growth','momentum','vgm','rank']
+
+try:
+    with open(csv_file, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for data in stocks:
+            writer.writerow(data)
+except IOError:
+    print("I/O error")
+
+
+def find_by_value(k):
+    for i in stocks:
+        if i['ID']==k:return i 

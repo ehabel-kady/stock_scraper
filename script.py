@@ -46,6 +46,24 @@ def get_page_data(response):
         'stop_loss': stop_loss,
         'next_3_months': next_3_months
     }
+
+def get_zacks_data(response):
+    soup = BeautifulSoup(response)
+    rank = soup.find_all('p', {'class':'rank_view'})
+    rates = rank[1].find_all('span',{'class':'composite_val'})
+    value = rates[0].get_text()
+    growth = rates[1].get_text()
+    mom = rates[2].get_text()
+    vgm = rates[3].get_text()
+    return {
+        'value': value,
+        'growth': growth,
+        'momentum': mom,
+        'vgm': vgm,
+        'rank': rank[2].find('a').get_text()
+    }
+
+
 import csv
 
 stocks = []

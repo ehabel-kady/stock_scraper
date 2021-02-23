@@ -107,10 +107,10 @@ s.headers.update(headers)
 
 def find_by_value(k):
     for i in range(len(stocks)):
-        print(stocks[i])
+        # print(stocks[i])
         if "id" in stocks[i].keys():
             if stocks[i]["id"] == k:
-                print("found")
+                # print("found")
                 return stocks[i]
 
 
@@ -160,6 +160,14 @@ def get_data_from_page(dic):
                 .find("strong")
                 .text
             )
+            data["price"] = (
+                table[i]
+                .find("div", {"class": "media"})
+                .find_all("p", {"class": "mb-0"})[1]
+                .text.strip()
+                .split("\n")[0]
+            )
+
             d = get_page_data(r.content)
             data.update(d)
             data["type"] = dic["type"]
@@ -216,13 +224,14 @@ def extract_data_from_json(response):
 for i in links:
     get_data_from_page(i)
 
-find_by_value("ABR")
+# find_by_value("ABR")
 r = zacks_session.get(url_zacks)
 extract_data_from_json(r.content)
 csv_file = "Names.csv"
 csv_columns = [
     "id",
     "score",
+    "price",
     "stock_counter",
     "candidate",
     "status",
@@ -234,6 +243,7 @@ csv_columns = [
     "momentum",
     "vgm",
     "rank",
+    "last_updated",
 ]
 
 try:

@@ -231,7 +231,7 @@ for i in links:
 # find_by_value("ABR")
 r = zacks_session.get(url_zacks)
 if r.status_code != 200:
-    print("{} Error Code")
+    print("{} Error Code".format(r.status_code))
 else:
     js = json.loads(r.content)
     extract_data_from_json(js)

@@ -2,6 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 from datetime import date
 
+# from multiprocessing import Pool
+from concurrent.futures import ProcessPoolExecutor, as_completed
+
 headers = {
     "authority": "stockinvest.us",
     "pragma": "no-cache",
@@ -207,22 +210,29 @@ zacks_session = requests.Session()
 zacks_session.headers.update(headers_zacks)
 
 
+def du(i):
+    sympol = BeautifulSoup(i[0]).find("button")["rel"]
+    link = "https://www.zacks.com/stock/quote/{}".format(sympol)
+    r = zacks_session.get(link)
+    print(i)
+    data = get_zacks_data(r.content)
+    data["last_updated"] = i[8]
+    data["id"] = sympol
+    dic = find_by_value(sympol)
+    if dic:
+        dic.update(data)
+    else:
+        stocks.append(data)
+
+
 def extract_data_from_json(response):
     response_convert = response
-    for i in response_convert["data"]:
-
-        sympol = BeautifulSoup(i[0]).find("button")["rel"]
-        link = "https://www.zacks.com/stock/quote/{}".format(sympol)
-        r = zacks_session.get(link)
-        print(i)
-        data = get_zacks_data(r.content)
-        data["last_updated"] = i[8]
-        data["id"] = sympol
-        dic = find_by_value(sympol)
-        if dic:
-            dic.update(data)
-        else:
-            stocks.append(data)
+    # for i in response_convert["data"]:
+    with ProcessPoolExecutor(max_workers=4) as executor:
+        futures = [executor.submit(du, j) for j in response_convert["data"]]
+        results = []
+        for result in as_completed(futures):
+            results.append(result)
 
 
 for i in links:

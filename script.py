@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-
+from datetime import date
 headers = {
     "authority": "stockinvest.us",
     "pragma": "no-cache",
@@ -14,7 +14,7 @@ headers = {
     "sec-fetch-dest": "document",
     "referer": "https://stockinvest.us/list/runners",
     "accept-language": "en-US,en;q=0.9",
-    "cookie": "__cfduid=d7e99a72ee7c7e3026747147104246fba1613668817; lbal=http://10.0.8.78:80; _sf=eyJpdiI6IlljYmd5M3E1Q3pGRjd1WDVZdnRWWFE9PSIsInZhbHVlIjoiREkrQ08zWkg3YjAzTUg4ckRhcUdWWCtuXC9jclBEcmI0aXlaMnRZNUw0OU5IaElWN2hBUVJCZmZDaTd5TDl1WEJYU1lXa3MrNk0yVXgrZ2UxNTc0MFByMUFHZHFTQXpOemFQKzRVNFZxaHJuOGpIRzdhTGVwWUJjYW15YXVRWVk3IiwibWFjIjoiZWIxMDUxNTdlYTQ1Nzg2YmIwMmU2NjVjNjQ5OTdiZmI5NDY3NDU3OGMwZmE2NzcyNjhhYmFlZjZlY2RkYzUxYiJ9; _gid=GA1.2.2018021303.1613668821; fpestid=XydmGlb1HGruqD6UO76YiKeCtzWjjUDA8e8Zl-tWFJUFcThA4TPfN3OXVLIF40Bn-mxH_A; usprivacy=1---; _awl=2.1613668828.0.4-73c48aa8-7d554bb8784a4f734e9da55efffce841-6763652d6575726f70652d7765737431-602ea1dc-0; __qca=P0-54308755-1613668828884; st_s=g7sYrxwKsiaGtHlRAsMtq9C5dMIsXdu9jMpcjKih; filter-exchanges=eyJpdiI6Imt4VEFhb2FVV2tkZ2xcL3MyTzJyQUNBPT0iLCJ2YWx1ZSI6InE2SkxnQUpVQWE5aDdNMWJQU1lGVkNJQXN0NGRPblg1dm1CalFwb3REUjA0aVBHRzlsOWRDWjloMFZRK2QxUGpcL2NXTmlEQ1E0cUpYVUlPNERNSFRqUT09IiwibWFjIjoiMWU0MjQ2N2JhOGY1OTlkOWNkMWRmYjU3Y2UxNTNjY2VhMTMwYzg2ZWY3ODgzN2FmZGM2MDA2MTVjMzU3MTdlMCJ9; XSRF-TOKEN=eyJpdiI6IkVMQU5EdEVGRU1Bb2hCWE0zWWN0Vnc9PSIsInZhbHVlIjoiQnM4Y3BNaTdtbDR3NGF4U1p3ZVRITXBTMVE0MWtDbXFnU1VzYlZ3dVhlUEx6cElFM3ZiTDRnVGxLa0hPVWU1TnpIYjNHWndTYzY1V3ZETkxvVDBaUjlubEJvcGxwNDU5QmU2RTQ0SVdkVFhzVHZBR0RcL2FjWUdhRFBDd1ZRclwveSIsIm1hYyI6IjE0NDg1NjFjNmJiYzlmY2ZhNWQxMjdjYWRiOGE0YzY5NWFjYjU1NTJhN2VkNDNjYzFjMDdlMGNmMTFkMDRkNGIifQ%3D%3D; _ga_PDGY9YVDNG=GS1.1.1613755987.3.1.1613761221.0; _ga=GA1.1.1699221961.1613668821",
+    "cookie": "_sf=eyJpdiI6IkFOME1lUkNNQW1FMmoxaEh1ZVIrNEE9PSIsInZhbHVlIjoiQWdNcXZWWDNwVnlLWWpOQVJvT1NlU1hcL3N2ODJrY2hIbHkrTUpPMlA5SzU1S0VkXC9rMWJWQUVTQzZuWkNGSjl0ekVzNklBeEtGbnFiVWZkOHZReGtYWnY3cnVhcVRqSkRld1VwTHNGSFg0Z2twaHp2eUpNRGQ4S1hVamZhRU1OKyIsIm1hYyI6ImY4OTNmZmQ5MTk3MGM4ZjEwOTk2YjgzZmMwNGI0YTIxNmU4MWI3Y2UzYzBjZWQzNjljNTA2ZWZjMTE0NjYwNGYifQ==; __qca=P0-673845176-1612835299136; _admrla=2.0-4ab43ef4-9242-024d-3b98-ba200c5cacc7; __stripe_mid=47fc5b22-61df-4e90-a53c-e2d1402f830fdae719; cf_clearance=8fb3df4ed100eb3fc0c1a97adc2cdc3d9b9befc1-1613094182-0-250; _ga=GA1.1.1413685881.1612835295; lbal=http://10.0.8.77:80; _gid=GA1.2.1572658842.1615213700; __cfduid=df6b462c38f145934f197f3b29bd945a01615427459; filter-exchanges=eyJpdiI6IloxWTZkN294aGJEaWwzWUIydTdkK1E9PSIsInZhbHVlIjoiNThhNnN3YXFnNmdGTEhmaE5xXC95QXJTVEFhODdaS2FoaXBzZGpsN1RhdmZIRkxTd002bGl1UlJUak5cL0hkR3M0NDZ1OEF5WE5QcTQyc2s1SFFDQkpSUT09IiwibWFjIjoiNzIzM2ExYzg5Y2RjZmZkYWJiZDNjNmNmNWE4YWJkNjI0NjkxMzE0MjhiMGI0Y2E2ZGYwOTM5Mjg1MTRlMDdiMSJ9; __cf_bm=3f353ac5ce00a3aa50bc8c7540d7724b331da46e-1615724622-1800-ASZml8Jvmeebmtl/xnFR/4MQCqxfAQxp6gHTI1DcKD3Si5POAth3Eol5jF6cWr135uG18U2Su1iuOjMBSrv4XoNTatPheZjr80Sr4Htej1kFmyI7f8qbWsTtC3QkM13hHA==; IC_ViewCounter_stockinvest.us=5; _awl=2.1615724745.0.4-6a967648-4ab43ef49242024d3b98ba200c5cacc7-6763652d617369612d6561737431-604e00c9-3; st_s=Gp2MLamGfNzTngoxEPaDcQUQD6sScGtWrwmnuhPG; XSRF-TOKEN=eyJpdiI6IitaN0MrYUVKbjRISWJwdVN6QkYyNFE9PSIsInZhbHVlIjoicHkycGJZclVVbCtJYk9ObFlzdytLd3BtZ01SV2IrZ2s4OXBYamtSU2daRmtGY2s3OHAzUlpqaFlwZ3lEdkpUSEpjeUZSSm5PUGxYaUw0ajBGSThlK21MTVk5WDRoVExMSnMzWUFaeU5XK1JaZCtoZ2tFYXFud0tWZjBBXC9leHNmIiwibWFjIjoiZWMzNWYzYTUyYTYwYzgzZDNlZTI0ZWE4NTczMDlhODczOGRmZWIwMmI2NDNiOWFlYjBjOWFjNWJlNDExZDY1YSJ9; _gat=1; _ga_PDGY9YVDNG=GS1.1.1615724621.103.1.1615724890.0; _ga=GA1.1.1413685881.1612835295",
 }
 links = [
     {
@@ -85,10 +85,10 @@ def get_zacks_data(response):
     soup = BeautifulSoup(response)
     rank = soup.find_all("p", {"class": "rank_view"})
     rates = rank[1].find_all("span", {"class": "composite_val"})
-    value = rates[0].get_text()
-    growth = rates[1].get_text()
-    mom = rates[2].get_text()
-    vgm = rates[3].get_text()
+    value = rates[0].get_text() if len(rates) >= 1 else 'N/A'
+    growth = rates[1].get_text() if len(rates) >= 2 else 'N/A'
+    mom = rates[2].get_text() if len(rates) >= 3 else 'N/A'
+    vgm = rates[3].get_text() if len(rates) >= 4 else 'N/A'
     return {
         "value": value,
         "growth": growth,
@@ -186,19 +186,21 @@ import json
 
 url_zacks = "https://www.zacks.com/esp/esp_buysell_data_handler.php"
 headers_zacks = {
-    "Connection": "keep-alive",
-    "Pragma": "no-cache",
-    "Cache-Control": "no-cache",
-    "Upgrade-Insecure-Requests": "1",
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    "Sec-Fetch-Site": "none",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-User": "?1",
-    "Sec-Fetch-Dest": "document",
-    "Referer": "https://www.zacks.com/premium/esp-buy",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Cookie": 'user_session=76fe92cf943242af31b1f14e2b8bd9e8; _vwo_uuid_v2=DFB06DE7B29975F3860F1AB07EB657FEC|a4addb05d2fb0654a7e7a4507f8dfc7e; _ga=GA1.2.713608766.1613671177; _fbp=fb.1.1613671197524.840183633; _vwo_uuid=DFB06DE7B29975F3860F1AB07EB657FEC; _vwo_ds=3%241613671171%3A86.53399098%3A%3A; _gid=GA1.2.1043937515.1613948858; com.silverpop.iMAWebCookie=c5682211-b902-c5d4-0512-a2496700404d; takeover=1; remember_me=1; CUSTOMER_ID=772270044; ZTOKENID=3c8584b1131de83cd8ce13fb27b4443a; ZCCSUID=0e66b9ea49179f6184206ade6e573cb8; new_zacks_username=ehabwork0%40gmail.com; recentQuotes=WING%2C%2CGLOG%2CXEC; PHPSESSID=9f7cpaotamisudhorf4b84g4f0; _fbc=fb.1.1614025956126.IwAR1mZqg3vHZJEA9O2D9fOsBXe7MtwkY9j18lJJgRNYVsRP9957dDW0ATpc0; AMCVS_3064401053DB594D0A490D4C%40AdobeOrg=1; s_cc=true; s_vnum=1614549600645%26vn%3D6; _vis_opt_s=2%7C; _vis_opt_test_cookie=1; __gads=ID=155dede9fdf007cf:T=1614037051:S=ALNI_MbqarCAwlCn_fLBA74OitQOnFLoSg; AMCV_3064401053DB594D0A490D4C%40AdobeOrg=77933605%7CMCIDTS%7C18680%7CMCMID%7C64589423075614544913980457553145528436%7CMCAAMLH-1614641857%7C6%7CMCAAMB-1614641857%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1614044257s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18684%7CvVersion%7C4.5.1; s_nr=1614037057239-Repeat; s_v17=DEF; s_sq=%5B%5BB%5D%5D; FCCDCF=[["AKsRol8TnasUmsG6lT2zZfys6MlPDomHSWGSwlf267c4nK2qI9SU-AJO5rj6iDCRMwMYwsI9NlZaSP5BCVvt3XZf8u2cAk2fuDGPHrkHXETFS6zRsapR-uy1KoFGUOzUc0EJArPjReZjzcmocZmEEcVN2SdzvA0pzQ=="],null,["[[],[],[],[],null,null,true]",1614037062328]]; _vwo_sn=369434',
+    'Accept': 'application/json, text/javascript, */*; q=0.01',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Language': 'en-US,en;q=0.9,ar-EG;q=0.8,ar;q=0.7',
+    'Connection': 'keep-alive',
+    'Content-Length': '13',
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+    'Cookie': '_ga=GA1.2.1755220486.1612835394; _vwo_uuid_v2=DD9B13EC83712CC7105E869866530358F|922973e0ce085fb30f098b3763b8c2c5; _vwo_uuid=DD9B13EC83712CC7105E869866530358F; _vwo_ds=3%241612835393%3A63.66285342%3A%3A; remember_me=1; CUSTOMER_ID=336423313; ZTOKENID=6f51fb928f5765d30f2d0b0dcaeada92; ZCCSUID=c6606bcf1f26ac63b8b2255da5783850; _vis_opt_exp_97_combi=1; com.silverpop.iMAWebCookie=45d94d34-1e11-2984-aa88-eea249b0688d; _vis_opt_exp_104_combi=2; PHPSESSID=crrmim7h3jlhnipf9g0g1r9tm0; AMCVS_3064401053DB594D0A490D4C%40AdobeOrg=1; s_cc=true; _vis_opt_s=9%7C; _vis_opt_test_cookie=1; _vwo_uuid_v2=DD9B13EC83712CC7105E869866530358F|922973e0ce085fb30f098b3763b8c2c5; funnelCookie=ultimatetrader; user_session=9afc74e9a007410c29ce7b5b8461dff9; s_v17=DEF; _gid=GA1.2.591498006.1615725959; AMCV_3064401053DB594D0A490D4C%40AdobeOrg=77933605%7CMCIDTS%7C18700%7CMCMID%7C01328758401439657211450758052371291862%7CMCAAMLH-1616330759%7C3%7CMCAAMB-1616330759%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1615733159s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.5.1; s_gapv=Logged%20In; s_vnum=1617206400990%26vn%3D26; s_invisit=true; undefined_s=First%20Visit; recentQuotes=JEF%2CCADE%2CTROW%2CPLAY%2C; s_cm=Other%20Natural%20Referrersundefinedwww.upwork.com; s_cpc=0; _vwo_sn=2890565%3A6; ts_zt_ad_id=2; s_sq=%5B%5BB%5D%5D; _gat=1; s_nr=1615730142043-Repeat; s_p42=premium%3A%20esp-buy; FCCDCF=[["AKsRol_pJ3DLnSj264g1oKFQBCgwCJ0nNvSJcDuFK-ZYb097UKjRsRRn44_Q6rC5LbSKP_rV_jPB-0HGv_YeCaZw0HhaYNTLWBhwr5LLfpJukvPakL-5umdb-FQlQ6QP6AKMro37BDR9uihv_iAwlTRxzOQUpHFIgQ=="],null,["[[],[],[],[],null,null,true]",1615730142251]]',
+    'Host': 'www.zacks.com',
+    'Origin': 'https://www.zacks.com',
+    'Referer': 'https://www.zacks.com/premium/esp-buy?adid=zp_prempage_beatearnings_espfilter&amp;icid=investment_services-zacks_premium-zp_internal-zacks_premium-top_stocks_to_beat_earnings-earnings_esp_filter',
+    'Sec-Fetch-Dest': 'empty',
+    'Sec-Fetch-Mode': 'cors',
+    'Sec-Fetch-Site': 'same-origin',
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36',
+    'X-Requested-With': 'XMLHttpRequest'
 }
 zacks_session = requests.Session()
 zacks_session.headers.update(headers_zacks)
@@ -211,6 +213,7 @@ def extract_data_from_json(response):
         sympol = BeautifulSoup(i[0]).find("button")["rel"]
         link = "https://www.zacks.com/stock/quote/{}".format(sympol)
         r = zacks_session.get(link)
+        print(r.content)
         data = get_zacks_data(r.content)
         data["last_updated"] = i[8]
         data["id"] = sympol
@@ -226,8 +229,10 @@ for i in links:
 
 # find_by_value("ABR")
 r = zacks_session.get(url_zacks)
-extract_data_from_json(r.content)
-csv_file = "Names.csv"
+print(r.content)
+extract_data_from_json(r.content)   
+today = date.today()
+csv_file = "stock_data_{}.csv".format(today.strftime("%d/%m/%Y"))
 csv_columns = [
     "id",
     "score",

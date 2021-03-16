@@ -189,38 +189,49 @@ import json
 # curl 'https://stockinvest.us/list/buy/top100' \
 
 url_zacks = "https://www.zacks.com/esp/esp_buysell_data_handler.php"
-headers_zacks =  {
-
+headers_zacks = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36",
-
 }
 zacks_session = requests.Session()
 zacks_session.headers.update(headers_zacks)
 
 
-def du(i):
-    sympol = BeautifulSoup(i[0]).find("button")["rel"]
-    link = "https://www.zacks.com/stock/quote/{}".format(sympol)
-    r = zacks_session.get(link)
-    print(i)
-    data = get_zacks_data(r.content)
-    data["last_updated"] = i[8]
-    data["id"] = sympol
-    dic = find_by_value(sympol)
-    if dic:
-        dic.update(data)
-    else:
-        stocks.append(data)
+# def du(i):
+#     sympol = BeautifulSoup(i[0]).find("button")["rel"]
+#     link = "https://www.zacks.com/stock/quote/{}".format(sympol)
+#     r = zacks_session.get(link)
+#     print(i)
+#     data = get_zacks_data(r.content)
+#     data["last_updated"] = i[8]
+#     data["id"] = sympol
+#     dic = find_by_value(sympol)
+#     if dic:
+#         dic.update(data)
+#     else:
+#         stocks.append(data)
 
 
 def extract_data_from_json(response):
     response_convert = response
-    # for i in response_convert["data"]:
-    with ProcessPoolExecutor(max_workers=4) as executor:
-        futures = [executor.submit(du, j) for j in response_convert["data"]]
-        results = []
-        for result in as_completed(futures):
-            results.append(result)
+    for i in response_convert["data"]:
+        sympol = BeautifulSoup(i[0]).find("button")["rel"]
+        link = "https://www.zacks.com/stock/quote/{}".format(sympol)
+        r = zacks_session.get(link)
+        print(i)
+        data = get_zacks_data(r.content)
+        data["last_updated"] = i[8]
+        data["id"] = sympol
+        dic = find_by_value(sympol)
+        if dic:
+            dic.update(data)
+        else:
+            stocks.append(data)
+
+    # with ProcessPoolExecutor(max_workers=4) as executor:
+    #     futures = [executor.submit(du, j) for j in response_convert["data"]]
+    #     results = []
+    #     for result in as_completed(futures):
+    #         results.append(result)
 
 
 for i in links:
@@ -230,10 +241,8 @@ for i in links:
 r = zacks_session.get(url_zacks)
 js = json.loads(r.content)
 extract_data_from_json(js)
-import os
 today = date.today()
-date_today = today.strftime("%d-%m-%Y").replace('-','_')
-csv_file = "stock_data_{}.csv".format(date_today)
+csv_file = "stock_data_{}.csv".format(today.strftime("%d/%m/%Y"))
 csv_columns = [
     "id",
     "score",
@@ -252,11 +261,11 @@ csv_columns = [
     "last_updated",
 ]
 
-# try:
-with open(csv_file, mode='w') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-    writer.writeheader()
-    for data in stocks:
-        writer.writerow(data)
-# except IOError:
-#     print("I/O error")
+try:
+    with open(csv_file, "w") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for data in stocks:
+            writer.writerow(data.encode("utf-8"))
+except IOError:
+    print("I/O error")

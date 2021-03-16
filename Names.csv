@@ -1,976 +1,1399 @@
-score,stock_counter,candidate,status,stop_loss,next_3_months,type
-"
-9.00
-",ABR - Arbor Realty Trust,Strong Buy Candidate,Upgraded, $15.60 (-3.50%),,top candiates
-"
-9.00
-",DE - Deere & Company,Strong Buy Candidate,Upgraded, $316.42 (-4.12%),,top candiates
-"
-9.00
-",MNKD - MannKind Corporation,Strong Buy Candidate,Upgraded, $5.93 (-3.42%),,top candiates
-"
+id,score,price,stock_counter,candidate,status,stop_loss,next_3_months,type,value,growth,momentum,vgm,rank,last_updated
+PLAY,"
+9.34
+",$40.61 ,PLAY - Dave & Buster,Strong Buy Candidate,Unchanged, $39.16 (-3.56%),,top candiates,,,,,,
+AMRS,"
+8.96
+",$16.72 ,AMRS - Amyris,Strong Buy Candidate,Unchanged, $16.13 (-3.52%),,top candiates,,,,,,
+ABR,"
+8.96
+",$16.36 ,ABR - Arbor Realty Trust,Strong Buy Candidate,Unchanged, $15.79 (-3.50%),,top candiates,,,,,,
+TAIT,"
 8.91
-",SLAB - Silicon Laboratories,Strong Buy Candidate,Upgraded, $157.24 (-3.44%),,top candiates
-"
-8.91
-",NVT - nVent Electric plc,Strong Buy Candidate,Upgraded, $24.06 (-4.45%),,top candiates
-"
-8.75
-",WOR - Worthington Industries Inc,Strong Buy Candidate,Upgraded, $60.98 (-3.38%),,top candiates
-"
-8.75
-",CASA - Casa Systems Inc.,Strong Buy Candidate,Upgraded, $10.28 (-3.40%),,top candiates
-"
-8.75
-",BGI - Birks Group Inc,Strong Buy Candidate,Upgraded, $3.27 (-3.42%),,top candiates
-"
-8.75
-",SGOC - SGOCO Group,Strong Buy Candidate,Upgraded, $2.51 (-3.42%),,top candiates
-"
+",$5.09 ,TAIT - Taitron Components Incorporated,Strong Buy Candidate,Upgraded, $4.90 (-3.64%),,top candiates,,,,,,
+BCO,"
+8.87
+",$76.00 ,BCO - Brink's Company (The),Strong Buy Candidate,Upgraded, $72.58 (-4.50%),,top candiates,,,,,,
+MAT,"
+8.82
+",$19.46 ,MAT - Mattel,Strong Buy Candidate,Upgraded, $18.44 (-5.24%),20.53%,top candiates,,,,,,
+CLSN,"
 8.72
-",RENN - Renren Inc,Strong Buy Candidate,Upgraded, $10.38 (-3.48%),,top candiates
-"
+",$2.81 ,CLSN - Celsion Corporation,Strong Buy Candidate,Upgraded, $2.71 (-3.56%),,top candiates,,,,,,
+BYD,"
+8.71
+",$56.88 ,BYD - Boyd Gaming Corporation,Strong Buy Candidate,Upgraded, $54.93 (-3.42%),,top candiates,,,,,,
+LKFN,"
+8.71
+",$66.91 ,LKFN - Lakeland Financial Corporation,Strong Buy Candidate,Unchanged, $64.59 (-3.46%),,top candiates,,,,,,
+CLNY,"
 8.68
-",FMBI - First Midwest Bancorp,Strong Buy Candidate,Upgraded, $17.96 (-3.91%),26.7%,top candiates
-"
+",$5.90 ,"CLNY - Colony Capital, Inc.",Strong Buy Candidate,Upgraded, $5.69 (-3.49%),,top candiates,,,,,,
+CB,"
 8.66
-",SASR - Sandy Spring Bancorp,Strong Buy Candidate,Upgraded, $35.44 (-4.18%),20.46%,top candiates
-"
-8.63
-",SPR - Spirit Aerosystems Holdings Inc,Strong Buy Candidate,Upgraded, $41.06 (-3.38%),,top candiates
-"
+",$168.56 ,CB - D/B/A Chubb Limited New,Strong Buy Candidate,Upgraded, $161.19 (-4.37%),,top candiates,B,B,B,B,Top 42% (105 out of 253),4/20/21
+STAR,"
+8.62
+",$16.98 ,STAR - iStar Financial Inc,Strong Buy Candidate,Upgraded, $16.27 (-4.17%),,top candiates,,,,,,
+FULT,"
+8.62
+",$15.64 ,FULT - Fulton Financial Corporation,Strong Buy Candidate,Upgraded, $15.06 (-3.73%),,top candiates,,,,,,
+CHDN,"
 8.59
-",TGH - Textainer Group Holdings Limited,Strong Buy Candidate,Unchanged, $24.14 (-3.54%),,top candiates
-"
-8.50
-",AMP - AMERIPRISE FINANCIAL SERVICES INC,Strong Buy Candidate,Upgraded, $215.95 (-3.81%),$224.53,top candiates
-"
+",$226.42 ,CHDN - Churchill Downs,Strong Buy Candidate,Upgraded, $217.01 (-4.16%),,top candiates,D,C,F,D,Bottom 22% (198 out of 253),2/24/21
+KRTX,"
+8.59
+",$128.99 ,"KRTX - Karuna Therapeutics, Inc.",Strong Buy Candidate,Upgraded, $124.48 (-3.50%),,top candiates,,,,,,
+COO,"
+8.55
+",$390.67 ,COO - Cooper Companies Inc (The),Strong Buy Candidate,Upgraded, $373.32 (-4.44%),16.84%,top candiates,,,,,,
+GES,"
+8.48
+",$26.45 ,GES - Guess? Inc,Strong Buy Candidate,Unchanged, $25.51 (-3.54%),42.36%,top candiates,,,,,,
+TMDX,"
 8.47
-",SIX - Six Flags Entertainment Corporation New,Strong Buy Candidate,Upgraded, $40.49 (-3.36%),,top candiates
-"
-8.43
-",CAR - Avis Budget Group,Strong Buy Candidate,Upgraded, $46.98 (-3.64%),,top candiates
-"
-8.43
-",RGR - Sturm Ruger & Company Inc,Strong Buy Candidate,Unchanged, $68.05 (-3.66%),10.82%,top candiates
-"
-8.38
-",CCCL - China Ceramics Co.,Strong Buy Candidate,Upgraded, $4.45 (-3.50%),,top candiates
-"
-8.29
-",TEL - TE Connectivity Ltd,Strong Buy Candidate,Upgraded, $126.23 (-4.53%),13.87%,top candiates
-"
-8.29
-",ALG - Alamo Group Inc,Strong Buy Candidate,Upgraded, $149.63 (-4.04%),12.86%,top candiates
-"
-8.28
-",NTAP - NetApp,Strong Buy Candidate,Upgraded, $68.43 (-4.10%),22.96%,top candiates
-"
-8.28
-",AEHL - Antelope Enterprise Holdings Ltd,Strong Buy Candidate,Upgraded,$4.45(-3.50%),,top candiates
-"
-8.27
-",STAY - Extended Stay America Inc,Strong Buy Candidate,Upgraded, $15.26 (-3.82%),13.19%,top candiates
-"
-8.24
-",KWR - Quaker Chemical Corporation,Strong Buy Candidate,Upgraded, $283.06 (-3.95%),$298.24,top candiates
-"
-9.00
-",ABR - Arbor Realty Trust,Strong Buy Candidate,Upgraded, $15.60 (-3.50%),,top candiates
-"
-9.00
-",DE - Deere & Company,Strong Buy Candidate,Upgraded, $316.42 (-4.12%),,top candiates
-"
-9.00
-",MNKD - MannKind Corporation,Strong Buy Candidate,Upgraded, $5.93 (-3.42%),,top candiates
-"
+",$38.69 ,TMDX - TransMedics Group Inc.,Strong Buy Candidate,Unchanged, $37.39 (-3.36%),,top candiates,,,,,,
+SPNE,"
+8.44
+",$18.86 ,SPNE - SeaSpine Holdings Corporation,Strong Buy Candidate,Upgraded, $18.20 (-3.52%),17.35%,top candiates,,,,,,
+HONE,"
+8.40
+",$11.87 ,HONE - HarborOne Bancorp Inc,Strong Buy Candidate,Upgraded, $11.36 (-4.24%),$12.13,top candiates,,,,,,
+TEX,"
+8.39
+",$41.37 ,TEX - Terex Corporation,Strong Buy Candidate,Unchanged, $39.73 (-3.97%),$42.15,top candiates,,,,,,
+NBHC,"
+8.37
+",$37.78 ,NBHC - National Bank Holdings Corporation,Strong Buy Candidate,Unchanged, $36.19 (-4.20%),$37.79,top candiates,,,,,,
+COP,"
+8.34
+",$50.88 ,COP - ConocoPhillips,Strong Buy Candidate,Upgraded, $49.19 (-3.32%),,top candiates,D,F,D,F,Top 42% (106 out of 253),4/29/21
+WYNN,"
+8.34
+",$126.75 ,WYNN - Wynn Resorts,Strong Buy Candidate,Unchanged, $122.44 (-3.40%),,top candiates,,,,,,
+IPI,"
+8.33
+",$34.48 ,IPI - Intrepid Potash Inc,Strong Buy Candidate,Upgraded, $33.25 (-3.58%),115.35%,top candiates,,,,,,
+PLAY,"
+9.34
+",$40.61 ,PLAY - Dave & Buster,Strong Buy Candidate,Unchanged, $39.16 (-3.56%),,top candiates,,,,,,
+AMRS,"
+8.96
+",$16.72 ,AMRS - Amyris,Strong Buy Candidate,Unchanged, $16.13 (-3.52%),,top candiates,,,,,,
+ABR,"
+8.96
+",$16.36 ,ABR - Arbor Realty Trust,Strong Buy Candidate,Unchanged, $15.79 (-3.50%),,top candiates,,,,,,
+TAIT,"
 8.91
-",SLAB - Silicon Laboratories,Strong Buy Candidate,Upgraded, $157.24 (-3.44%),,top candiates
-"
-8.91
-",NVT - nVent Electric plc,Strong Buy Candidate,Upgraded, $24.06 (-4.45%),,top candiates
-"
-8.75
-",WOR - Worthington Industries Inc,Strong Buy Candidate,Upgraded, $60.98 (-3.38%),,top candiates
-"
-8.75
-",CASA - Casa Systems Inc.,Strong Buy Candidate,Upgraded, $10.28 (-3.40%),,top candiates
-"
-8.75
-",BGI - Birks Group Inc,Strong Buy Candidate,Upgraded, $3.27 (-3.42%),,top candiates
-"
-8.75
-",SGOC - SGOCO Group,Strong Buy Candidate,Upgraded, $2.51 (-3.42%),,top candiates
-"
+",$5.09 ,TAIT - Taitron Components Incorporated,Strong Buy Candidate,Upgraded, $4.90 (-3.64%),,top candiates,,,,,,
+BCO,"
+8.87
+",$76.00 ,BCO - Brink's Company (The),Strong Buy Candidate,Upgraded, $72.58 (-4.50%),,top candiates,,,,,,
+MAT,"
+8.82
+",$19.46 ,MAT - Mattel,Strong Buy Candidate,Upgraded, $18.44 (-5.24%),20.53%,top candiates,,,,,,
+CLSN,"
 8.72
-",RENN - Renren Inc,Strong Buy Candidate,Upgraded, $10.38 (-3.48%),,top candiates
-"
+",$2.81 ,CLSN - Celsion Corporation,Strong Buy Candidate,Upgraded, $2.71 (-3.56%),,top candiates,,,,,,
+BYD,"
+8.71
+",$56.88 ,BYD - Boyd Gaming Corporation,Strong Buy Candidate,Upgraded, $54.93 (-3.42%),,top candiates,,,,,,
+LKFN,"
+ 8.71
+",$66.91 ,LKFN - Lakeland Financial Corporation,Strong Buy Candidate,Unchanged, $64.59 (-3.46%),,top candiates,,,,,,
+CLNY,"
 8.68
-",FMBI - First Midwest Bancorp,Strong Buy Candidate,Upgraded, $17.96 (-3.91%),26.7%,top candiates
-"
+",$5.90 ,"CLNY - Colony Capital, Inc.",Strong Buy Candidate,Upgraded, $5.69 (-3.49%),,top candiates,,,,,,
+CB,"
 8.66
-",SASR - Sandy Spring Bancorp,Strong Buy Candidate,Upgraded, $35.44 (-4.18%),20.46%,top candiates
-"
-8.63
-",SPR - Spirit Aerosystems Holdings Inc,Strong Buy Candidate,Upgraded, $41.06 (-3.38%),,top candiates
-"
+",$168.56 ,CB - D/B/A Chubb Limited New,Strong Buy Candidate,Upgraded, $161.19 (-4.37%),,top candiates,,,,,,
+STAR,"
+8.62
+",$16.98 ,STAR - iStar Financial Inc,Strong Buy Candidate,Upgraded, $16.27 (-4.17%),,top candiates,,,,,,
+FULT,"
+8.62
+",$15.64 ,FULT - Fulton Financial Corporation,Strong Buy Candidate,Upgraded, $15.06 (-3.73%),,top candiates,,,,,,
+CHDN,"
 8.59
-",TGH - Textainer Group Holdings Limited,Strong Buy Candidate,Unchanged, $24.14 (-3.54%),,top candiates
-"
-8.50
-",AMP - AMERIPRISE FINANCIAL SERVICES INC,Strong Buy Candidate,Upgraded, $215.95 (-3.81%),$224.53,top candiates
-"
+",$226.42 ,CHDN - Churchill Downs,Strong Buy Candidate,Upgraded, $217.01 (-4.16%),,top candiates,,,,,,
+KRTX,"
+8.59
+",$128.99 ,"KRTX - Karuna Therapeutics, Inc.",Strong Buy Candidate,Upgraded, $124.48 (-3.50%),,top candiates,,,,,,
+COO,"
+8.55
+",$390.67 ,COO - Cooper Companies Inc (The),Strong Buy Candidate,Upgraded, $373.32 (-4.44%),16.84%,top candiates,,,,,,
+GES,"
+8.48
+",$26.45 ,GES - Guess? Inc,Strong Buy Candidate,Unchanged, $25.51 (-3.54%),42.36%,top candiates,,,,,,
+TMDX,"
 8.47
-",SIX - Six Flags Entertainment Corporation New,Strong Buy Candidate,Upgraded, $40.49 (-3.36%),,top candiates
-"
-8.43
-",CAR - Avis Budget Group,Strong Buy Candidate,Upgraded, $46.98 (-3.64%),,top candiates
-"
-8.43
-",RGR - Sturm Ruger & Company Inc,Strong Buy Candidate,Unchanged, $68.05 (-3.66%),10.82%,top candiates
-"
-8.38
-",CCCL - China Ceramics Co.,Strong Buy Candidate,Upgraded, $4.45 (-3.50%),,top candiates
-"
-8.29
-",TEL - TE Connectivity Ltd,Strong Buy Candidate,Upgraded, $126.23 (-4.53%),13.87%,top candiates
-"
-8.29
-",ALG - Alamo Group Inc,Strong Buy Candidate,Upgraded, $149.63 (-4.04%),12.86%,top candiates
-"
-8.28
-",NTAP - NetApp,Strong Buy Candidate,Upgraded, $68.43 (-4.10%),22.96%,top candiates
-"
-8.28
-",AEHL - Antelope Enterprise Holdings Ltd,Strong Buy Candidate,Upgraded,$4.45 (-3.50%),,top candiates
-"
-8.27
-",STAY - Extended Stay America Inc,Strong Buy Candidate,Upgraded, $15.26 (-3.82%),13.19%,top candiates
-"
-8.24
-",KWR - Quaker Chemical Corporation,Strong Buy Candidate,Upgraded, $283.06 (-3.95%),$298.24,top candiates
-"
-6.16
-",UIS - Unisys Corporation,Strong Buy Candidate,Unchanged, $25.65 (-3.03%),83.17%,undervalued list
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,undervalued list
-"
-5.10
-",KR - Kroger Company (The),Strong Buy Candidate,Upgraded, $32.27 (-5.14%),8.61%,undervalued list
-"
-4.66
-",BPFH - Boston Private Financial Holdings,Buy Candidate,Unchanged, $13.90 (-2.78%),108.9%,undervalued list
-"
-4.61
-",GOSS - Gossamer Bio Inc.,Buy Candidate,Unchanged, $10.48 (-3.22%),13.44%,undervalued list
-"
-4.45
-",AYI - Acuity Brands Inc,Buy Candidate,Upgraded, $115.18 (-5.41%),5.36%,undervalued list
-"
-4.05
-",GO - Grocery Outlet Holding Corp.,Buy Candidate,Unchanged, $39.13 (-5.67%),11.14%,undervalued list
-"
-3.88
-",CHT - Chunghwa Telecom Co Ltd,Buy Candidate,Unchanged, $37.27 (-5.26%),3.09%,undervalued list
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,undervalued list
-"
-2.86
-",AMPH - Amphastar Pharmaceuticals,Buy Candidate,Upgraded, $17.42 (-5.73%),2.09%,undervalued list
-"
-2.70
-",CRSA - Crescent Acquisition Corp Class A,Buy Candidate,Upgraded,$9.70(-5.43%),,undervalued list
-"
-2.55
-",FII - Federated Investors Inc,Buy Candidate,Upgraded, $26.18 (-5.13%),,undervalued list
-"
-2.33
-","GIX - GigCapital2, Inc.",Buy Candidate,Upgraded,$9.69(-5.40%),,undervalued list
-"
-2.06
-",MAS - Masco Corporation,Buy Candidate,Upgraded, $51.73 (-5.25%),3.44%,undervalued list
-"
-2.01
-",MLAB - Mesa Laboratories,Buy Candidate,Upgraded, $263.17 (-4.80%),3.78%,undervalued list
-"
-1.93
-","DEA - Easterly Government Properties, Inc",Buy Candidate,Upgraded, $20.47 (-5.85%),3.85%,undervalued list
-"
-1.91
-",POR - Portland General Electric Company,Buy Candidate,Upgraded, $39.42 (-5.88%),,undervalued list
-"
-1.85
-",AU - AngloGold Ashanti Limited,Buy Candidate,Upgraded, $19.52 (-6.29%),4.95%,undervalued list
-"
-1.83
-",LAZ - Lazard Ltd,Buy Candidate,Upgraded, $38.79 (-5.77%),8.86%,undervalued list
-"
-1.78
-",PJT - PJT Partners Inc,Buy Candidate,Upgraded, $66.84 (-5.57%),,undervalued list
-"
-1.68
-",OR - Osisko Gold Royalties Ltd,Buy Candidate,Upgraded, $10.49 (-5.45%),,undervalued list
-"
-1.63
-",HAS - Hasbro,Buy Candidate,Upgraded, $85.52 (-4.98%),,undervalued list
-"
-1.30
-",VG - Vonage Holdings Corp,Buy Candidate,Upgraded, $12.84 (-4.23%),5.95%,undervalued list
-"
-1.22
-",IGSB - iShares Short-Term Corporate Bond ETF,Buy Candidate,Unchanged,$51.25(-6.87%),,undervalued list
-"
-1.19
-",STT - State Street Corporation,Buy Candidate,Unchanged, $68.66 (-4.55%),3.05%,undervalued list
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-5.13
-",IVR - INVESCO MORTGAGE CAPITAL INC,Strong Buy Candidate,Upgraded, $3.53 (-4.62%),15.09%,possible runner
-"
-2.01
-",RDNT - RadNet,Buy Candidate,Upgraded, $17.63 (-4.40%),,possible runner
-"
-0.29
-",SLG - SL Green Realty Corporation,Hold/Accumulate,Upgraded, $59.04 (-5.01%),8.12%,possible runner
-"
-0.06
-",AQUA - Evoqua Water Technologies Corp,Hold/Accumulate,Upgraded, $23.49 (-4.79%),5.25%,possible runner
-"
-3.38
-",SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Upgraded,$12.34(-4.36%),7.27%,possible runner
-"
-0.73
-",TDA - Telephone and Data Systems Inc,Hold/Accumulate,Unchanged,$23.27(-7.86%),,golden star long
-"
+",$38.69 ,TMDX - TransMedics Group Inc.,Strong Buy Candidate,Unchanged, $37.39 (-3.36%),,top candiates,,,,,,
+SPNE,"
+8.44
+",$18.86 ,SPNE - SeaSpine Holdings Corporation,Strong Buy Candidate,Upgraded, $18.20 (-3.52%),17.35%,top candiates,,,,,,
+HONE,"
+8.40
+",$11.87 ,HONE - HarborOne Bancorp Inc,Strong Buy Candidate,Upgraded, $11.36 (-4.24%),$12.13,top candiates,,,,,,
+TEX,"
+8.39
+",$41.37 ,TEX - Terex Corporation,Strong Buy Candidate,Unchanged, $39.73 (-3.97%),$42.15,top candiates,,,,,,
+NBHC,"
+8.37
+",$37.78 ,NBHC - National Bank Holdings Corporation,Strong Buy Candidate,Unchanged, $36.19 (-4.20%),$37.79,top candiates,,,,,,
+COP,"
+8.34
+",$50.88 ,COP - ConocoPhillips,Strong Buy Candidate,Upgraded, $49.19 (-3.32%),,top candiates,,,,,,
+WYNN,"
+8.34
+",$126.75 ,WYNN - Wynn Resorts,Strong Buy Candidate,Unchanged, $122.44 (-3.40%),,top candiates,,,,,,
+IPI,"
+8.33
+",$34.48 ,IPI - Intrepid Potash Inc,Strong Buy Candidate,Upgraded, $33.25 (-3.58%),115.35%,top candiates,,,,,,
+UIS,"
+6.11
+",$26.60 ,UIS - Unisys Corporation,Strong Buy Candidate,Unchanged, $25.63 (-3.66%),81.03%,undervalued list,,,,,,
+DENN,"
+5.87
+",$17.46 ,DENN - Denny,Strong Buy Candidate,Upgraded, $16.47 (-5.68%),40.17%,undervalued list,,,,,,
+GOSS,"
+5.68
+",$10.94 ,GOSS - Gossamer Bio Inc.,Strong Buy Candidate,Upgraded, $10.53 (-3.68%),13.11%,undervalued list,,,,,,
+SPRQ,"
+3.85
+",$12.92 ,SPRQ - Spartan Acquisition Corp. II,Buy Candidate,Unchanged,$12.33(-4.56%),7.12%,undervalued list,,,,,,
+INFN,"
+3.53
+",$10.19 ,INFN - Infinera Corporation,Buy Candidate,Unchanged, $9.78 (-3.98%),13.32%,undervalued list,,,,,,
+PKG,"
+2.56
+",$134.32 ,PKG - Packaging Corporation of America,Buy Candidate,Unchanged, $127.14 (-5.35%),,undervalued list,,,,,,
+KR,"
+2.47
+",$33.59 ,KR - Kroger Company (The),Buy Candidate,Downgraded, $31.64 (-5.81%),,undervalued list,,,,,,
+HLI,"
+2.46
+",$65.56 ,HLI - Houlihan Lokey Inc,Buy Candidate,Upgraded, $61.62 (-6.01%),,undervalued list,,,,,,
+MLAB,"
+2.10
+",$275.99 ,MLAB - Mesa Laboratories,Buy Candidate,Unchanged, $259.74 (-5.89%),3.47%,undervalued list,,,,,,
+PHYS,"
+2.08
+",$14.32 ,PHYS - Sprott Physical Gold Trust,Buy Candidate,Upgraded, $13.57 (-5.23%),,undervalued list,,,,,,
+CHT,"
+1.99
+",$39.11 ,CHT - Chunghwa Telecom Co Ltd,Buy Candidate,Unchanged, $37.16 (-4.98%),3.01%,undervalued list,,,,,,
+DEA,"
 1.88
-",AAP - Advance Auto Parts Inc,Buy Candidate,Unchanged, $159.45 (-3.94%),5.32%,golden star long
-"
-0.00
-",EUSGU - European Sustainable Growth Acquisition Corp.,Hold/Accumulate,Unchanged,$10.68(-3.18%),,golden star long
-"
--0.77
-",MIN - MFS Intermediate Income Trust,Hold/Accumulate,Unchanged, $3.67 (-3.54%),,golden star long
-"
--1.78
-",FTSM - FIRST TRUST ENHANCED SHORT MATURITY ETF,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long
-"
-0.98
-",SINA - Sina Corporation,Hold/Accumulate,Downgraded, $42.03 (-3.07%),-2.19%,golden star long
-"
-0.18
-",RC - Ready Capital Corporation,Hold/Accumulate,Upgraded, $12.52 (-3.54%),$13.15,golden star long
-"
-1.58
-",BKSC - Bank of South Carolina Corp.,Buy Candidate,Upgraded, $17.37 (-3.92%),$18.34,golden star long
-"
-0.03
-",COWNZ - Cowen Inc 7.35 % Notes 2017-15.12.27,Hold/Accumulate,Downgraded,$24.62(-3.66%),,golden star long
-"
-0.90
-",TANNZ - TravelCenters of America LLC 8.00% Senior Notes due 2030,Hold/Accumulate,Unchanged,$24.61(-3.86%),,golden star long
-"
-0.13
-",UZC - United States Cellular Corporation,Hold/Accumulate,Unchanged,$24.63(-3.91%),,golden star long
-"
--1.23
-",JHS - John Hancock Income Securities Trust,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long
-"
--0.82
-",GOODN - Gladstone Commercial Corp,Hold/Accumulate,Unchanged,$25.03(-3.27%),,golden star long
-"
-3.65
-",WMK - Weis Markets Inc,Buy Candidate,Unchanged, $53.55 (-3.72%),$56.26,golden star long
-"
-7.33
-",DXCM - DexCom,Strong Buy Candidate,Upgraded, $402.37 (-3.95%),$427.79,golden star long
-"
-0.00
-",CDXC - ChromaDex Corporation,Hold/Accumulate,Unchanged, $8.08 (-2.82%),,golden star long
-"
-4.10
-",VEEV - Veeva Systems Inc,Buy Candidate,Unchanged, $301.66 (-3.88%),$320.06,golden star long
-"
--1.08
-",PYN - PIMCO New York Municipal Income Fund III,Sell Candidate,Downgraded,Golden Star Signal*,4.62%,golden star long
-"
-2.03
-",EXR - Extra Space Storage Inc,Buy Candidate,Unchanged, $115.34 (-3.58%),$120.39,golden star long
-"
--2.31
-",GBLIL - Global Indemnity Limited 7.875% Subordinated Notes due 2047,Sell Candidate,Unchanged,Golden Star Signal*,,golden star long
-"
-1.25
-",SCCC - Sachem Capital Corp. 7.75% Note,Buy Candidate,Upgraded,$24.86(-2.66%),,golden star long
-"
--1.58
-",GOODM - Gladstone Commercial Corporation Series D Cumulative Redeemable Preferred Stock,Sell Candidate,Unchanged,Golden Star Signal*,-2.11%,golden star long
-"
-0.39
-",CTBB - Qwest Corporation 6.5% Notes due 2056,Hold/Accumulate,Unchanged,$24.97(-2.93%),,golden star long
-"
--0.88
-",EOT - Eaton Vance Municipal Income Trust,Hold/Accumulate,Unchanged, $20.58 (-3.37%),2.17%,golden star long
-"
-1.61
-",DNP - Duff & Phelps Utilities Income Inc,Buy Candidate,Upgraded, $9.99 (-4.73%),,golden star long
-"
-0.25
-","RILYZ - B. Riley Financial, Inc",Hold/Accumulate,Downgraded,$23.33(-7.62%),,golden star short
-"
--0.54
-",ADP - Automatic Data Processing,Hold/Accumulate,Downgraded, $161.59 (-4.55%),-5.85%,golden star short
-"
--1.21
-",SOGO - Sogou Inc.,Sell Candidate,Unchanged,Golden Star Signal*,$8.51,golden star short
-"
-0.13
-",OGS - ONE Gas Inc,Hold/Accumulate,Unchanged, $71.50 (-3.46%),$75.13,golden star short
-"
-2.04
-",LMRKO - Landmark Infrastructure Partners LP Preferred Units,Buy Candidate,Unchanged,$23.92(-5.54%),,golden star short
-"
-1.87
-",GFNCP - General Finance Corporation,Buy Candidate,Unchanged,$98.19(-3.96%),2.29%,golden star short
-"
-2.66
-",T - AT&T Inc,Buy Candidate,Unchanged, $27.82 (-4.06%),-2.37%,golden star short
-"
-2.59
-",CBB - Cincinnati Bell Inc,Buy Candidate,Unchanged, $14.46 (-5.50%),,golden star short
-"
-3.57
-",UFPT - UFP Technologies,Buy Candidate,Unchanged, $46.65 (-4.03%),3.29%,golden star short
-"
-8.91
-",NVT - nVent Electric plc,Strong Buy Candidate,Upgraded, $24.06 (-4.45%),,golden star short
-"
-3.66
-",CFFN - Capitol Federal Financial,Buy Candidate,Unchanged, $12.50 (-4.00%),4.44%,golden star short
-"
-1.88
-",CNP - CenterPoint Energy Inc,Buy Candidate,Unchanged, $20.26 (-5.46%),-8.53%,golden star short
-"
+",$21.84 ,"DEA - Easterly Government Properties, Inc",Buy Candidate,Unchanged, $20.57 (-5.84%),3.49%,undervalued list,,,,,,
+PJT,"
+1.84
+",$70.59 ,PJT - PJT Partners Inc,Buy Candidate,Unchanged, $66.32 (-6.05%),,undervalued list,,,,,,
+EGRX,"
+1.62
+",$45.90 ,EGRX - Eagle Pharmaceuticals,Buy Candidate,Upgraded, $43.24 (-5.80%),3.28%,undervalued list,,,,,,
+ALE,"
+1.40
+",$63.70 ,ALE - Allete Inc,Buy Candidate,Upgraded, $60.72 (-4.69%),13.91%,undervalued list,,,,,,
+DLR,"
 1.37
-",FRGAP - Franchise Group Inc.,Buy Candidate,Unchanged,$23.85(-5.48%),-2.97%,golden star short
-"
-5.38
-",CIF - Colonial Intermediate High Income Fund,Strong Buy Candidate,Upgraded, $2.45 (-5.43%),2.11%,golden star short
-"
-3.08
-",NVO - Novo Nordisk A/S,Buy Candidate,Unchanged, $71.58 (-3.37%),8.74%,golden star short
-"
+",$137.60 ,DLR - Digital Realty Trust Inc,Buy Candidate,Upgraded, $129.12 (-6.16%),8.66%,undervalued list,,,,,,
+SAIC,"
+1.37
+",$93.59 ,SAIC - SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,Buy Candidate,Upgraded, $88.62 (-5.31%),,undervalued list,,,,,,
+CRSA,"
+1.21
+",$10.23 ,CRSA - Crescent Acquisition Corp Class A,Buy Candidate,Unchanged,$9.61(-6.05%),,undervalued list,,,,,,
+GO,"
+1.09
+",$41.22 ,GO - Grocery Outlet Holding Corp.,Buy Candidate,Unchanged, $39.23 (-4.82%),,undervalued list,D,A,D,B,Bottom 35% (165 out of 253),3/2/21
+MAS,"
+1.05
+",$54.36 ,MAS - Masco Corporation,Buy Candidate,Unchanged, $51.34 (-5.55%),3.25%,undervalued list,,,,,,
+ROAD,"
+0.78
+",$29.03 ,ROAD - Construction Partners Inc. Class A,Hold/Accumulate,Upgraded, $27.87 (-4.00%),8.57%,undervalued list,,,,,,
+HRTX,"
+0.74
+",$18.40 ,HRTX - Heron Therapeutics,Hold/Accumulate,Downgraded, $17.41 (-5.38%),2.95%,undervalued list,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,undervalued list,,,,,,
+MEI,"
+0.56
+",$39.42 ,MEI - Methode Electronics Inc,Hold/Accumulate,Upgraded, $37.49 (-4.90%),9.94%,undervalued list,,,,,,
+LHCG,"
+0.42
+",$203.09 ,LHCG - LHC Group,Hold/Accumulate,Downgraded, $193.41 (-4.77%),,undervalued list,C,A,B,A,Bottom 32% (171 out of 253),2/25/21
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate ,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+BIIB,"
+6.32
+",$284.63 ,BIIB - Biogen Inc.,Strong Buy Candidate,Upgraded, $271.59 (-4.58%),17.11%,possible runner,,,,,,
+THG,"
+0.81
+",$115.75 ,THG - The Hanover Insurance Group Inc,Hold/Accumulate,Upgraded, $109.33 (-5.55%),,possible runner,,,,,,
+IAG,"
+0.45
+",$3.30 ,IAG - Iamgold Corporation,Hold/Accumulate,Upgraded, $3.15 (-4.54%),-3.68%,possible runner,,,,,,
+ASA,"
+2.11
+",$20.82 ,ASA - ASA Gold and Precious Metals Limited,Buy Candidate,Upgraded, $19.84 (-4.70%),3.08%,possible runner,,,,,,
+SA,"
+0.62
+",$18.71 ,SA - Seabridge Gold Inc,Hold/Accumulate,Upgraded, $17.72 (-5.31%),,possible runner,,,,,,
+POWL,"
+0.22
+",$29.85 ,POWL - Powell Industries,Hold/Accumulate,Unchanged, $28.63 (-4.08%),6.14%,possible runner,,,,,,
+CDK,"
+1.81
+",$51.93 ,CDK - CDK Global,Buy Candidate,Upgraded, $49.69 (-4.30%),5.32%,possible runner,,,,,,
+AAP,"
+2.16
+",$167.70 ,AAP - Advance Auto Parts Inc,Buy Candidate,Unchanged, $159.69 (-4.78%),5.03%,golden star long,,,,,,
+EUSGU,"
+0.29
+",$11.05 ,EUSGU - European Sustainable Growth Acquisition Corp.,Hold/Accumulate,Unchanged,$10.59(-4.14%),,golden star long,,,,,,
+MIN,"
+-0.89
+",$3.80 0.0000%,MIN - MFS Intermediate Income Trust,Hold/Accumulate,Unchanged, $3.65 (-3.89%),,golden star long,,,,,,
+SINA,"
+-0.27
+",$43.39 ,SINA - Sina Corporation,Hold/Accumulate,Unchanged, $41.84 (-3.58%),,golden star long,,,,,,
+SRCL,"
+-4.77
+",$67.78 ,SRCL - Stericycle,Sell Candidate,Unchanged," February 25, 2021",-4.28%,golden star long,,,,,,
+RC,"
+2.38
+",$13.28 ,RC - Ready Capital Corporation,Buy Candidate,Upgraded, $12.77 (-3.85%),,golden star long,,,,,,
+BKSC,"
+-1.21
+",$17.79 ,BKSC - Bank of South Carolina Corp.,Sell Candidate,Downgraded,Golden Star Signal*,7.77%,golden star long,,,,,,
+COWNZ,"
+-0.13
+",$25.54 ,COWNZ - Cowen Inc 7.35 % Notes 2017-15.12.27,Hold/Accumulate,Unchanged,$24.59(-3.71%),,golden star long,,,,,,
+TANNZ,"
+-0.39
+",$25.55 ,TANNZ - TravelCenters of America LLC 8.00% Senior Notes due 2030,Hold/Accumulate,Unchanged,$24.54(-3.93%),,golden star long,,,,,,
+UZC,"
+-1.06
+",$25.60 ,UZC - United States Cellular Corporation,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long,,,,,,
+JHS,"
+-0.23
+",$16.04 ,JHS - John Hancock Income Securities Trust,Hold/Accumulate,Upgraded,$15.52(-3.26%),,golden star long,,,,,,
+GOODN,"
+-0.35
+",$25.83 ,GOODN - Gladstone Commercial Corp,Hold/Accumulate,Unchanged,$24.70(-4.38%),,golden star long,,,,,,
+WMK,"
+2.62
+",$55.82 ,WMK - Weis Markets Inc,Buy Candidate,Unchanged, $53.75 (-3.71%),$56.39,golden star long,,,,,,
+DXCM,"
+3.07
+",$412.06 ,DXCM - DexCom,Buy Candidate,Downgraded, $394.24 (-4.32%),$420.35,golden star long,,,,,,
+CDXC,"
 0.00
-",EUSGU - European Sustainable Growth Acquisition Corp.,Hold/Accumulate,Unchanged,$10.68(-3.18%),,golden star short
-"
-0.40
-",SCM - Stellus Capital Investment Corporation,Hold/Accumulate,Downgraded, $11.06 (-3.94%),$11.68,golden star short
-"
-2.71
-",HLXA - Helix Acquisition Corp.,Buy Candidate,Upgraded,$12.14(-3.64%),$12.73,golden star short
-"
-3.27
-",MPV - Babson Capital Participation Investors,Buy Candidate,Upgraded, $11.58 (-4.65%),,golden star short
-"
--0.77
-",MIN - MFS Intermediate Income Trust,Hold/Accumulate,Unchanged, $3.67 (-3.54%),,golden star short
-"
+",$9.61 ,CDXC - ChromaDex Corporation,Hold/Accumulate,Unchanged, $9.30 (-3.26%),,golden star long,,,,,,
+EXR,"
+3.86
+",$120.74 ,EXR - Extra Space Storage Inc,Buy Candidate,Unchanged, $115.12 (-4.65%),$120.88,golden star long,,,,,,
+VEEV,"
+1.71
+",$293.11 ,VEEV - Veeva Systems Inc,Buy Candidate,Unchanged, $278.86 (-4.86%),14.07%,golden star long,,,,,,
+PYN,"
 0.05
-","WTW - Weight Watchers International, Inc",Hold/Accumulate,Unchanged,$25.86(-5.92%),-11.95%,golden star short
-"
-2.44
-",DL - China Distance Education Holdings Limited,Buy Candidate,Unchanged, $9.34 (-3.45%),5.98%,golden star short
-"
-0.05
-",WW - Weight Watchers International Inc.,Hold/Accumulate,Unchanged, $25.86 (-5.92%),-11.89%,golden star short
-"
-1.65
-",MCI - Babson Capital Corporate Investors,Buy Candidate,Unchanged, $12.75 (-5.36%),,golden star short
-"
--1.78
-",FTSM - FIRST TRUST ENHANCED SHORT MATURITY ETF,Sell Candidate,Downgraded,Golden Star Signal*,,golden star short
+",$9.11 ,PYN - PIMCO New York Municipal Income Fund III,Hold/Accumulate,Upgraded, $8.78 (-3.63%),4.5%,golden star long,,,,,,
+GBLIL,"
+0.28
+",$26.48 ,GBLIL - Global Indemnity Limited 7.875% Subordinated Notes due 2047,Hold/Accumulate,Upgraded,$25.44(-3.93%),,golden star long,,,,,,
+SCCC,"
+1.61
+",$25.54 ,SCCC - Sachem Capital Corp. 7.75% Note,Buy Candidate,Unchanged,$24.74(-3.17%),,golden star long,,,,,,
+GOODM,"
+-1.07
+",$25.25 0.0000%,GOODM - Gladstone Commercial Corporation Series D Cumulative Redeemable Preferred Stock,Sell Candidate,Unchanged,Golden Star Signal*,,golden star long,,,,,,
+EOT,"
+6.15
+",$22.00 ,EOT - Eaton Vance Municipal Income Trust,Strong Buy Candidate,Upgraded, $21.22 (-3.54%),$22.04,golden star long,,,,,,
+CTBB,"
+0.91
+",$25.75 ,CTBB - Qwest Corporation 6.5% Notes due 2056,Hold/Accumulate,Unchanged,$24.79(-3.74%),,golden star long,,,,,,
+DNP,"
+1.99
+",$10.57 ,DNP - Duff & Phelps Utilities Income Inc,Buy Candidate,Unchanged, $10.19 (-3.63%),,golden star long,,,,,,
+SJIU,"
+1.56
+",$41.64 ,SJIU - South Jersey Industries Inc. Equity Units Cons of 1/20 Nts 15.04.31 + 1 PC 15.04.21,Buy Candidate,Unchanged,$39.40(-5.38%),,golden star long,,,,,,
+CIX,"
+2.11
+",$14.40 ,CIX - CompX International Inc,Buy Candidate,Upgraded, $13.86 (-3.77%),,golden star short,,,,,,
+AL,"
+6.52
+",$46.49 ,AL - Air Lease Corporation,Strong Buy Candidate,Unchanged, $44.77 (-3.69%),$47.41,golden star short,,,,,,
+EPHYU,"
+0.78
+",$10.81 ,EPHYU - Epiphany Technology Acquisition Corp.,Hold/Accumulate,Unchanged,$10.24(-5.24%),,golden star short,,,,,,
+SIGI,"
+6.38
+",$68.39 ,SIGI - Selective Insurance Group, Strong Buy Candidate,Upgraded, $65.75 (-3.87%),3.35%,golden star short,,,,,,
+BLX,"
+1.33
+",$15.83 ,BLX - Banco Latinoamericano de Comercio Exterior SA,Buy Candidate,Downgraded, $15.42 (-2.56%),2.45%,golden star short,,,,,,
+RILYZ,"
+2.79
+",$25.25 ,"RILYZ - B. Riley Financial, Inc",Buy Candidate,Upgraded,$23.07(-8.64%),,golden star short,,,,,,
+SOGO,"
+-1.74
+",$8.35 ,SOGO - Sogou Inc.,Sell Candidate,Unchanged,Golden Star Signal*,-3.35%,golden star short,,,,,,
+ADP,"
+-0.07
+",$170.82 ,ADP - Automatic Data Processing,Hold/Accumulate,Unchanged, $164.51 (-3.69%),$172.25,golden star short,,,,,,
+LMRKO,"
+1.08
+",$25.27 ,LMRKO - Landmark Infrastructure Partners LP Preferred Units,Buy Candidate,Unchanged,$23.83(-5.70%),,golden star short,,,,,,
+GFNCP,"
+1.60
+",$102.48 ,GFNCP - General Finance Corporation,Buy Candidate,Unchanged,$99.02(-3.37%),2.31%,golden star short,,,,,,
+CBB,"
+1.21
+",$15.30 0.0000%,CBB - Cincinnati Bell Inc,Buy Candidate,Unchanged, $14.37 (-6.06%),,golden star short,,,,,,
+UFPT,"
+6.41
+",$49.14 ,UFPT - UFP Technologies,Strong Buy Candidate,Upgraded, $46.86 (-4.64%),3.12%,golden star short,,,,,,
+CFFN,"
+3.63
+",$13.09 ,CFFN - Capitol Federal Financial,Buy Candidate,Unchanged, $12.66 (-3.29%),4.74%,golden star short,,,,,,
+NVT,"
+0.00
+",$26.33 ,NVT - nVent Electric plc,Hold/Accumulate,Downgraded, $25.42 (-3.46%),,golden star short,,,,,,
+T,"
+1.60
+",$29.32 ,T - AT&T Inc,Buy Candidate,Unchanged, $28.01 (-4.46%),-2.60%,golden star short,,,,,,
+FRGAP,"
+-0.12
+",$25.26 ,FRGAP - Franchise Group Inc.,Hold/Accumulate,Downgraded,$24.00(-4.99%),-3.12%,golden star short,,,,,,
+CIF,"
+-1.06
+",$2.55 ,CIF - Colonial Intermediate High Income Fund,Sell Candidate,Downgraded,Golden Star Signal*,2.31%,golden star short,,,,,,
+EUSGU,"
+0.29
+",$11.05 ,EUSGU - European Sustainable Growth Acquisition Corp.,Hold/Accumulate,Unchanged,$10.59(-4.14%),,golden star short,,,,,,
+NVO,"
+1.84
+",$72.75 ,NVO - Novo Nordisk A/S,Buy Candidate,Unchanged, $69.09 (-5.03%),8.58%,golden star short,,,,,,
+SCM,"
+4.20
+",$11.74 ,SCM - Stellus Capital Investment Corporation,Buy Candidate,Upgraded, $11.28 (-3.93%),,golden star short,,,,,,
+HLXA,"
+4.73
+",$12.70 ,HLXA - Helix Acquisition Corp.,Buy Candidate,Unchanged,$12.33(-2.86%),$12.75,golden star short,,,,,,
+MIN,"
+-0.89
+",$3.80 0.0000%,MIN - MFS Intermediate Income Trust,Hold/Accumulate,Unchanged, $3.65 (-3.89%),,golden star short,,,,,,
+WW,"
+-1.73
+",$27.42 ,WW - Weight Watchers International Inc.,Sell Candidate,Downgraded,Golden Star Signal*,-11.80%,golden star short,,,,,,
+MCI,"
+3.07
+",$13.64 ,MCI - Babson Capital Corporate Investors,Buy Candidate,Unchanged, $12.93 (-5.19%),,golden star short,,,,,,
+FTSM,"
+-0.21
+",$60.04 ,FTSM - FIRST TRUST ENHANCED SHORT MATURITY ETF,Hold/Accumulate,Upgraded,$57.71(-3.88%),,golden star short,,,,,,
+NTR,,,,,,,,,B,A,A,A,Top 36% (90 out of 253),5/5/21
+AVIR,,,,,,,,,D,C,F,D,Bottom 22% (198 out of 253),3/11/21
+MIRM,,,,,,,,,F,D,A,D,Bottom 22% (198 out of 253),3/11/21
+AR,,,,,,,,,D,D,A,D,Top 34% (85 out of 253),5/5/21
+M,,,,,,,,,A,D,D,C,Top 42% (106 out of 253),2/23/21
+SAFM,,,,,,,,,C,A,F,A,Top 42% (106 out of 253),2/25/21
+QTWO,,,,,,,,,F,D,C,F,Top 42% (106 out of 253),5/5/21
+PORBF,,,,,,,,,C,C,F,C,Top 19% (48 out of 253),2/26/21
+CWH,,,,,,,,,A,A,A,A,Bottom 28% (182 out of 253),2/25/21
+RDFN,,,,,,,,,F,A,D,C,Bottom 37% (160 out of 253),2/24/21
+ELDN,,,,,,,,,F,B,A,C,Bottom 22% (198 out of 253),3/16/21
+HES,,,,,,,,,D,D,B,D,Top 42% (106 out of 253),5/6/21
+ZG,,,,,,,,,F,B,B,C,Bottom 35% (164 out of 253),5/6/21
+CNQ,,,,,,,,,B,F,B,C,Top 8% (19 out of 253),3/4/21
+USAK,,,,,,,,,A,B,D,A,Top 12% (31 out of 253),5/6/21
+CSTL,,,,,,,,,D,D,D,D,Bottom 22% (198 out of 253),3/9/21
+DRI,,,,,,,,,D,F,D,F,Bottom 6% (239 out of 253),3/18/21
+MOS,,,,,,,,,B,C,A,A,Top 36% (90 out of 253),5/3/21
+MGY,,,,,,,,,C,B,C,B,Top 34% (85 out of 253),2/23/21
+RYN,,,,,,,,,F,F,B,F,Top 10% (25 out of 253),5/5/21
+AUTO,,,,,,,,,D,A,B,B,Bottom 11% (225 out of 253),3/26/21
+CUB,,,,,,,,,C,C,B,C,Top 40% (101 out of 253),5/5/21
+OPCH,,,,,,,,,C,A,B,A,Bottom 15% (216 out of 253),3/11/21
+DIS,,,,,,,,,D,D,A,D,Bottom 13% (219 out of 253),5/4/21
+ORTX,,,,,,,,,F,F,A,F,Bottom 22% (198 out of 253),2/25/21
+FUBO,,,,,,,,,F,F,B,F,Bottom 25% (190 out of 253),3/2/21
+CYH,,,,,,,,,A,A,A,A,Top 19% (49 out of 253),4/27/21
+EXFO,,,,,,,,,C,D,F,D,Top 26% (67 out of 253),4/6/21
+MRNA,,,,,,,,,D,C,D,D,Bottom 22% (198 out of 253),2/25/21
+AER,,,,,,,,,A,F,D,C,Top 42% (106 out of 253),3/2/21
+OPRT,,,,,,,,,A,D,A,A,Top 41% (104 out of 253),5/13/21
+CF,,,,,,,,,B,C,B,B,Top 36% (90 out of 253),5/5/21
+CMBM,,,,,,,,,F,A,C,C,Top 19% (49 out of 253),5/11/21
+MNRL,,,,,,,,,D,F,A,F,Bottom 38% (156 out of 253),2/24/21
+BNTX,,,,,,,,,C,F,F,F,Bottom 22% (198 out of 253),3/30/21
+ADDYY,,,,,,,,,D,F,D,F,Bottom 18% (208 out of 253),3/10/21
+HEXO,,,,,,,,,F,A,A,B,Bottom 38% (158 out of 253),3/29/21
+NVCR,,,,,,,,,F,A,A,B,Bottom 32% (171 out of 253),2/25/21
+PVAC,,,,,,,,,A,C,A,B,Top 34% (85 out of 253),2/25/21
+WHD,,,,,,,,,D,D,D,F,Top 42% (106 out of 253),2/24/21
+TOT,,,,,,,,,B,C,D,C,Top 16% (41 out of 253),5/4/21
+OVV,,,,,,,,,D,C,A,C,Top 8% (19 out of 253),5/6/21
+TECK,,,,,,,,,A,D,A,B,Bottom 38% (156 out of 253),4/20/21
+OPEN,,,,,,,,,C,C,B,C,Bottom 18% (208 out of 253),3/4/21
+KOD,,,,,,,,,C,F,D,F,Bottom 22% (198 out of 253),3/15/21
+XONE,,,,,,,,,F,D,A,F,Top 42% (106 out of 253),3/11/21
+BBBY,,,,,,,,,B,C,B,B,Bottom 28% (182 out of 253),4/21/21
+ALXO,,,,,,,,,C,D,A,C,Bottom 22% (198 out of 253),2/25/21
+HL,,,,,,,,,D,A,F,C,Bottom 1% (251 out of 253),5/6/21
+TITN,,,,,,,,,A,A,A,A,Top 11% (27 out of 253),3/25/21
+PS,,,,,,,,,F,A,C,C,Bottom 18% (208 out of 253),5/5/21
+USNZY,,,,,,,,,B,B,A,A,Top 26% (65 out of 253),2/26/21
+VET,,,,,,,,,B,D,C,C,Top 34% (85 out of 253),3/5/21
+PLUS,,,,,,,,,C,F,A,D,Top 42% (106 out of 253),5/20/21
+RDS.A,,,,,,,,,A,D,B,C,Top 16% (41 out of 253),4/29/21
+FE,,,,,,,,,B,D,D,C,Bottom 19% (206 out of 253),4/22/21
+BLDP,,,,,,,,,F,F,A,F,Top 31% (78 out of 253),3/10/21
+PLUG,,,,,,,,,F,F,A,F,Top 30% (76 out of 253),2/25/21
+TTWO,,,,,,,,,F,B,C,C,Top 36% (92 out of 253),5/19/21
+IQ,,,,,,,,,F,D,A,D,Top 42% (106 out of 253),5/17/21
+DBX,,,,,,,,,D,A,A,B,Bottom 35% (164 out of 253),5/6/21
+EOG,,,,,,,,,C,D,D,D,Top 34% (85 out of 253),2/25/21
+TVTX,,,,,,,,,F,C,F,F,Bottom 22% (198 out of 253),3/1/21
+TACO,,,,,,,,,B,A,F,B,Bottom 6% (239 out of 253),3/10/21
+LAC,,,,,,,,,F,F,A,F,Top 24% (61 out of 253),3/12/21
+HCCI,,,,,,,,,C,D,D,D,Top 19% (49 out of 253),3/1/21
+ATI,,,,,,,,,D,B,B,B,Bottom 3% (245 out of 253),5/4/21
+ALBO,,,,,,,,,F,F,A,F,Bottom 22% (198 out of 253),2/25/21
+AMRX,,,,,,,,,A,A,B,A,Bottom 25% (190 out of 253),2/26/21
+FLMN,,,,,,,,,C,F,F,F,Bottom 22% (198 out of 253),3/8/21
+NEP,,,,,,,,,B,C,C,B,Top 40% (101 out of 253),4/28/21
+ROG,,,,,,,,,D,B,C,C,Top 31% (78 out of 253),4/29/21
+BCEL,,,,,,,,,F,D,B,F,Bottom 22% (198 out of 253),3/10/21
+BCEI,,,,,,,,,A,B,F,B,Top 34% (85 out of 253),5/6/21
+CDEV,,,,,,,,,B,F,A,C,Top 34% (85 out of 253),2/23/21
+ICPT,,,,,,,,,F,B,B,C,Bottom 22% (198 out of 253),2/25/21
+MWK,,,,,,,,,D,A,B,B,Bottom 35% (165 out of 253),3/4/21
+LNG,,,,,,,,,B,F,A,C,Top 34% (85 out of 253),2/24/21
+AMC,,,,,,,,,D,F,F,F,Bottom 28% (182 out of 253),2/25/21
+ALRN,,,,,,,,,F,C,A,C,Bottom 22% (198 out of 253),3/29/21
+TWO,,,,,,,,,B,D,F,C,Bottom 26% (188 out of 253),5/5/21
+CRWD,,,,,,,,,F,B,D,D,Bottom 29% (180 out of 253),3/16/21
+TALO,,,,,,,,,B,C,B,B,Top 34% (85 out of 253),3/10/21
+SLF,,,,,,,,,A,C,C,B,Top 42% (106 out of 253),5/4/21
+MIME,,,,,,,,,F,A,C,C,Bottom 29% (180 out of 253),5/10/21
+WNEB,,,,,,,,,C,D,B,C,Top 23% (58 out of 253),4/27/21
+XLRN,,,,,,,,,D,F,D,F,Bottom 22% (198 out of 253),2/25/21
+EAR,,,,,,,,,D,C,F,F,Bottom 32% (172 out of 253),2/25/21
+SWN,,,,,,,,,A,B,A,A,Top 34% (85 out of 253),2/25/21
+BPFH,,,,,,,,,C,F,C,D,Top 7% (18 out of 253),5/5/21
+PEN,,,,,,,,,F,F,F,F,Bottom 32% (172 out of 253),2/23/21
+MTN,,,,,,,,,D,C,C,D,Bottom 28% (182 out of 253),3/11/21
+BKR,,,,,,,,,B,B,C,A,Bottom 22% (198 out of 253),4/28/21
+CAMT,,,,,,,,,D,B,B,C,Top 18% (45 out of 253),5/10/21
+USX,,,,,,,,,A,A,F,A,Top 39% (98 out of 253),4/29/21
+FMBH,,,,,,,,,B,F,B,D,Top 7% (18 out of 253),4/29/21
+FND,,,,,,,,,F,A,A,B,Top 10% (25 out of 253),2/25/21
+DVN,,,,,,,,,D,D,A,C,Top 34% (85 out of 253),5/4/21
+CNP,,,,,,,,,B,D,B,B,Bottom 19% (206 out of 253),2/25/21
+OR,,,,,,,,,D,C,A,C,Bottom 15% (215 out of 253),2/24/21
+SWCH,,,,,,,,,D,B,C,C,Bottom 18% (208 out of 253),2/25/21
+TRGP,,,,,,,,,B,B,A,A,Bottom 4% (242 out of 253),5/6/21
+REZI,,,,,,,,,B,B,D,B,Top 23% (58 out of 253),2/25/21
+EC,,,,,,,,,A,F,B,C,Top 14% (35 out of 253),2/23/21
+OTIC,,,,,,,,,F,C,A,D,Bottom 25% (190 out of 253),5/6/21
+RKT,,,,,,,,,C,F,C,D,Bottom 18% (208 out of 253),2/25/21
+ZYME,,,,,,,,,F,D,F,F,Bottom 22% (198 out of 253),3/1/21
+TTD,,,,,,,,,F,A,A,B,Bottom 35% (164 out of 253),5/6/21
+SQZ,,,,,,,,,D,C,A,C,Bottom 22% (198 out of 253),3/11/21
+RES,,,,,,,,,B,A,B,A,Bottom 22% (198 out of 253),5/5/21
+SPCE,,,,,,,,,F,D,A,D,Bottom 15% (216 out of 253),2/25/21
+WAFD,,,,,,,,,C,C,B,C,Top 7% (18 out of 253),4/20/21
+NWE,,,,,,,,,C,F,D,D,Bottom 19% (206 out of 253),4/28/21
+FOR,,,,,,,,,D,D,C,D,Top 34% (85 out of 253),4/22/21
+WTFC,,,,,,,,,D,F,F,F,Top 6% (15 out of 253),4/20/21
+ANF,,,,,,,,,B,B,F,B,Top 25% (62 out of 253),3/2/21
+BNGO,,,,,,,,,D,D,F,F,Bottom 22% (198 out of 253),3/9/21
+AEE,,,,,,,,,B,F,D,D,Bottom 19% (206 out of 253),5/10/21
+TWOU,,,,,,,,,F,C,A,D,Bottom 29% (180 out of 253),4/29/21
+WB,,,,,,,,,D,D,C,D,Bottom 15% (216 out of 253),2/24/21
+ZBRA,,,,,,,,,D,A,C,B,Bottom 8% (233 out of 253),4/27/21
+R,,,,,,,,,A,C,C,A,Top 24% (60 out of 253),5/5/21
+TGT,,,,,,,,,B,A,F,B,Top 36% (92 out of 253),3/2/21
+FSV,,,,,,,,,D,A,D,B,Bottom 37% (160 out of 253),4/22/21
+HBCP,,,,,,,,,B,F,B,D,Top 2% (5 out of 253),4/27/21
+ENDP,,,,,,,,,A,F,D,C,Bottom 25% (190 out of 253),2/25/21
+DOW,,,,,,,,,B,B,A,A,Top 24% (61 out of 253),4/29/21
+XAIR,,,,,,,,,F,D,D,F,Bottom 22% (198 out of 253),6/28/21
+NCLH,,,,,,,,,F,F,F,F,Bottom 28% (182 out of 253),2/25/21
+OPK,,,,,,,,,C,A,A,A,Bottom 32% (172 out of 253),5/5/21
+BBDC,,,,,,,,,C,F,B,F,Bottom 38% (157 out of 253),3/24/21
+INDB,,,,,,,,,D,F,D,F,Top 7% (18 out of 253),4/22/21
+ATH,,,,,,,,,B,F,A,D,Top 42% (106 out of 253),5/14/21
+NTRA,,,,,,,,,F,F,B,F,Bottom 32% (171 out of 253),2/25/21
+BURL,,,,,,,,,D,D,F,F,Top 36% (92 out of 253),3/4/21
+BLD,,,,,,,,,D,B,B,B,Top 19% (49 out of 253),2/23/21
+BDC,,,,,,,,,A,B,F,A,Top 2% (6 out of 253),5/5/21
+HASI,,,,,,,,,F,D,A,D,Bottom 26% (188 out of 253),5/6/21
+SKY,,,,,,,,,F,A,D,C,Top 2% (4 out of 253),5/19/21
+CHMG,,,,,,,,,A,F,B,C,Top 2% (5 out of 253),5/3/21
+SRE,,,,,,,,,C,F,C,D,Top 25% (64 out of 253),2/25/21
+STOK,,,,,,,,,D,F,D,F,Bottom 22% (198 out of 253),3/22/21
+POOL,,,,,,,,,D,B,A,B,Top 13% (33 out of 253),4/22/21
+TMUS,,,,,,,,,B,C,C,B,Top 19% (49 out of 253),5/5/21
+XOM,,,,,,,,,C,D,C,D,Top 16% (41 out of 253),5/7/21
+VIPS,,,,,,,,,C,A,F,B,Bottom 28% (182 out of 253),2/25/21
+BLK,,,,,,,,,D,F,A,D,Top 16% (41 out of 253),4/15/21
+BTG,,,,,,,,,A,A,B,A,Bottom 15% (215 out of 253),2/23/21
+FVCB,,,,,,,,,C,D,A,C,Top 2% (5 out of 253),4/22/21
+RMAX,,,,,,,,,B,C,D,C,Bottom 37% (160 out of 253),2/25/21
+PINE,,,,,,,,,D,D,A,F,Bottom 10% (228 out of 253),4/26/21
+OMP,,,,,,,,,A,C,A,A,Bottom 25% (190 out of 253),2/24/21
+AMED,,,,,,,,,D,A,B,B,Bottom 15% (216 out of 253),2/24/21
+ITCI,,,,,,,,,F,F,C,F,Bottom 22% (198 out of 253),2/25/21
+DTE,,,,,,,,,B,C,F,C,Bottom 19% (206 out of 253),4/27/21
+NKTR,,,,,,,,,F,D,B,F,Bottom 25% (190 out of 253),2/25/21
+RBNC,,,,,,,,,C,D,B,D,Top 2% (5 out of 253),4/26/21
+SDC,,,,,,,,,F,B,F,D,Top 27% (68 out of 253),3/4/21
+RBC,,,,,,,,,B,B,B,B,Top 30% (76 out of 253),5/3/21
+MDRX,,,,,,,,,C,B,B,B,Bottom 10% (228 out of 253),2/25/21
+UCBI,,,,,,,,,C,F,D,F,Top 7% (18 out of 253),4/20/21
+SCL,,,,,,,,,B,B,F,B,Top 24% (61 out of 253),4/20/21
+STL,,,,,,,,,B,F,C,C,Top 7% (18 out of 253),4/26/21
+CTLT,,,,,,,,,C,B,A,B,Bottom 25% (190 out of 253),5/4/21
+CFG,,,,,,,,,F,F,D,F,Top 9% (24 out of 253),4/16/21
+LOW,,,,,,,,,B,A,B,A,Top 37% (94 out of 253),2/24/21
+TSC,,,,,,,,,B,F,A,C,Top 7% (18 out of 253),4/19/21
+NEE,,,,,,,,,D,D,C,F,Bottom 19% (206 out of 253),4/28/21
+MFC,,,,,,,,,A,F,A,B,Top 42% (106 out of 253),5/5/21
+CHNG,,,,,,,,,C,B,D,B,Bottom 10% (228 out of 253),6/2/21
+COF,,,,,,,,,A,C,F,C,Top 17% (43 out of 253),4/22/21
+AUPH,,,,,,,,,F,F,F,F,Bottom 25% (190 out of 253),2/24/21
+ICBK,,,,,,,,,B,C,C,B,Top 7% (18 out of 253),4/29/21
+PRPL,,,,,,,,,D,A,C,B,Bottom 35% (165 out of 253),3/4/21
+PZZA,,,,,,,,,C,A,A,A,Bottom 6% (239 out of 253),2/25/21
+CPRT,,,,,,,,,D,C,A,C,Top 42% (106 out of 253),5/19/21
+AZO,,,,,,,,,B,A,C,A,Top 42% (106 out of 253),3/2/21
+WETF,,,,,,,,,D,F,B,F,Top 1% (3 out of 253),5/7/21
+CEQP,,,,,,,,,A,D,A,B,Bottom 25% (190 out of 253),2/23/21
+RS,,,,,,,,,B,B,A,A,Top 19% (49 out of 253),4/22/21
+STN,,,,,,,,,B,B,C,A,Top 42% (106 out of 253),2/24/21
+EQ,,,,,,,,,D,C,A,D,Bottom 22% (198 out of 253),3/25/21
+INO,,,,,,,,,F,F,A,F,Bottom 22% (198 out of 253),3/1/21
+BOKF,,,,,,,,,C,F,C,D,Top 10% (26 out of 253),4/28/21
+KAI,,,,,,,,,F,C,B,D,Top 34% (85 out of 253),5/5/21
+IT,,,,,,,,,D,B,B,B,Top 42% (106 out of 253),5/6/21
+BFS,,,,,,,,,B,F,F,F,Bottom 13% (219 out of 253),2/25/21
+KEYS,,,,,,,,,D,C,A,C,Top 18% (45 out of 253),5/25/21
+EQT,,,,,,,,,B,D,A,B,Top 34% (85 out of 253),5/6/21
+BLDR,,,,,,,,,A,B,B,A,Top 37% (94 out of 253),2/26/21
+PUBM,,,,,,,,,D,F,B,F,Bottom 29% (180 out of 253),2/23/21
+TCF,,,,,,,,,D,F,F,F,Top 7% (18 out of 253),4/26/21
+TBK,,,,,,,,,F,C,F,F,Top 2% (5 out of 253),4/19/21
+IBP,,,,,,,,,C,A,D,A,Top 19% (49 out of 253),2/24/21
+CSX,,,,,,,,,B,D,D,C,Bottom 20% (203 out of 253),4/28/21
+LYB,,,,,,,,,A,C,C,B,Top 24% (61 out of 253),5/7/21
+HBAN,,,,,,,,,B,F,D,D,Top 6% (15 out of 253),4/22/21
+PXD,,,,,,,,,C,D,D,D,Top 34% (85 out of 253),2/23/21
+CTBI,,,,,,,,,B,D,D,D,Top 2% (5 out of 253),4/28/21
+RNST,,,,,,,,,C,F,B,D,Top 2% (5 out of 253),4/27/21
+CCMP,,,,,,,,,C,B,A,B,Top 40% (101 out of 253),5/5/21
+DKS,,,,,,,,,A,B,C,A,Bottom 28% (182 out of 253),3/9/21
+PNC,,,,,,,,,C,F,B,D,Top 18% (45 out of 253),4/21/21
+AXON,,,,,,,,,F,F,F,F,Top 23% (58 out of 253),2/25/21
+NGD,,,,,,,,,A,A,A,A,Bottom 15% (215 out of 253),5/5/21
+PKI,,,,,,,,,B,A,A,A,Top 36% (90 out of 253),5/4/21
+BV,,,,,,,,,B,C,F,C,Bottom 11% (225 out of 253),5/6/21
+HEI,,,,,,,,,D,D,F,F,Top 32% (82 out of 253),2/23/21
+GLOB,,,,,,,,,D,B,A,B,Bottom 13% (219 out of 253),5/13/21
+FRC,,,,,,,,,D,D,F,F,Top 7% (17 out of 253),4/13/21
+OLLI,,,,,,,,,C,B,F,D,Bottom 35% (165 out of 253),3/18/21
+HAE,,,,,,,,,D,C,D,C,Bottom 38% (158 out of 253),5/4/21
+UGI,,,,,,,,,B,D,F,C,Top 25% (64 out of 253),5/5/21
+APPS,,,,,,,,,F,A,B,B,Bottom 29% (180 out of 253),6/1/21
+MSGN,,,,,,,,,A,D,D,B,Top 42% (106 out of 253),5/7/21
+WTRG,,,,,,,,,D,D,C,D,Bottom 25% (190 out of 253),2/24/21
+LXRX,,,,,,,,,C,B,B,B,Bottom 22% (198 out of 253),3/11/21
+ASB,,,,,,,,,B,F,D,D,Top 6% (15 out of 253),4/22/21
+BP,,,,,,,,,A,C,D,B,Top 16% (41 out of 253),4/27/21
+CLB,,,,,,,,,D,D,B,D,Bottom 22% (198 out of 253),4/28/21
+BAC,,,,,,,,,F,F,B,F,Top 18% (45 out of 253),4/21/21
+BRX,,,,,,,,,B,F,D,D,Bottom 13% (219 out of 253),5/6/21
+RWT,,,,,,,,,F,F,A,F,Bottom 26% (188 out of 253),5/6/21
+UNP,,,,,,,,,B,C,B,B,Bottom 20% (203 out of 253),4/22/21
+KKR,,,,,,,,,F,D,A,F,Top 16% (41 out of 253),5/5/21
+DE,,,,,,,,,B,B,A,A,Top 19% (49 out of 253),5/28/21
+MCFE,,,,,,,,,B,D,A,B,Bottom 29% (180 out of 253),2/23/21
+PLYA,,,,,,,,,D,F,A,F,Bottom 4% (244 out of 253),3/1/21
+QTS,,,,,,,,,D,C,F,D,Bottom 10% (228 out of 253),4/26/21
+ATUS,,,,,,,,,A,B,D,A,Top 26% (67 out of 253),4/29/21
+LPRO,,,,,,,,,F,A,B,C,Top 17% (43 out of 253),3/9/21
+MEOH,,,,,,,,,A,C,B,B,Top 24% (61 out of 253),5/4/21
+FITB,,,,,,,,,B,F,A,C,Top 18% (45 out of 253),4/20/21
+MASI,,,,,,,,,D,D,B,D,Bottom 32% (172 out of 253),2/23/21
+PGRE,,,,,,,,,B,D,C,B,Bottom 10% (228 out of 253),5/5/21
+VICI,,,,,,,,,C,D,D,D,Bottom 10% (228 out of 253),4/29/21
+THO,,,,,,,,,B,B,A,A,Top 2% (4 out of 253),3/8/21
+CRK,,,,,,,,,A,C,F,B,Top 34% (85 out of 253),5/5/21
+TX,,,,,,,,,A,A,A,A,Top 26% (65 out of 253),2/23/21
+LULU,,,,,,,,,D,F,C,F,Top 25% (62 out of 253),3/25/21
+NYCB,,,,,,,,,B,F,B,D,Top 9% (24 out of 253),5/5/21
+C,,,,,,,,,D,F,B,F,Top 18% (45 out of 253),4/21/21
+EGOV,,,,,,,,,D,D,C,D,Bottom 29% (180 out of 253),4/26/21
+MKL,,,,,,,,,C,B,C,B,Top 42% (105 out of 253),4/27/21
+HUM,,,,,,,,,A,B,D,A,Bottom 18% (208 out of 253),5/5/21
+ALLY,,,,,,,,,A,D,F,C,Top 17% (43 out of 253),4/19/21
+AGNC,,,,,,,,,A,D,B,B,Bottom 26% (188 out of 253),5/5/21
+LUMN,,,,,,,,,A,B,B,A,Bottom 18% (208 out of 253),5/5/21
+MTSI,,,,,,,,,D,A,A,A,Top 14% (35 out of 253),5/5/21
+KSS,,,,,,,,,A,D,B,B,Top 42% (106 out of 253),3/2/21
+GAIN,,,,,,,,,D,C,C,D,Bottom 38% (157 out of 253),5/11/21
+MTDR,,,,,,,,,C,D,C,C,Top 34% (85 out of 253),2/23/21
+CE,,,,,,,,,B,D,B,C,Top 42% (106 out of 253),4/26/21
+RY,,,,,,,,,C,C,C,C,Top 23% (58 out of 253),2/24/21
+ENB,,,,,,,,,C,F,B,C,Top 35% (89 out of 253),5/6/21
+OHI,,,,,,,,,C,D,B,C,Bottom 10% (228 out of 253),5/3/21
+KHC,,,,,,,,,B,B,A,A,Bottom 28% (182 out of 253),4/29/21
+SCHN,,,,,,,,,B,A,B,A,Top 26% (65 out of 253),4/1/21
+ALDX,,,,,,,,,D,C,B,C,Bottom 25% (190 out of 253),3/11/21
+SAFE,,,,,,,,,F,D,A,F,Bottom 26% (188 out of 253),4/22/21
+KEY,,,,,,,,,C,D,F,D,Top 18% (45 out of 253),4/20/21
+OCSL,,,,,,,,,D,F,B,D,Top 41% (104 out of 253),5/6/21
+STT,,,,,,,,,B,F,A,C,Top 18% (45 out of 253),4/16/21
+COST,,,,,,,,,B,A,A,A,Top 36% (92 out of 253),3/4/21
+LPLA,,,,,,,,,B,A,D,A,Top 1% (3 out of 253),4/29/21
+U,,,,,,,,,F,F,C,F,Bottom 29% (180 out of 253),5/6/21
+EXPD,,,,,,,,,B,B,A,A,Top 39% (98 out of 253),5/4/21
+MBUU,,,,,,,,,C,B,D,B,Top 13% (33 out of 253),5/6/21
+BX,,,,,,,,,D,B,C,B,Top 16% (41 out of 253),4/22/21
+ADSK,,,,,,,,,F,B,D,C,Bottom 34% (168 out of 253),2/25/21
+VG,,,,,,,,,C,D,A,C,Bottom 13% (219 out of 253),5/6/21
+NOMD,,,,,,,,,B,C,A,A,Bottom 28% (182 out of 253),2/25/21
+BHVN,,,,,,,,,F,D,F,F,Bottom 22% (198 out of 253),2/23/21
+BSET,,,,,,,,,B,A,F,B,Top 42% (106 out of 253),4/1/21
+DOOR,,,,,,,,,B,A,D,A,Top 10% (25 out of 253),2/24/21
+XRAY,,,,,,,,,C,C,B,C,Top 27% (68 out of 253),3/1/21
+SAGE,,,,,,,,,F,D,B,F,Bottom 25% (190 out of 253),2/24/21
+HD,,,,,,,,,B,A,A,A,Top 37% (94 out of 253),2/23/21
+IIVI,,,,,,,,,D,A,C,B,Top 30% (76 out of 253),5/10/21
+DLTR,,,,,,,,,B,B,B,A,Top 36% (92 out of 253),3/3/21
+REPL,,,,,,,,,D,F,F,F,Bottom 22% (198 out of 253),6/2/21
+NMIH,,,,,,,,,B,C,A,B,Top 42% (105 out of 253),5/5/21
+INVH,,,,,,,,,D,C,B,C,Bottom 9% (230 out of 253),5/5/21
+BMTC,,,,,,,,,B,F,F,F,Top 7% (18 out of 253),4/19/21
+FNV,,,,,,,,,D,B,A,C,Bottom 15% (215 out of 253),3/8/21
+ANET,,,,,,,,,C,B,A,B,Top 26% (67 out of 253),5/4/21
+FCPT,,,,,,,,,D,D,D,F,Bottom 10% (228 out of 253),5/5/21
+SJI,,,,,,,,,B,F,D,D,Top 25% (64 out of 253),2/24/21
+MNST,,,,,,,,,D,B,B,C,Bottom 36% (162 out of 253),2/25/21
+ALXN,,,,,,,,,A,A,B,A,Bottom 22% (198 out of 253),5/5/21
+ANSS,,,,,,,,,D,D,D,F,Bottom 34% (168 out of 253),2/24/21
+PHM,,,,,,,,,A,A,B,A,Top 13% (34 out of 253),4/22/21
+WERN,,,,,,,,,A,A,A,A,Top 12% (31 out of 253),4/27/21
+DNB,,,,,,,,,C,B,B,C,Bottom 28% (182 out of 253),5/10/21
+PSA,,,,,,,,,D,D,D,D,Bottom 10% (228 out of 253),2/24/21
+TSCO,,,,,,,,,B,A,B,A,Bottom 28% (182 out of 253),4/22/21
+HUBS,,,,,,,,,F,B,F,D,Bottom 29% (180 out of 253),5/5/21
+PAHC,,,,,,,,,A,B,B,A,Bottom 38% (158 out of 253),5/6/21
+SJM,,,,,,,,,B,D,A,B,Bottom 28% (182 out of 253),2/25/21
+TRP,,,,,,,,,B,D,D,C,Top 40% (101 out of 253),5/7/21
+DT,,,,,,,,,F,B,C,D,Bottom 37% (160 out of 253),5/11/21
+NUAN,,,,,,,,,D,D,C,D,Bottom 34% (168 out of 253),5/6/21
+CTAS,,,,,,,,,D,B,B,C,Top 42% (106 out of 253),3/18/21
+KMI,,,,,,,,,C,C,F,D,Top 35% (89 out of 253),4/28/21
+MKC,,,,,,,,,C,B,B,B,Bottom 28% (182 out of 253),3/30/21
+MSCI,,,,,,,,,F,B,D,D,Top 42% (106 out of 253),4/27/21
+GSL,,,,,,,,,A,B,A,A,Bottom 25% (190 out of 253),3/4/21
+WSM,,,,,,,,,B,A,F,A,Top 2% (6 out of 253),3/17/21
+DHI,,,,,,,,,B,C,A,A,Top 13% (34 out of 253),4/27/21
+MCFT,,,,,,,,,C,A,A,A,Top 13% (33 out of 253),5/5/21
+FR,,,,,,,,,D,F,A,D,Bottom 10% (228 out of 253),4/28/21
+ARCC,,,,,,,,,D,F,A,F,Bottom 38% (157 out of 253),5/4/21
+AAN,,,,,,,,,A,C,C,A,Bottom 11% (225 out of 253),2/23/21
+EFX,,,,,,,,,C,A,A,A,Bottom 36% (162 out of 253),4/19/21
+MWA,,,,,,,,,B,B,B,B,Top 42% (106 out of 253),5/3/21
+SSB,,,,,,,,,B,D,B,C,Top 2% (5 out of 253),4/22/21
+KALV,,,,,,,,,F,D,A,D,Bottom 25% (190 out of 253),3/9/21
+WDAY,,,,,,,,,F,A,D,C,Bottom 29% (180 out of 253),2/25/21
+IPHI,,,,,,,,,D,A,D,C,Top 14% (35 out of 253),5/6/21
+UTHR,,,,,,,,,B,B,C,B,Bottom 25% (190 out of 253),2/24/21
+WCN,,,,,,,,,C,D,A,C,Bottom 29% (179 out of 253),5/5/21
+WBS,,,,,,,,,D,F,F,F,Top 7% (18 out of 253),4/20/21
+NDAQ,,,,,,,,,D,F,A,D,Top 42% (106 out of 253),4/28/21
+AFL,,,,,,,,,A,D,F,C,Bottom 25% (190 out of 253),5/5/21
+MRCY,,,,,,,,,D,D,B,C,Top 30% (76 out of 253),4/27/21
+DG,,,,,,,,,B,A,B,A,Top 36% (92 out of 253),3/18/21
+PGR,,,,,,,,,B,C,A,A,Top 42% (105 out of 253),4/21/21
+HAIN,,,,,,,,,D,A,C,B,Bottom 28% (182 out of 253),5/6/21
+KNX,,,,,,,,,A,A,C,A,Top 12% (31 out of 253),4/28/21
+PDM,,,,,,,,,B,F,B,C,Bottom 10% (228 out of 253),5/5/21
+PB,,,,,,,,,B,D,B,C,Top 10% (26 out of 253),5/5/21
+HZO,,,,,,,,,A,A,D,A,Bottom 28% (182 out of 253),4/22/21
+WTI,,,,,,,,,B,D,A,B,Top 34% (85 out of 253),3/3/21
+WNS,,,,,,,,,C,B,C,B,Bottom 30% (176 out of 253),4/22/21
+MANH,,,,,,,,,D,A,A,B,Bottom 34% (168 out of 253),4/20/21
+WM,,,,,,,,,B,C,A,B,Bottom 29% (179 out of 253),5/5/21
+FCCO,,,,,,,,,D,F,B,F,Top 2% (5 out of 253),4/28/21
+KN,,,,,,,,,C,A,D,B,Top 26% (67 out of 253),5/3/21
+AINV,,,,,,,,,A,B,C,A,Bottom 38% (157 out of 253),5/20/21
+PACW,,,,,,,,,B,D,F,D,Top 7% (17 out of 253),4/20/21
+RMR,,,,,,,,,B,A,A,A,Bottom 37% (160 out of 253),5/10/21
+SBNY,,,,,,,,,B,D,C,C,Top 7% (18 out of 253),4/22/21
+AMCR,,,,,,,,,B,A,F,B,Top 26% (65 out of 253),5/10/21
+LII,,,,,,,,,C,A,A,A,Top 42% (106 out of 253),4/19/21
+ORLY,,,,,,,,,B,B,A,A,Top 42% (106 out of 253),4/28/21
+FL,,,,,,,,,A,C,C,B,Top 25% (62 out of 253),2/26/21
+BSBR,,,,,,,,,A,F,A,C,Top 23% (58 out of 253),2/26/21
+BRO,,,,,,,,,D,C,C,D,Bottom 32% (172 out of 253),4/26/21
+PH,,,,,,,,,C,B,A,B,Top 34% (85 out of 253),4/29/21
+LYRA,,,,,,,,,D,D,A,D,Bottom 25% (190 out of 253),2/23/21
+MGP,,,,,,,,,B,D,B,C,Bottom 10% (228 out of 253),5/4/21
+KL,,,,,,,,,B,B,D,A,Bottom 15% (215 out of 253),2/25/21
+ARES,,,,,,,,,D,D,A,C,Top 16% (41 out of 253),5/5/21
+AGCO,,,,,,,,,A,A,C,A,Top 19% (49 out of 253),5/4/21
+XLNX,,,,,,,,,D,B,C,C,Top 42% (106 out of 253),4/28/21
+CBOE,,,,,,,,,C,A,B,B,Top 42% (106 out of 253),5/7/21
+RF,,,,,,,,,A,C,B,B,Top 2% (5 out of 253),4/16/21
+BUSE,,,,,,,,,B,F,B,C,Top 6% (15 out of 253),4/27/21
+WDR,,,,,,,,,B,B,D,B,Top 16% (41 out of 253),4/27/21
+CARG,,,,,,,,,D,A,D,B,Bottom 18% (208 out of 253),5/6/21
+EPRT,,,,,,,,,D,D,B,D,Bottom 37% (160 out of 253),2/23/21
+MANT,,,,,,,,,B,C,B,B,Bottom 25% (190 out of 253),5/5/21
+CUBE,,,,,,,,,D,D,B,D,Bottom 10% (228 out of 253),2/25/21
+CRTO,,,,,,,,,C,C,B,C,Bottom 13% (219 out of 253),5/5/21
+BK,,,,,,,,,B,D,B,B,Top 18% (45 out of 253),4/16/21
+PLD,,,,,,,,,D,D,B,D,Bottom 10% (228 out of 253),4/20/21
+VZ,,,,,,,,,A,C,A,A,Top 19% (49 out of 253),4/23/21
+DRE,,,,,,,,,D,D,B,D,Bottom 10% (228 out of 253),5/5/21
+K,,,,,,,,,B,D,F,C,Bottom 28% (182 out of 253),4/29/21
+ABG,,,,,,,,,A,A,F,A,Top 11% (27 out of 253),5/4/21
+TCBI,,,,,,,,,C,D,C,C,Top 10% (26 out of 253),4/28/21
+ENSG,,,,,,,,,B,A,D,A,Bottom 3% (246 out of 253),5/10/21
+NTRS,,,,,,,,,D,F,D,F,Top 18% (45 out of 253),4/20/21
+PBH,,,,,,,,,B,D,A,C,Top 40% (101 out of 253),5/6/21
+SEE,,,,,,,,,B,A,D,A,Top 26% (65 out of 253),5/4/21
+TER,,,,,,,,,C,A,B,B,Top 17% (44 out of 253),4/20/21
+SPGI,,,,,,,,,D,A,B,B,Bottom 28% (182 out of 253),4/27/21
+KMB,,,,,,,,,B,B,D,B,Bottom 35% (165 out of 253),4/28/21
+JNPR,,,,,,,,,B,F,A,C,Top 39% (98 out of 253),4/27/21
+CAT,,,,,,,,,C,C,D,C,Top 42% (106 out of 253),4/27/21
+ABMD,,,,,,,,,D,C,C,C,Bottom 32% (172 out of 253),4/29/21
+SEDG,,,,,,,,,D,F,A,D,Bottom 19% (206 out of 253),5/5/21
+EGP,,,,,,,,,D,F,C,F,Bottom 10% (228 out of 253),4/29/21
+OI,,,,,,,,,A,B,A,A,Top 42% (106 out of 253),4/27/21
+TRMB,,,,,,,,,D,C,C,D,Top 40% (101 out of 253),5/5/21
+KMX,,,,,,,,,C,A,C,B,Top 42% (106 out of 253),4/1/21
+PFS,,,,,,,,,C,F,B,F,Top 9% (24 out of 253),4/29/21
+SHW,,,,,,,,,C,A,B,B,Top 42% (106 out of 253),5/5/21
+ACBI,,,,,,,,,B,C,D,C,Top 7% (18 out of 253),4/22/21
+SSNC,,,,,,,,,B,D,D,C,Bottom 34% (168 out of 253),4/29/21
+CMG,,,,,,,,,D,B,A,C,Bottom 6% (239 out of 253),4/20/21
+BR,,,,,,,,,C,B,C,C,Bottom 30% (176 out of 253),5/14/21
+TTEK,,,,,,,,,D,C,F,D,Top 19% (49 out of 253),5/5/21
+OZK,,,,,,,,,B,D,C,C,Top 7% (18 out of 253),4/22/21
+WPM,,,,,,,,,D,B,B,C,Bottom 38% (156 out of 253),3/10/21
+FIVE,,,,,,,,,F,C,D,F,Bottom 28% (182 out of 253),3/17/21
+PPG,,,,,,,,,B,A,C,A,Top 24% (61 out of 253),4/26/21
+WEX,,,,,,,,,D,D,D,D,Bottom 36% (162 out of 253),2/24/21
+XYL,,,,,,,,,C,B,F,C,Top 34% (85 out of 253),5/4/21
+WING,,,,,,,,,F,A,D,C,Bottom 6% (239 out of 253),5/5/21
+EPAM,,,,,,,,,D,A,F,C,Bottom 37% (160 out of 253),5/6/21
+DFS,,,,,,,,,B,C,C,B,Top 17% (43 out of 253),4/28/21
+ST,,,,,,,,,B,C,B,B,Bottom 9% (231 out of 253),5/5/21
+ABC,,,,,,,,,A,A,F,A,Top 27% (68 out of 253),5/6/21
+APH,,,,,,,,,C,C,A,C,Top 14% (35 out of 253),4/28/21
+FTNT,,,,,,,,,D,B,C,C,Bottom 1% (250 out of 253),5/5/21
+BDX,,,,,,,,,B,A,B,A,Top 27% (68 out of 253),5/6/21
+MDT,,,,,,,,,C,F,C,D,Bottom 38% (158 out of 253),2/23/21
+UMPQ,,,,,,,,,C,D,D,D,Top 7% (17 out of 253),4/28/21
+ATO,,,,,,,,,C,D,C,D,Top 25% (64 out of 253),5/5/21
+CHD,,,,,,,,,C,D,C,C,Bottom 30% (176 out of 253),4/29/21
+PYPL,,,,,,,,,D,D,D,F,Bottom 29% (180 out of 253),5/5/21
+STAG,,,,,,,,,C,D,B,D,Bottom 10% (228 out of 253),4/29/21
+TT,,,,,,,,,C,B,B,B,Bottom 18% (208 out of 253),5/4/21
+ADI,,,,,,,,,D,C,A,D,Top 14% (35 out of 253),5/19/21
+OFC,,,,,,,,,B,D,A,B,Bottom 10% (228 out of 253),4/29/21
+AJG,,,,,,,,,C,B,B,B,Bottom 32% (172 out of 253),4/29/21
+WLTW,,,,,,,,,C,C,A,B,Bottom 32% (172 out of 253),4/29/21
+MSFT,,,,,,,,,D,C,D,D,Bottom 34% (168 out of 253),5/5/21
+SYK,,,,,,,,,C,B,D,C,Bottom 38% (158 out of 253),4/29/21

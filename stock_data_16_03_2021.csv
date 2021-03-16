@@ -1,0 +1,769 @@
+id,score,price,stock_counter,candidate,status,stop_loss,next_3_months,type,value,growth,momentum,vgm,rank,last_updated
+AMRS,"
+8.88
+",$22.34 ,AMRS - Amyris,Strong Buy Candidate,Unchanged, $21.53 (-3.64%),,top candiates,,,,,,
+THC,"
+8.78
+",$57.56 ,THC - Tenet Healthcare Corporation,Strong Buy Candidate,Upgraded, $55.49 (-3.60%),36.37%,top candiates,,,,,,
+TGA,"
+8.75
+",$1.81 ,TGA - Transglobe Energy Corp,Strong Buy Candidate,Upgraded, $1.75 (-3.58%),,top candiates,,,,,,
+LADR,"
+8.72
+",$12.21 ,LADR - Ladder Capital Corp,Strong Buy Candidate,Unchanged, $11.72 (-4.05%),,top candiates,,,,,,
+APLE,"
+8.71
+",$15.68 ,APLE - Apple Hospitality REIT Inc,Strong Buy Candidate,Upgraded, $15.08 (-3.84%),,top candiates,,,,,,
+JBLU,"
+8.71
+",$21.64 ,JBLU - JetBlue Airways Corporation,Strong Buy Candidate,Upgraded, $20.85 (-3.64%),,top candiates,,,,,,
+TRIP,"
+8.69
+",$60.85 ,TRIP - TripAdvisor,Strong Buy Candidate,Unchanged, $58.95 (-3.12%),,top candiates,,,,,,
+CCU,"
+8.68
+",$18.68 ,CCU - Compania Cervecerias Unidas SA,Strong Buy Candidate,Upgraded, $17.85 (-4.43%),21.68%,top candiates,,,,,,
+CAKE,"
+8.67
+",$62.48 ,CAKE - The Cheesecake Factory Incorporated,Strong Buy Candidate,Unchanged, $60.57 (-3.06%),69.51%,top candiates,,,,,,
+RVLV,"
+8.63
+",$54.27 ,"RVLV - Revolve Group, Inc.",Strong Buy Candidate,Unchanged, $52.41 (-3.42%),,top candiates,D,A,D,C,Bottom 10% (228 out of 253),5/12/21
+GGT,"
+8.63
+",$10.24 ,GGT - Gabelli Multi-Media Trust Inc (The),Strong Buy Candidate,Unchanged, $9.88 (-3.48%),,top candiates,,,,,,
+NJR,"
+8.62
+",$42.42 ,NJR - NewJersey Resources Corporation,Strong Buy Candidate,Upgraded, $40.88 (-3.62%),,top candiates,,,,,,
+MHLD,"
+8.53
+",$3.10 ,MHLD - Maiden Holdings,Strong Buy Candidate,Upgraded, $2.99 (-3.63%),,top candiates,,,,,,
+YUMC,"
+8.51
+",$62.68 ,YUMC - Yum China Holdings Inc,Strong Buy Candidate,Unchanged, $60.08 (-4.14%),7.3%,top candiates,,,,,,
+SBNY,"
+8.48
+",$245.95 ,SBNY - Signature Bank,Strong Buy Candidate,Unchanged, $237.19 (-3.56%),94.17%,top candiates,,,,,,
+FET,"
+8.45
+",$24.37 ,FET - Forum Energy Technologies Inc,Strong Buy Candidate,Upgraded, $23.52 (-3.50%),$24.72,top candiates,,,,,,
+GLAD,"
+8.45
+",$10.35 ,GLAD - Gladstone Capital Corporation,Strong Buy Candidate,Unchanged, $9.89 (-4.42%),15.81%,top candiates,,,,,,
+ORC,"
+8.44
+",$6.04 ,ORC - Orchid Island Capital Inc,Strong Buy Candidate,Upgraded, $5.81 (-3.76%),,top candiates,,,,,,
+SAIA,"
+8.40
+",$228.30 ,SAIA - Saia,Strong Buy Candidate,Upgraded, $220.99 (-3.20%),$228.42,top candiates,,,,,,
+SACH,"
+8.36
+",$4.87 ,SACH - Sachem Capital Corp,Strong Buy Candidate,Unchanged, $4.61 (-5.34%),17.01%,top candiates,,,,,,
+TSLX,"
+8.35
+",$22.64 ,TSLX - TPG Specialty Lending Inc,Strong Buy Candidate,Upgraded, $21.51 (-4.99%),$22.72,top candiates,,,,,,
+IGR,"
+8.34
+",$7.61 ,IGR - CBRE Clarion Global Real Estate Income Fund,Strong Buy Candidate,Unchanged, $7.29 (-4.20%),,top candiates,,,,,,
+HPE,"
+8.34
+",$16.05 ,HPE - Hewlett Packard Enterprise Company,Strong Buy Candidate,Unchanged, $15.56 (-3.06%),,top candiates,A,D,A,B,Bottom 20% (203 out of 253),5/20/21
+CDC,"
+8.34
+",$61.79 ,CDC - Victory CEMP US EQ Income Enhanced Volatility Wtd Index ETF,Strong Buy Candidate,Unchanged,$59.53(-3.66%),,top candiates,,,,,,
+APEN,"
+8.30
+",$6.46 ,APEN - Lpath Inc,Strong Buy Candidate,Upgraded, $6.23 (-3.56%),66.86%,top candiates,,,,,,
+AMRS,"
+8.88
+",$22.34 ,AMRS - Amyris,Strong Buy Candidate,Unchanged, $21.53 (-3.64%),,top candiates,,,,,,
+THC,"
+8.78
+",$57.56 ,THC - Tenet Healthcare Corporation,Strong Buy Candidate,Upgraded, $55.49 (-3.60%),36.37%,top candiates,,,,,,
+TGA,"
+8.75
+",$1.81 ,TGA - Transglobe Energy Corp,Strong Buy Candidate,Upgraded, $1.75 (-3.58%),,top candiates,,,,,,
+LADR,"
+8.72
+",$12.21 ,LADR - Ladder Capital Corp,Strong Buy Candidate,Unchanged, $11.72 (-4.05%),,top candiates,,,,,,
+APLE,"
+8.71
+",$15.68 ,APLE - Apple Hospitality REIT Inc,Strong Buy Candidate,Upgraded, $15.08 (-3.84%),,top candiates,,,,,,
+JBLU,"
+8.71
+",$21.64 ,JBLU - JetBlue Airways Corporation,Strong Buy Candidate,Upgraded, $20.85 (-3.64%),,top candiates,,,,,,
+TRIP,"
+8.69
+",$60.85 ,TRIP - TripAdvisor,Strong Buy Candidate,Unchanged, $58.95 (-3.12%),,top candiates,,,,,,
+CCU,"
+8.68
+",$18.68 ,CCU - Compania Cervecerias Unidas SA,Strong Buy Candidate,Upgraded, $17.85 (-4.43%),21.68%,top candiates,,,,,,
+CAKE,"
+8.67
+",$62.48 ,CAKE - The Cheesecake Factory Incorporated,Strong Buy Candidate,Unchanged, $60.57 (-3.06%),69.51%,top candiates,,,,,,
+RVLV,"
+8.63
+",$54.27 ,"RVLV - Revolve Group, Inc.",Strong Buy Candidate,Unchanged, $52.41 (-3.42%),,top candiates,,,,,,
+GGT,"
+8.63
+",$10.24 ,GGT - Gabelli Multi-Media Trust Inc (The),Strong Buy Candidate,Unchanged, $9.88 (-3.48%),,top candiates,,,,,,
+NJR,"
+8.62
+",$42.42 ,NJR - NewJersey Resources Corporation,Strong Buy Candidate,Upgraded, $40.88 (-3.62%),,top candiates,,,,,,
+MHLD,"
+8.53
+",$3.10 ,MHLD - Maiden Holdings,Strong Buy Candidate,Upgraded, $2.99 (-3.63%),,top candiates,,,,,,
+YUMC,"
+8.51
+",$62.68 ,YUMC - Yum China Holdings Inc,Strong Buy Candidate,Unchanged, $60.08 (-4.14%),7.3%,top candiates,,,,,,
+SBNY,"
+8.48
+",$245.95 ,SBNY - Signature Bank,Strong Buy Candidate,Unchanged, $237.19 (-3.56%),94.17%,top candiates,,,,,,
+FET,"
+8.45
+",$24.37 ,FET - Forum Energy Technologies Inc,Strong Buy Candidate,Upgraded, $23.52 (-3.50%),$24.72,top candiates,,,,,,
+GLAD,"
+8.45
+",$10.35 ,GLAD - Gladstone Capital Corporation,Strong Buy Candidate,Unchanged, $9.89 (-4.42%),15.81%,top candiates,,,,,,
+ORC,"
+8.44
+",$6.04 ,ORC - Orchid Island Capital Inc,Strong Buy Candidate,Upgraded, $5.81 (-3.76%),,top candiates,,,,,,
+SAIA,"
+8.40
+",$228.30 ,SAIA - Saia,Strong Buy Candidate,Upgraded, $220.99 (-3.20%),$228.42,top candiates,,,,,,
+SACH,"
+8.36
+",$4.87 ,SACH - Sachem Capital Corp,Strong Buy Candidate,Unchanged, $4.61 (-5.34%),17.01%,top candiates,,,,,,
+TSLX,"
+8.35
+",$22.64 ,TSLX - TPG Specialty Lending Inc,Strong Buy Candidate,Upgraded, $21.51 (-4.99%),$22.72,top candiates,,,,,,
+IGR,"
+8.34
+",$7.61 ,IGR - CBRE Clarion Global Real Estate Income Fund,Strong Buy Candidate,Unchanged, $7.29 (-4.20%),,top candiates,,,,,,
+HPE,"
+8.34
+",$16.05 ,HPE - Hewlett Packard Enterprise Company,Strong Buy Candidate,Unchanged, $15.56 (-3.06%),,top candiates,,,,,,
+CDC,"
+8.34
+",$61.79 ,CDC - Victory CEMP US EQ Income Enhanced Volatility Wtd Index ETF,Strong Buy Candidate,Unchanged,$59.53(-3.66%),,top candiates,,,,,,
+APEN,"
+8.30
+",$6.46 ,APEN - Lpath Inc,Strong Buy Candidate,Upgraded, $6.23 (-3.56%),66.86%,top candiates,,,,,,
+NAVI,"
+7.19
+",$13.27 ,NAVI - Navient Corporation,Strong Buy Candidate,Unchanged, $12.60 (-5.05%),35.1%,undervalued list,,,,,,
+PETS,"
+4.90
+",$36.48 ,PETS - PetMed Express,Buy Candidate,Unchanged, $35.10 (-3.78%),5.12%,undervalued list,,,,,,
+CHUY,"
+4.80
+",$44.33 ,CHUY - Chuy,Buy Candidate,Unchanged, $42.82 (-3.40%),71.25%,undervalued list,,,,,,
+NOK,"
+4.29
+",$4.30 ,NOK - Nokia Corporation,Buy Candidate,Upgraded, $4.14 (-3.68%),,undervalued list,,,,,,
+NRK,"
+2.50
+",$13.42 ,NRK - Nuveen New York AMT-Free Municipal Income Fund,Buy Candidate,Unchanged, $12.76 (-4.94%),,undervalued list,,,,,,
+EOS,"
+2.37
+",$21.72 ,EOS - Eaton Vance Enhanced Equity Income Fund II,Buy Candidate,Upgraded, $20.46 (-5.79%),4.12%,undervalued list,,,,,,
+AHAC,"
+2.00
+",$11.41 ,AHAC - Alpha Healthcare Acquisition Corp.,Buy Candidate,Unchanged,$10.97 (-3.82%),16.64%,undervalued list,,,,,,
+MHD,"
+1.94
+",$15.97 ,MHD - Blackrock MuniHoldings Fund Inc,Buy Candidate,Upgraded,$15.05(-5.75%),,undervalued list,,,,,,
+FRX,"
+1.93
+",$11.68 ,FRX - Forest Road Acquisition Corp.,Buy Candidate,Upgraded,$11.15(-4.57%),13.39%,undervalued list,,,,,,
+YAC,"
+1.81
+",$10.12 ,YAC - Yucaipa Acquisition Corporation,Buy Candidate,Upgraded,$9.53(-5.85%),,undervalued list,,,,,,
+CBPO,"
+1.46
+",$117.10 ,CBPO - China Biologic Products,Buy Candidate,Upgraded, $109.42 (-6.56%),,undervalued list,,,,,,
+TWND,"
+1.41
+",$10.19 ,TWND - Tailwind Acquisition Corp.,Buy Candidate,Upgraded,$9.59(-5.91%),3.56%,undervalued list,,,,,,
+TRS,"
+1.15
+",$32.50 ,TRS - TriMas Corporation,Buy Candidate,Upgraded, $30.61 (-5.82%),6.62%,undervalued list,,,,,,
+CLVR,"
+1.05
+",$13.47 ,CLVR - Clever Leaves Holdings Inc.,Buy Candidate,Upgraded,$12.99  (-3.60%),31.52%,undervalued list,,,,,,
+NUV,"
+0.93
+",$11.07 ,NUV - Nuveen AMT-Free Municipal Value Fund,Hold/Accumulate,Downgraded, $10.50 (-5.18%),,undervalued list,,,,,,
+XPOA,"
+0.88
+",$10.21 ,"XPOA - DPCM Capital, Inc.",Hold/Accumulate,Unchanged,$9.73(-4.72%),,undervalued list,,,,,,
+DMYI,"
+0.69
+",$11.53 ,"DMYI - dMY Technology Group, Inc. III",Hold/Accumulate,Unchanged,$11.03(-4.33%),9.45%,undervalued list,,,,,,
+CONX,"
+0.55
+",$10.13 ,CONX - CONX Corp.,Hold/Accumulate,Downgraded,$9.56(-5.59%),,undervalued list,,,,,,
+ACIC,"
+0.54
+",$10.92 ,ACIC - Atlas Crest Investment Corp.,Hold/Accumulate,Downgraded,$10.39(-4.82%),,undervalued list,,,,,,
+NBEV,"
+0.51
+",$2.98 ,NBEV - NewAge Corp,Hold/Accumulate,Unchanged, $2.87 (-3.82%),5.35%,undervalued list,,,,,,
+ALTU,"
+0.39
+",$10.41 ,ALTU - Altitude Acquisition Corp.,Hold/Accumulate,Unchanged,$9.93(-4.60%) ,4.44%,undervalued list,,,,,,
+ALUS,"
+0.30
+",$10.50 ,ALUS - Alussa Energy Acquisition Corp.,Hold/Accumulate,Unchanged,$9.91(-5.66%),12.27%,undervalued list,,,,,,
+ASAN,"
+0.23
+",$32.70 ,ASAN - Asana Inc.,Hold/Accumulate,Upgraded, $31.33 (-4.18%),13.97%,undervalued list,,,,,,
+CRHC,"
+0.22
+",$10.25 ,CRHC - Cohn Robbins Holdings Corp.,Hold/Accumulate,Unchanged,$9.72(-5.14%),,undervalued list,,,,,,
+IGAC,"
+0.21
+",$9.99 ,IGAC - IG Acquisition Corp.,Hold/Accumulate,Downgraded,$9.45(-5.40%),,undervalued list,,,,,,
+ELS,"
+0.94
+",$64.17 ,ELS - Equity Lifestyle Properties Inc,Hold/Accumulate,Upgraded, $61.71 (-3.84%),,golden star long,D,D,C,D,Bottom 13% (221 out of 253),4/19/21
+BFAM,"
+0.96
+",$169.40 ,BFAM - Bright Horizons Family Solutions Inc,Hold/Accumulate,Unchanged, $162.79 (-3.90%),,golden star long,,,,,,
+FMB,"
+-1.23
+",$56.60 ,FMB - First Trust Managed Municipal ETF,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long,,,,,,
+EGP,"
+4.98
+",$144.58 ,EGP - EastGroup Properties Inc,Buy Candidate,Unchanged, $139.03 (-3.84%),3.26%,golden star long,,,,,,
+FRGAP,"
+2.46
+",$25.45 ,FRGAP - Franchise Group Inc.,Buy Candidate,Upgraded,$24.39(-4.17%),,golden star long,,,,,,
+HWCPL,"
+1.45
+",$25.78 ,HWCPL - Hancock Whitney Corporation 5.95 % Notes 2015-15.6.45 Subord,Buy Candidate,Upgraded,$24.40(-5.35%),,golden star long,,,,,,
+NMI,"
+-0.37
+",$11.39 ,NMI - Nuveen Municipal Income Fund Inc,Hold/Accumulate,Unchanged, $10.95 (-3.86%),,golden star long,,,,,,
+ORAN,"
+2.29
+",$12.43 ,ORAN - Orange,Buy Candidate,Upgraded, $11.89 (-4.36%),,golden star long,,,,,,
+FBHS,"
+0.49
+",$90.59 ,FBHS - Fortune Brands Home & Security Inc,Hold/Accumulate,Unchanged, $87.56 (-3.34%),,golden star long,,,,,,
+AEB,"
+-1.92
+",$25.15 ,AEB - Aegon NV,Sell Candidate,Unchanged,Golden Star Signal*,,golden star long,,,,,,
+VLYPO,"
+1.60
+",$25.65 ,VLYPO - Valley National Bancorp Non-Cum Perp Red Pfd Registered Shs Series B,Buy Candidate,Upgraded,$24.52(-4.40%),,golden star long,,,,,,
+TSI,"
+0.05
+",$5.66 ,TSI - TCW Strategic Income Fund Inc,Hold/Accumulate,Unchanged,$5.46(-3.60%),,golden star long,,,,,,
+KOF,"
+1.49
+",$47.56 ,KOF - Coca Cola Femsa SAB de CV,Buy Candidate,Upgraded, $45.67 (-3.98%),,golden star long,,,,,,
+STND,"
+1.46
+",$32.85 ,STND - Standard AVB Financial Corp,Buy Candidate,Upgraded, $30.73 (-6.47%),,golden star long,,,,,,
+GLT,"
+0.17
+",$18.03 ,GLT - Glatfelter,Hold/Accumulate,Downgraded, $17.43 (-3.31%),$18.64,golden star long,,,,,,
+EDUC,"
+2.45
+",$18.31 ,EDUC - Educational Development Corporation,Buy Candidate,Unchanged, $17.36 (-5.21%),$19.17,golden star long,,,,,,
+HE,"
+6.20
+",$41.34 ,HE - Hawaiian Electric Industries Inc,Strong Buy Candidate,Upgraded, $39.98 (-3.30%),7.01%,golden star long,,,,,,
+CHSCP,"
+1.62
+",$30.36 ,CHSCP - CHS Inc,Buy Candidate,Unchanged, $29.44 (-3.02%),,golden star long,,,,,,
+AAP,"
+4.73
+",$181.69 ,AAP - Advance Auto Parts Inc,Buy Candidate,Unchanged, $176.02 (-3.12%),$183.42,golden star long,,,,,,
+FB,"
+2.50
+",$273.75 ,FB - Facebook,Buy Candidate,Unchanged, $264.40 (-3.42%),$278.54,golden star long,,,,,,
+SINA,"
+2.76
+",$43.09 ,SINA - Sina Corporation,Buy Candidate,Unchanged, $41.27 (-4.22%),2.5%,golden star long,,,,,,
+SRCL,"
+2.29
+",$70.29 ,SRCL - Stericycle,Buy Candidate,Upgraded, $67.24 (-4.34%),,golden star long,,,,,,
+ALCO,"
+1.72
+",$30.90 ,ALCO - Alico,Buy Candidate,Unchanged, $29.94 (-3.11%),$31.16,golden star long,,,,,,
+CCOI,"
+1.79
+",$63.65 ,CCOI - Cogent Communications Holdings,Buy Candidate,Upgraded, $60.99 (-4.18%),,golden star long,,,,,,
+RC,"
+0.00
+",$15.38 ,RC - Ready Capital Corporation,Hold/Accumulate,Unchanged, $14.81 (-3.68%),,golden star long,F,F,B,F,Bottom 26% (187 out of 253),5/10/21
+EVG,"
+1.02
+",$13.16 ,EVG - Eaton Vance Short Diversified Income Fund,Buy Candidate,Unchanged, $12.63 (-4.02%),6.92%,golden star short,,,,,,
+DRUA,"
+0.91
+",$25.72 ,DRUA - Dominion Resources Inc. 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076,Hold/Accumulate,Upgraded,$24.46(-4.91%),-2.44%,golden star short,,,,,,
+CATM,"
+1.84
+",$38.82 ,CATM - Cardtronics,Buy Candidate,Upgraded, $36.59 (-5.74%),7.28%,golden star short,,,,,,
+MGLN,"
+0.17
+",$93.96 ,MGLN - Magellan Health,Hold/Accumulate,Upgraded, $89.92 (-4.30%),10.81%,golden star short,,,,,,
+WPC,"
+1.40
+",$70.00 ,WPC - WP Carey Inc,Buy Candidate,Unchanged, $66.88 (-4.45%),,golden star short,,,,,,
+BAX,"
+0.37
+",$78.67 ,BAX - Baxter International Inc,Hold/Accumulate,Unchanged, $74.44 (-5.38%),-3.94%,golden star short,,,,,,
+BCOR,"
+8.20
+",$17.97 ,BCOR - Blucora,Strong Buy Candidate,Upgraded, $17.10 (-4.86%),16.56%,golden star short,,,,,,
+OCCIP,"
+2.52
+",$25.20 ,OCCIP - OFS Credit Company Inc 6.875% Cum Red Pfd Registered Shs Series A 2019-31.03.24,Buy Candidate,Unchanged,$23.68(-6.04%),,golden star short,,,,,,
+XPO,"
+4.73
+",$127.98 ,XPO - XPO Logistics Inc,Buy Candidate,Unchanged, $123.24 (-3.70%),,golden star short,C,C,D,C,Bottom 40% (153 out of 253),5/3/21
+AWF,"
+-0.02
+",$11.85 ,AWF - Alliance World Dollar Government Fund II,Hold/Accumulate,Upgraded, $11.38 (-4.00%),,golden star short,,,,,,
+EHI,"
+1.17
+",$10.30 ,EHI - Western Asset Global High Income Fund Inc,Buy Candidate,Unchanged, $9.99 (-2.98%),,golden star short,,,,,,
+DBOC,"
+3.18
+",$27.67 ,DBOC - Innovator Double Stacker 9 Buffer ETF – October,Buy Candidate,Upgraded,$26.32(-4.88%),,golden star short,,,,,,
+JGH,"
+2.10
+",$15.68 ,JGH - Nuveen Global High Income Fund Shs,Buy Candidate,Unchanged, $15.08 (-3.82%),,golden star short,,,,,,
+CEZ,"
+0.65
+",$28.00 0.0000%,CEZ - VICTORY CEMP EMERGING MARKET VOLATILITY WTD INDEX ETF,Hold/Accumulate,Downgraded,$26.83(-4.17%),6.93%,golden star short,,,,,,
+BLKB,"
+2.51
+",$73.86 ,BLKB - Blackbaud,Buy Candidate,Unchanged, $70.91 (-3.99%),27.35%,golden star short,,,,,,
+HYB,"
+2.77
+",$8.98 ,HYB - New America High Income Fund Inc (The),Buy Candidate,Unchanged, $8.65 (-3.66%),3.12%,golden star short,,,,,,
+SPE,"
+1.86
+",$14.84 ,SPE - Special Opportunities Fund Inc,Buy Candidate,Upgraded, $14.27 (-3.86%),6.46%,golden star short,,,,,,
+AGD,"
+0.49
+",$11.14 ,AGD - Alpine Global Dynamic Dividend Fund,Hold/Accumulate,Unchanged,$10.70(-3.92%),6.55%,golden star short,,,,,,
+AOD,"
+4.79
+",$9.41 ,AOD - Aberdeen Total Dynamic Dividend Fund,Buy Candidate,Upgraded, $9.04 (-3.92%),6.21%,golden star short,,,,,,
+EXD,"
+3.97
+",$10.45 ,EXD - Eaton Vance Tax-Advantaged Bond,Buy Candidate,Unchanged,$9.97(-4.55%),4.46%,golden star short,,,,,,
+ACN,"
+1.94
+",$266.26 ,ACN - Accenture plc,Buy Candidate,Unchanged, $256.05 (-3.83%),,golden star short,,,,,,
+FV,"
+5.23
+",$45.14 ,FV - First Trust Dorsey Wright Focus 5 ETF,Strong Buy Candidate,Upgraded,$43.62(-3.36%),9.95%,golden star short,,,,,,
+PROS,"
+1.24
+",$12.70 ,PROS - Prosight Global Inc.,Buy Candidate,Upgraded, $11.98 (-5.64%),-3.46%,golden star short,,,,,,
+GRID,"
+5.15
+",$88.15 ,GRID - First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index,Strong Buy Candidate,Upgraded,$84.98(-3.59%),6.77%,golden star short,,,,,,
+MHN,"
+-0.44
+",$14.02 ,MHN - Blackrock MuniHoldings New York Quality Fund Inc,Hold/Accumulate,Upgraded,$13.50(-3.74%),,golden star short,,,,,,
+AY,,,,,,,,,B,F,A,C,Bottom 22% (198 out of 253),5/6/21
+RIGL,,,,,,,,,D,F,B,D,Bottom 30% (176 out of 253),5/4/21
+SU,,,,,,,,,F,F,B,F,Top 1% (1 out of 253),5/4/21
+HES,,,,,,,,,D,D,A,D,Top 26% (65 out of 253),5/6/21
+CVE,,,,,,,,,B,D,A,C,Top 1% (1 out of 253),5/5/21
+GWPH,,,,,,,,,D,C,D,D,Bottom 38% (158 out of 253),5/10/21
+CNQ,,,,,,,,,D,F,A,F,Top 1% (2 out of 253),5/6/21
+ALKS,,,,,,,,,C,B,D,C,Bottom 28% (183 out of 253),5/5/21
+BBCP,,,,,,,,,A,A,C,A,Bottom 26% (187 out of 253),6/8/21
+MUR,,,,,,,,,C,F,A,D,Top 21% (54 out of 253),5/5/21
+GT,,,,,,,,,A,A,B,A,Bottom 9% (229 out of 253),4/29/21
+FOUR,,,,,,,,,F,D,F,F,Bottom 33% (169 out of 253),6/3/21
+RICOY,,,,,,,,,B,C,C,B,Top 45% (115 out of 253),5/14/21
+IDRA,,,,,,,,,F,B,A,C,Bottom 28% (183 out of 253),4/29/21
+HLX,,,,,,,,,A,C,C,B,Bottom 30% (178 out of 253),4/28/21
+ASYS,,,,,,,,,F,D,B,F,Top 15% (39 out of 253),5/6/21
+CGC,,,,,,,,,F,D,F,F,Bottom 38% (158 out of 253),6/4/21
+CTB,,,,,,,,,A,A,B,A,Bottom 9% (229 out of 253),5/6/21
+BBBY,,,,,,,,,B,C,B,B,Bottom 40% (151 out of 253),4/21/21
+HEAR,,,,,,,,,A,A,F,A,Top 27% (69 out of 253),5/6/21
+SCYX,,,,,,,,,F,F,A,F,Bottom 30% (176 out of 253),3/17/21
+COP,,,,,,,,,F,D,A,F,Top 26% (65 out of 253),4/29/21
+TPR,,,,,,,,,C,B,B,B,Top 45% (113 out of 253),4/29/21
+ASB,,,,,,,,,B,F,A,C,Top 2% (6 out of 253),4/22/21
+BXG,,,,,,,,,A,C,F,B,Bottom 15% (214 out of 253),5/10/21
+IRBT,,,,,,,,,D,A,F,C,Top 29% (74 out of 253),4/27/21
+MEC,,,,,,,,,B,A,D,A,Top 29% (73 out of 253),5/4/21
+EOLS,,,,,,,,,F,F,F,F,Bottom 38% (158 out of 253),3/16/21
+PLCE,,,,,,,,,B,B,A,A,Top 45% (113 out of 253),6/10/21
+BHR,,,,,,,,,D,F,F,F,Bottom 14% (217 out of 253),5/20/21
+DIS,,,,,,,,,D,D,A,D,Bottom 20% (203 out of 253),5/4/21
+C,,,,,,,,,B,D,B,C,Top 44% (112 out of 253),4/15/21
+COLM,,,,,,,,,B,A,B,A,Top 26% (67 out of 253),4/29/21
+CORE,,,,,,,,,A,A,B,A,Top 45% (115 out of 253),5/6/21
+FCX,,,,,,,,,B,B,A,A,Top 45% (115 out of 253),4/23/21
+AVXL,,,,,,,,,C,F,F,F,Bottom 28% (183 out of 253),5/6/21
+BEAM,,,,,,,,,D,F,F,F,Bottom 28% (183 out of 253),3/29/21
+GEVO,,,,,,,,,F,D,C,F,Top 38% (96 out of 253),3/17/21
+MMX,,,,,,,,,D,B,C,C,Bottom 21% (199 out of 253),3/18/21
+SIVB,,,,,,,,,F,C,B,D,Top 8% (20 out of 253),4/22/21
+TGI,,,,,,,,,F,C,B,D,Top 39% (98 out of 253),5/27/21
+AA,,,,,,,,,A,B,B,A,Bottom 20% (203 out of 253),4/28/21
+HONE,,,,,,,,,D,D,A,D,Top 9% (22 out of 253),4/26/21
+ESTE,,,,,,,,,B,D,F,D,Top 21% (54 out of 253),5/5/21
+SRTS,,,,,,,,,D,A,B,B,Bottom 32% (171 out of 253),5/6/21
+GS,,,,,,,,,B,A,A,A,Top 2% (5 out of 253),4/14/21
+FSBW,,,,,,,,,C,F,B,D,Top 8% (20 out of 253),4/23/21
+PCH,,,,,,,,,D,B,A,B,Top 7% (17 out of 253),4/26/21
+NEP,,,,,,,,,B,C,B,B,Top 38% (96 out of 253),4/28/21
+SCCO,,,,,,,,,C,A,A,A,Top 45% (115 out of 253),4/26/21
+MSP,,,,,,,,,D,D,C,D,Bottom 30% (176 out of 253),6/10/21
+AES,,,,,,,,,B,B,C,B,Bottom 22% (198 out of 253),5/6/21
+EPR,,,,,,,,,F,F,A,F,Bottom 22% (197 out of 253),5/5/21
+X,,,,,,,,,B,B,C,A,Top 2% (6 out of 253),4/29/21
+SB,,,,,,,,,A,C,C,A,Bottom 32% (171 out of 253),6/14/21
+EL,,,,,,,,,F,A,C,C,Bottom 20% (202 out of 253),5/7/21
+TACO,,,,,,,,,B,B,A,A,Bottom 25% (189 out of 253),5/3/21
+TSE,,,,,,,,,B,A,A,A,Top 2% (4 out of 253),5/5/21
+MGY,,,,,,,,,F,C,A,D,Top 21% (54 out of 253),5/10/21
+COF,,,,,,,,,A,D,C,C,Top 15% (37 out of 253),4/22/21
+KALV,,,,,,,,,F,F,A,F,Bottom 30% (176 out of 253),7/7/21
+ALRN,,,,,,,,,F,C,C,D,Bottom 28% (183 out of 253),3/29/21
+OTIC,,,,,,,,,F,C,C,D,Bottom 30% (176 out of 253),5/6/21
+NOG,,,,,,,,,A,A,A,A,Top 21% (54 out of 253),5/10/21
+CMD,,,,,,,,,C,B,A,B,Bottom 32% (171 out of 253),6/3/21
+WY,,,,,,,,,D,B,A,B,Top 7% (17 out of 253),5/7/21
+SPRO,,,,,,,,,F,F,A,F,Bottom 28% (183 out of 253),5/14/21
+CNC,,,,,,,,,A,A,D,A,Top 45% (115 out of 253),4/27/21
+VIRT,,,,,,,,,B,A,C,A,Top 42% (106 out of 253),5/4/21
+OMP,,,,,,,,,A,B,F,B,Bottom 12% (222 out of 253),5/17/21
+ARCB,,,,,,,,,A,B,F,B,Top 15% (39 out of 253),5/4/21
+SMTS,,,,,,,,,A,A,C,A,Top 40% (101 out of 253),3/18/21
+VNOM,,,,,,,,,D,C,C,D,Top 21% (54 out of 253),5/3/21
+EBC,,,,,,,,,D,D,B,D,Top 9% (22 out of 253),4/22/21
+CPF,,,,,,,,,D,F,D,F,Top 8% (20 out of 253),4/28/21
+AGTC,,,,,,,,,F,F,D,F,Bottom 28% (183 out of 253),5/12/21
+HBM,,,,,,,,,B,B,F,B,Top 40% (101 out of 253),5/13/21
+CFR,,,,,,,,,D,F,B,F,Top 13% (34 out of 253),4/29/21
+IMO,,,,,,,,,D,F,B,D,Top 1% (1 out of 253),5/7/21
+ADCT,,,,,,,,,F,D,A,D,Bottom 28% (183 out of 253),3/18/21
+ARES,,,,,,,,,D,F,D,F,Top 34% (85 out of 253),5/5/21
+CAE,,,,,,,,,D,D,A,D,Top 39% (98 out of 253),5/28/21
+SWN,,,,,,,,,B,C,A,B,Top 21% (54 out of 253),4/29/21
+HEXO,,,,,,,,,F,A,D,C,Bottom 38% (158 out of 253),3/18/21
+DCP,,,,,,,,,A,C,B,B,Top 45% (115 out of 253),5/5/21
+CVX,,,,,,,,,F,F,A,F,Top 13% (32 out of 253),5/7/21
+EQT,,,,,,,,,B,D,B,C,Top 21% (54 out of 253),5/6/21
+OCFC,,,,,,,,,C,F,F,F,Top 13% (34 out of 253),4/22/21
+MTDR,,,,,,,,,F,C,B,D,Top 21% (54 out of 253),5/5/21
+FFNW,,,,,,,,,B,F,A,C,Top 8% (20 out of 253),4/27/21
+CNX,,,,,,,,,B,C,A,B,Top 21% (54 out of 253),4/26/21
+PBF,,,,,,,,,D,B,A,C,Bottom 28% (183 out of 253),5/21/21
+ATNX,,,,,,,,,F,C,C,D,Bottom 28% (183 out of 253),5/6/21
+HL,,,,,,,,,C,A,F,C,Bottom 6% (237 out of 253),5/6/21
+RDS.A,,,,,,,,,B,D,C,D,Top 13% (32 out of 253),4/29/21
+SAMG,,,,,,,,,A,B,A,A,Top 34% (85 out of 253),4/29/21
+XOMA,,,,,,,,,D,A,A,B,Bottom 28% (183 out of 253),5/4/21
+JPM,,,,,,,,,C,B,B,B,Top 44% (112 out of 253),4/14/21
+TS,,,,,,,,,C,D,A,C,Top 15% (39 out of 253),5/7/21
+RIG,,,,,,,,,B,C,C,B,Bottom 21% (201 out of 253),5/5/21
+ELF,,,,,,,,,D,D,C,D,Bottom 20% (202 out of 253),5/20/21
+BAC,,,,,,,,,C,C,A,B,Top 44% (112 out of 253),4/15/21
+FSLR,,,,,,,,,B,A,A,A,Bottom 20% (203 out of 253),5/6/21
+ALLY,,,,,,,,,A,F,C,C,Top 15% (37 out of 253),4/19/21
+NWE,,,,,,,,,C,F,C,D,Bottom 22% (198 out of 253),4/28/21
+GABC,,,,,,,,,C,D,A,C,Top 2% (6 out of 253),5/6/21
+CMC,,,,,,,,,B,B,B,A,Top 2% (6 out of 253),3/18/21
+TT,,,,,,,,,D,B,B,B,Bottom 25% (189 out of 253),5/4/21
+CBOE,,,,,,,,,C,A,B,B,Top 45% (115 out of 253),5/7/21
+DOOO,,,,,,,,,B,A,C,A,Top 38% (96 out of 253),3/25/21
+RPD,,,,,,,,,F,A,A,C,Bottom 30% (176 out of 253),5/6/21
+YEXT,,,,,,,,,F,D,B,F,Bottom 25% (189 out of 253),6/3/21
+LMNX,,,,,,,,,C,C,B,B,Bottom 32% (171 out of 253),5/3/21
+MTN,,,,,,,,,D,F,A,D,Bottom 15% (214 out of 253),6/3/21
+HARP,,,,,,,,,D,B,A,C,Bottom 30% (176 out of 253),5/5/21
+TBK,,,,,,,,,F,C,C,D,Top 8% (20 out of 253),4/19/21
+BRT,,,,,,,,,F,D,A,F,Bottom 13% (221 out of 253),6/16/21
+SNOW,,,,,,,,,F,D,F,F,Bottom 30% (176 out of 253),6/2/21
+KMI,,,,,,,,,C,C,B,C,Top 45% (115 out of 253),4/28/21
+AEP,,,,,,,,,B,F,B,C,Bottom 22% (198 out of 253),5/5/21
+ARLO,,,,,,,,,D,A,F,C,Bottom 30% (176 out of 253),5/10/21
+LEN,,,,,,,,,A,A,B,A,Top 13% (33 out of 253),3/16/21
+PFBC,,,,,,,,,B,F,C,D,Top 8% (20 out of 253),4/28/21
+CRK,,,,,,,,,A,C,D,B,Top 21% (54 out of 253),5/5/21
+WGO,,,,,,,,,B,A,C,A,Top 1% (3 out of 253),3/24/21
+LYFT,,,,,,,,,F,D,C,F,Bottom 40% (151 out of 253),5/5/21
+BBDC,,,,,,,,,C,F,A,D,Bottom 42% (148 out of 253),3/24/21
+MRC,,,,,,,,,B,A,A,A,Top 15% (39 out of 253),4/27/21
+FUJIY,,,,,,,,,A,C,D,B,Top 15% (39 out of 253),5/28/21
+CMCO,,,,,,,,,D,D,B,D,Top 2% (6 out of 253),5/26/21
+FITB,,,,,,,,,B,F,A,C,Top 44% (112 out of 253),4/20/21
+WPM,,,,,,,,,D,C,D,D,Top 40% (101 out of 253),5/5/21
+IQ,,,,,,,,,D,B,A,B,Top 32% (81 out of 253),5/17/21
+LAND,,,,,,,,,D,C,C,D,Bottom 14% (217 out of 253),5/5/21
+OPK,,,,,,,,,C,A,A,A,Bottom 32% (171 out of 253),5/5/21
+LLY,,,,,,,,,B,B,A,A,Bottom 9% (229 out of 253),4/27/21
+HCA,,,,,,,,,A,B,B,A,Top 36% (92 out of 253),4/20/21
+SKY,,,,,,,,,F,A,D,C,Top 1% (3 out of 253),5/19/21
+WAFD,,,,,,,,,C,D,F,F,Top 9% (20 out of 253),4/20/21
+WDC,,,,,,,,,B,C,A,B,Bottom 26% (186 out of 253),4/29/21
+WSO,,,,,,,,,C,A,C,A,Top 36% (92 out of 253),4/22/21
+SJI,,,,,,,,,B,F,A,C,Top 45% (115 out of 253),5/5/21
+FLOW,,,,,,,,,B,A,A,A,Top 40% (101 out of 253),5/11/21
+MDC,,,,,,,,,B,A,C,A,Top 13% (33 out of 253),5/4/21
+MIME,,,,,,,,,F,A,F,D,Bottom 30% (176 out of 253),5/10/21
+GDRX,,,,,,,,,F,B,A,C,Bottom 35% (165 out of 253),6/10/21
+JRVR,,,,,,,,,A,A,B,A,Top 45% (114 out of 253),5/5/21
+PLTK,,,,,,,,,C,B,B,B,Bottom 21% (200 out of 253),5/27/21
+EXP,,,,,,,,,C,B,C,B,Top 15% (37 out of 253),5/18/21
+KNX,,,,,,,,,A,B,A,A,Top 15% (39 out of 253),4/28/21
+NDAQ,,,,,,,,,C,C,A,C,Top 45% (115 out of 253),4/28/21
+DOCU,,,,,,,,,F,A,B,C,Bottom 25% (189 out of 253),6/3/21
+PB,,,,,,,,,B,F,B,D,Top 13% (34 out of 253),5/5/21
+DVN,,,,,,,,,D,D,A,C,Top 21% (54 out of 253),5/4/21
+POR,,,,,,,,,B,F,D,D,Bottom 22% (198 out of 253),4/23/21
+RES,,,,,,,,,C,C,A,B,Bottom 30% (178 out of 253),5/5/21
+SC,,,,,,,,,A,D,D,B,Top 15% (37 out of 253),4/27/21
+KZR,,,,,,,,,F,D,F,F,Bottom 28% (183 out of 253),5/6/21
+AXP,,,,,,,,,B,D,A,B,Top 42% (106 out of 253),4/23/21
+TMUS,,,,,,,,,B,C,A,A,Top 45% (115 out of 253),5/5/21
+INOV,,,,,,,,,C,B,D,C,Top 45% (115 out of 253),5/5/21
+APA,,,,,,,,,C,C,A,B,Top 21% (54 out of 253),5/5/21
+NUE,,,,,,,,,B,B,A,A,Top 2% (6 out of 253),4/27/21
+THRM,,,,,,,,,F,C,B,C,Top 38% (96 out of 253),5/6/21
+J,,,,,,,,,C,B,C,B,Top 29% (73 out of 253),5/5/21
+IMGN,,,,,,,,,F,B,C,D,Bottom 30% (176 out of 253),5/7/21
+PLAY,,,,,,,,,D,F,D,F,Bottom 25% (189 out of 253),4/1/21
+PFE,,,,,,,,,A,D,B,C,Bottom 9% (229 out of 253),4/27/21
+ENB,,,,,,,,,C,F,C,D,Top 45% (115 out of 253),5/6/21
+LYB,,,,,,,,,A,D,A,B,Top 32% (81 out of 253),5/7/21
+USB,,,,,,,,,C,F,A,D,Top 44% (112 out of 253),4/21/21
+MPC,,,,,,,,,C,C,A,B,Bottom 28% (183 out of 253),5/4/21
+KHC,,,,,,,,,B,B,B,A,Bottom 33% (169 out of 253),4/29/21
+PH,,,,,,,,,B,B,B,B,Bottom 42% (148 out of 253),4/29/21
+HCC,,,,,,,,,A,F,A,B,Top 39% (98 out of 253),5/5/21
+SIEN,,,,,,,,,F,A,A,C,Bottom 32% (171 out of 253),5/10/21
+EXTR,,,,,,,,,C,A,F,B,Bottom 20% (203 out of 253),5/10/21
+QTWO,,,,,,,,,F,C,D,F,Top 42% (106 out of 253),5/5/21
+HIG,,,,,,,,,A,C,F,B,Top 45% (114 out of 253),5/5/21
+BWA,,,,,,,,,A,D,C,B,Top 38% (96 out of 253),5/5/21
+BV,,,,,,,,,B,C,B,B,Bottom 10% (227 out of 253),5/6/21
+OBNK,,,,,,,,,D,F,A,D,Top 8% (20 out of 253),4/28/21
+RGLD,,,,,,,,,D,C,C,C,Bottom 21% (199 out of 253),5/5/21
+CR,,,,,,,,,B,C,D,B,Top 41% (104 out of 253),4/26/21
+SMG,,,,,,,,,D,C,F,D,Top 9% (24 out of 253),5/5/21
+RVNC,,,,,,,,,F,F,C,F,Bottom 28% (183 out of 253),5/6/21
+AUY,,,,,,,,,A,B,F,A,Bottom 21% (199 out of 253),4/29/21
+HBMD,,,,,,,,,B,F,A,C,Top 9% (22 out of 253),5/5/21
+FHI,,,,,,,,,A,A,C,A,Top 34% (85 out of 253),4/29/21
+ENV,,,,,,,,,C,B,C,C,Bottom 33% (169 out of 253),5/6/21
+TTWO,,,,,,,,,D,B,D,C,Top 29% (74 out of 253),5/19/21
+HWC,,,,,,,,,B,D,B,C,Top 8% (20 out of 253),4/27/21
+DDD,,,,,,,,,F,A,D,C,Top 29% (74 out of 253),5/5/21
+KRTX,,,,,,,,,C,F,B,D,Bottom 28% (183 out of 253),5/6/21
+MTB,,,,,,,,,D,F,D,F,Top 44% (112 out of 253),4/19/21
+CTBI,,,,,,,,,C,F,C,F,Top 8% (20 out of 253),4/28/21
+SLCT,,,,,,,,,C,F,A,D,Top 13% (34 out of 253),5/5/21
+DFS,,,,,,,,,B,C,B,B,Top 15% (37 out of 253),4/28/21
+AOUT,,,,,,,,,B,D,F,C,Top 10% (26 out of 253),3/17/21
+LEA,,,,,,,,,A,A,C,A,Top 38% (96 out of 253),5/14/21
+VRAY,,,,,,,,,F,A,D,C,Bottom 32% (171 out of 253),4/29/21
+CERT,,,,,,,,,D,B,F,D,Bottom 28% (183 out of 253),6/3/21
+VNO,,,,,,,,,D,D,A,D,Bottom 14% (217 out of 253),5/3/21
+LHX,,,,,,,,,B,B,A,A,Bottom 13% (219 out of 253),5/4/21
+SCHW,,,,,,,,,D,D,A,D,Top 2% (5 out of 253),4/21/21
+HUBS,,,,,,,,,F,B,F,D,Bottom 30% (176 out of 253),5/5/21
+OLLI,,,,,,,,,C,B,C,C,Bottom 37% (160 out of 253),3/18/21
+LH,,,,,,,,,A,A,A,A,Top 26% (65 out of 253),5/5/21
+CACI,,,,,,,,,A,A,B,A,Bottom 38% (156 out of 253),5/5/21
+CINF,,,,,,,,,C,D,D,D,Top 42% (106 out of 253),4/26/21
+MRVI,,,,,,,,,D,C,A,C,Bottom 38% (158 out of 253),6/1/21
+WRB,,,,,,,,,B,B,F,B,Top 42% (106 out of 253),4/20/21
+XOM,,,,,,,,,D,F,A,D,Top 13% (32 out of 253),5/7/21
+EOG,,,,,,,,,F,F,A,F,Top 21% (54 out of 253),5/6/21
+PAGS,,,,,,,,,D,B,B,C,Bottom 33% (169 out of 253),5/27/21
+HTA,,,,,,,,,D,D,C,D,Bottom 14% (217 out of 253),5/4/21
+ICE,,,,,,,,,C,D,B,D,Top 45% (115 out of 253),4/29/21
+GIB,,,,,,,,,B,A,A,A,Bottom 38% (156 out of 253),5/5/21
+NVR,,,,,,,,,B,A,C,A,Top 13% (33 out of 253),4/22/21
+PMT,,,,,,,,,C,F,C,F,Bottom 38% (158 out of 253),5/6/21
+BANF,,,,,,,,,C,F,B,C,Top 13% (34 out of 253),4/20/21
+CGNX,,,,,,,,,F,D,D,F,Top 21% (52 out of 253),4/26/21
+MPLX,,,,,,,,,B,B,B,B,Top 45% (115 out of 253),5/4/21
+TW,,,,,,,,,F,C,F,F,Top 2% (5 out of 253),4/29/21
+NTNX,,,,,,,,,F,B,A,C,Top 45% (115 out of 253),5/26/21
+CSWC,,,,,,,,,F,D,B,D,Top 34% (85 out of 253),6/7/21
+BRX,,,,,,,,,C,F,B,D,Bottom 22% (197 out of 253),5/6/21
+AIMC,,,,,,,,,B,B,C,A,Bottom 42% (148 out of 253),4/29/21
+XEC,,,,,,,,,C,D,A,C,Top 21% (54 out of 253),5/5/21
+FNV,,,,,,,,,D,B,A,C,Bottom 21% (199 out of 253),5/5/21
+BCRX,,,,,,,,,F,F,F,F,Bottom 30% (176 out of 253),5/5/21
+COHR,,,,,,,,,F,A,D,C,Top 2% (6 out of 253),5/26/21
+FMTX,,,,,,,,,F,F,F,F,Bottom 28% (183 out of 253),3/18/21
+NOC,,,,,,,,,A,A,D,A,Bottom 13% (219 out of 253),5/5/21
+SO,,,,,,,,,C,D,B,C,Bottom 22% (198 out of 253),4/29/21
+ARCC,,,,,,,,,D,F,F,F,Bottom 42% (148 out of 253),5/4/21
+HI,,,,,,,,,B,A,D,A,Top 9% (23 out of 253),5/5/21
+AGR,,,,,,,,,C,F,C,D,Bottom 22% (198 out of 253),4/27/21
+AME,,,,,,,,,C,C,A,C,Top 21% (52 out of 253),5/4/21
+PRG,,,,,,,,,A,B,B,A,Top 15% (37 out of 253),5/6/21
+EFX,,,,,,,,,C,A,C,B,Bottom 33% (169 out of 253),4/19/21
+FOXA,,,,,,,,,C,D,C,C,Top 45% (115 out of 253),5/5/21
+GRA,,,,,,,,,B,C,F,C,Bottom 42% (148 out of 253),4/29/21
+PDCO,,,,,,,,,B,F,A,C,Top 26% (65 out of 253),6/23/21
+AVID,,,,,,,,,B,A,D,A,Bottom 38% (157 out of 253),5/6/21
+TRMB,,,,,,,,,D,C,C,D,Top 27% (69 out of 253),5/5/21
+HWM,,,,,,,,,F,C,C,D,Top 29% (73 out of 253),5/4/21
+MPW,,,,,,,,,C,D,A,C,Bottom 14% (217 out of 253),5/5/21
+TDG,,,,,,,,,D,C,C,D,Top 39% (98 out of 253),5/4/21
+UMH,,,,,,,,,D,C,B,C,Bottom 13% (221 out of 253),5/6/21
+WFC,,,,,,,,,D,F,A,F,Top 44% (112 out of 253),4/14/21
+SSB,,,,,,,,,B,D,B,C,Top 8% (20 out of 253),4/22/21
+NSA,,,,,,,,,D,D,A,C,Bottom 14% (217 out of 253),5/10/21
+TECK,,,,,,,,,A,D,B,B,Top 40% (101 out of 253),4/28/21
+EPRT,,,,,,,,,D,D,A,D,Bottom 38% (158 out of 253),5/10/21
+K,,,,,,,,,A,D,D,C,Bottom 33% (169 out of 253),4/29/21
+HII,,,,,,,,,A,A,B,A,Bottom 13% (219 out of 253),5/6/21
+BLL,,,,,,,,,C,A,B,A,Top 22% (55 out of 253),5/6/21
+ADS,,,,,,,,,A,F,A,B,Bottom 33% (169 out of 253),4/22/21
+BAP,,,,,,,,,A,C,D,B,Top 22% (55 out of 253),5/6/21
+EMN,,,,,,,,,A,B,B,A,Top 32% (81 out of 253),4/29/21
+GPC,,,,,,,,,B,A,C,A,Bottom 37% (160 out of 253),5/5/21
+HASI,,,,,,,,,F,F,C,F,Bottom 26% (187 out of 253),5/6/21
+WMB,,,,,,,,,C,C,B,C,Top 45% (115 out of 253),5/3/21
+DEA,,,,,,,,,D,D,A,C,Bottom 14% (217 out of 253),5/4/21
+CUBE,,,,,,,,,D,D,C,D,Bottom 14% (217 out of 253),5/6/21
+RF,,,,,,,,,A,F,C,C,Top 8% (20 out of 253),4/23/21
+AUTL,,,,,,,,,F,F,A,F,Bottom 28% (183 out of 253),5/6/21
+ABBV,,,,,,,,,A,C,A,A,Bottom 9% (229 out of 253),5/7/21
+PGR,,,,,,,,,A,D,A,B,Top 42% (106 out of 253),4/21/21
+CMI,,,,,,,,,B,B,B,A,Top 45% (115 out of 253),4/27/21
+BKR,,,,,,,,,B,B,A,A,Bottom 30% (178 out of 253),4/28/21
+OHI,,,,,,,,,C,D,C,D,Bottom 14% (217 out of 253),5/3/21
+BLK,,,,,,,,,C,C,B,C,Top 34% (85 out of 253),4/15/21
+TRP,,,,,,,,,B,D,D,C,Top 38% (96 out of 253),5/7/21
+CPE,,,,,,,,,D,D,D,D,Top 21% (54 out of 253),5/10/21
+UNFI,,,,,,,,,A,A,D,A,Bottom 33% (169 out of 253),6/9/21
+OMER,,,,,,,,,F,D,D,F,Bottom 38% (158 out of 253),5/10/21
+AVY,,,,,,,,,C,A,A,A,Top 22% (55 out of 253),5/5/21
+SAFE,,,,,,,,,F,D,F,F,Bottom 26% (187 out of 253),4/22/21
+NTRS,,,,,,,,,C,C,A,C,Top 44% (112 out of 253),4/20/21
+PBH,,,,,,,,,B,D,D,D,Top 32% (80 out of 253),5/6/21
+PSTG,,,,,,,,,D,B,C,D,Bottom 26% (186 out of 253),5/27/21
+NYCB,,,,,,,,,B,F,B,C,Top 13% (34 out of 253),5/5/21
+AEE,,,,,,,,,C,F,C,D,Bottom 22% (198 out of 253),5/10/21
+UBA,,,,,,,,,D,D,B,D,Bottom 22% (197 out of 253),6/14/21
+FLXN,,,,,,,,,F,A,A,B,Bottom 30% (176 out of 253),5/6/21
+PLD,,,,,,,,,D,D,A,D,Bottom 14% (217 out of 253),4/20/21
+PSX,,,,,,,,,C,C,B,B,Bottom 28% (183 out of 253),5/7/21
+OKE,,,,,,,,,B,C,D,C,Top 45% (115 out of 253),4/27/21
+AKAM,,,,,,,,,B,C,C,B,Bottom 40% (151 out of 253),4/27/21
+ICFI,,,,,,,,,A,A,A,A,Top 45% (115 out of 253),5/4/21
+IDXX,,,,,,,,,F,A,D,C,Bottom 32% (171 out of 253),4/29/21
+DOW,,,,,,,,,A,C,A,A,Top 32% (81 out of 253),4/22/21
+CSCO,,,,,,,,,B,D,C,C,Bottom 20% (203 out of 253),5/12/21
+DVA,,,,,,,,,A,B,B,A,Bottom 11% (225 out of 253),5/4/21
+SYNA,,,,,,,,,D,B,D,C,Top 27% (69 out of 253),5/6/21
+PFC,,,,,,,,,F,F,D,F,Top 9% (22 out of 253),4/27/21
+EXR,,,,,,,,,F,F,B,F,Bottom 14% (217 out of 253),5/5/21
+FCPT,,,,,,,,,D,D,B,D,Bottom 14% (217 out of 253),5/5/21
+LAD,,,,,,,,,B,C,B,B,Top 14% (36 out of 253),4/28/21
+FOCS,,,,,,,,,B,B,A,A,Top 34% (85 out of 253),5/6/21
+CE,,,,,,,,,B,D,B,C,Bottom 42% (148 out of 253),4/26/21
+CPRT,,,,,,,,,D,C,B,D,Bottom 9% (229 out of 253),5/19/21
+RPT,,,,,,,,,C,F,B,D,Bottom 13% (221 out of 253),5/10/21
+KRYS,,,,,,,,,C,F,D,F,Bottom 28% (183 out of 253),5/3/21
+JCOM,,,,,,,,,B,C,C,B,Bottom 30% (176 out of 253),5/10/21
+HUN,,,,,,,,,A,C,A,A,Top 32% (81 out of 253),5/7/21
+PINE,,,,,,,,,F,D,C,F,Bottom 14% (217 out of 253),4/26/21
+ZI,,,,,,,,,F,F,B,F,Bottom 20% (203 out of 253),5/24/21
+LOW,,,,,,,,,B,B,B,A,Top 32% (81 out of 253),5/19/21
+FOLD,,,,,,,,,F,B,D,C,Bottom 28% (183 out of 253),5/6/21
+CQP,,,,,,,,,C,D,B,C,Top 45% (115 out of 253),4/29/21
+OTIS,,,,,,,,,B,C,C,B,Top 43% (109 out of 253),5/5/21
+VIAC,,,,,,,,,B,B,D,B,Top 32% (81 out of 253),5/6/21
+ARNA,,,,,,,,,F,F,D,F,Bottom 28% (183 out of 253),5/6/21
+AMGN,,,,,,,,,A,D,B,B,Bottom 28% (183 out of 253),4/29/21
+ORLY,,,,,,,,,B,B,D,B,Top 45% (115 out of 253),4/28/21
+KURA,,,,,,,,,D,D,A,D,Bottom 28% (183 out of 253),5/3/21
+TWNK,,,,,,,,,B,C,D,B,Top 45% (115 out of 253),5/14/21
+KEYS,,,,,,,,,C,B,D,C,Bottom 29% (179 out of 253),5/25/21
+WM,,,,,,,,,B,C,A,B,Bottom 26% (187 out of 253),5/5/21
+AMRX,,,,,,,,,A,D,B,B,Bottom 30% (176 out of 253),5/10/21
+TOL,,,,,,,,,A,C,A,B,Top 13% (33 out of 253),5/26/21
+STT,,,,,,,,,C,F,A,D,Top 44% (112 out of 253),4/16/21
+BIGC,,,,,,,,,F,F,D,F,Bottom 10% (228 out of 253),5/24/21
+WDAY,,,,,,,,,D,A,A,B,Bottom 30% (176 out of 253),5/26/21
+TGT,,,,,,,,,A,A,C,A,Bottom 25% (191 out of 253),5/19/21
+CHMA,,,,,,,,,F,F,D,F,Bottom 28% (183 out of 253),5/6/21
+CMA,,,,,,,,,D,F,A,F,Top 44% (112 out of 253),4/20/21
+IRM,,,,,,,,,B,C,A,B,Bottom 14% (217 out of 253),5/6/21
+T,,,,,,,,,A,C,B,B,Top 45% (115 out of 253),4/22/21
+SEDG,,,,,,,,,D,F,D,F,Bottom 20% (203 out of 253),5/5/21
+WSM,,,,,,,,,B,A,A,A,Top 8% (19 out of 253),3/17/21
+CBRE,,,,,,,,,C,A,C,A,Bottom 38% (158 out of 253),5/6/21
+MANT,,,,,,,,,B,C,B,B,Bottom 38% (156 out of 253),5/5/21
+BOX,,,,,,,,,D,A,F,B,Bottom 30% (176 out of 253),5/26/21
+EPZM,,,,,,,,,F,F,B,F,Bottom 28% (183 out of 253),5/3/21
+MNST,,,,,,,,,D,C,B,C,Top 45% (115 out of 253),5/6/21
+STAG,,,,,,,,,D,D,C,D,Bottom 14% (217 out of 253),4/29/21
+FMBI,,,,,,,,,D,F,A,D,Top 2% (6 out of 253),4/29/21
+ENDP,,,,,,,,,A,D,D,C,Bottom 30% (176 out of 253),5/6/21
+HIW,,,,,,,,,C,F,D,D,Bottom 14% (217 out of 253),4/27/21
+COO,,,,,,,,,D,D,A,C,Top 26% (65 out of 253),6/3/21
+SBAC,,,,,,,,,F,C,D,D,Bottom 14% (217 out of 253),5/4/21
+DGX,,,,,,,,,A,A,A,A,Bottom 11% (225 out of 253),4/28/21
+FTS,,,,,,,,,C,D,B,C,Bottom 22% (198 out of 253),5/5/21
+AHH,,,,,,,,,C,D,A,C,Bottom 13% (221 out of 253),4/29/21
+BBIO,,,,,,,,,F,F,D,F,Bottom 32% (171 out of 253),5/12/21
+CRM,,,,,,,,,D,B,C,C,Bottom 38% (157 out of 253),5/27/21
+ARDX,,,,,,,,,F,D,C,F,Bottom 30% (176 out of 253),5/6/21
+CARR,,,,,,,,,B,B,F,B,Top 27% (69 out of 253),5/14/21
+CFX,,,,,,,,,B,D,A,B,Bottom 42% (148 out of 253),5/6/21
+FLT,,,,,,,,,C,D,B,C,Bottom 33% (169 out of 253),5/6/21
+EPD,,,,,,,,,B,D,B,C,Bottom 12% (222 out of 253),5/5/21
+XHR,,,,,,,,,F,F,F,F,Bottom 14% (217 out of 253),5/10/21
+INVH,,,,,,,,,D,F,D,F,Bottom 13% (221 out of 253),5/5/21
+HTH,,,,,,,,,A,B,A,A,Top 8% (20 out of 253),4/29/21
+ONEW,,,,,,,,,A,A,F,A,Top 10% (26 out of 253),5/6/21
+BHF,,,,,,,,,A,F,F,C,Top 45% (115 out of 253),5/10/21
+IOVA,,,,,,,,,D,D,A,C,Bottom 28% (183 out of 253),5/4/21
+MTD,,,,,,,,,F,A,C,C,Top 15% (39 out of 253),5/6/21
+MMS,,,,,,,,,B,A,C,A,Top 45% (115 out of 253),5/6/21
+ZBRA,,,,,,,,,F,A,F,D,Top 29% (74 out of 253),4/27/21
+RSG,,,,,,,,,B,C,C,C,Bottom 26% (187 out of 253),5/4/21
+PM,,,,,,,,,B,A,A,A,Top 29% (74 out of 253),4/20/21
+MHK,,,,,,,,,A,A,C,A,Top 45% (115 out of 253),5/3/21
+RBC,,,,,,,,,B,C,D,B,Top 40% (101 out of 253),5/3/21
+PWR,,,,,,,,,B,A,B,A,Top 29% (73 out of 253),5/6/21
+BDX,,,,,,,,,B,A,B,A,Top 26% (65 out of 253),5/6/21
+HD,,,,,,,,,B,B,B,B,Top 32% (81 out of 253),5/18/21
+VZ,,,,,,,,,A,C,A,A,Top 45% (115 out of 253),4/21/21
+MGP,,,,,,,,,B,D,A,B,Bottom 14% (217 out of 253),5/4/21
+AZO,,,,,,,,,B,A,B,A,Top 45% (115 out of 253),5/25/21
+CPT,,,,,,,,,D,D,F,F,Bottom 13% (221 out of 253),5/6/21
+CTAS,,,,,,,,,D,B,A,C,Top 22% (55 out of 253),3/17/21
+ETN,,,,,,,,,C,C,B,C,Top 40% (101 out of 253),4/29/21
+LECO,,,,,,,,,C,B,F,C,Top 45% (115 out of 253),4/26/21
+NTLA,,,,,,,,,D,D,C,D,Bottom 28% (183 out of 253),5/6/21
+WEN,,,,,,,,,B,B,C,B,Bottom 25% (189 out of 253),5/5/21
+CPB,,,,,,,,,B,C,B,A,Bottom 33% (169 out of 253),6/2/21
+INTU,,,,,,,,,D,F,C,F,Bottom 38% (157 out of 253),5/20/21
+TTC,,,,,,,,,C,A,C,B,Top 2% (6 out of 253),6/3/21
+GLYC,,,,,,,,,F,F,D,F,Bottom 30% (176 out of 253),5/7/21
+ORTX,,,,,,,,,F,D,C,F,Bottom 28% (183 out of 253),5/6/21
+AMP,,,,,,,,,C,F,C,F,Top 34% (85 out of 253),5/5/21
+DG,,,,,,,,,B,A,A,A,Bottom 25% (191 out of 253),3/18/21
+TMX,,,,,,,,,D,F,B,D,Top 36% (90 out of 253),5/6/21
+ADI,,,,,,,,,D,D,A,D,Top 21% (53 out of 253),5/19/21
+CME,,,,,,,,,D,F,B,F,Top 45% (115 out of 253),4/28/21
+MDT,,,,,,,,,C,D,A,C,Bottom 38% (158 out of 253),5/20/21
+PSA,,,,,,,,,D,D,A,D,Bottom 14% (217 out of 253),4/29/21
+JACK,,,,,,,,,B,B,B,B,Bottom 25% (189 out of 253),5/12/21

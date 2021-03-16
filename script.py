@@ -242,7 +242,8 @@ r = zacks_session.get(url_zacks)
 js = json.loads(r.content)
 extract_data_from_json(js)
 today = date.today()
-csv_file = "stock_data_{}.csv".format(today.strftime("%d/%m/%Y"))
+date_today = today.strftime("%d/%m/%Y").replace('/', '_')
+csv_file = "stock_data_{}.csv".format(date_today)
 csv_columns = [
     "id",
     "score",
@@ -266,6 +267,6 @@ try:
         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
         writer.writeheader()
         for data in stocks:
-            writer.writerow(data.encode("utf-8"))
+            writer.writerow(data)
 except IOError:
     print("I/O error")

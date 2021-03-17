@@ -1,0 +1,1826 @@
+id,score,price,stock_counter,candidate,status,stop_loss,next_3_months,type,value,growth,momentum,vgm,rank,last_updated
+CSU,"
+8.37
+",$45.18 ,CSU - Capital Senior Living Corporation,Strong Buy Candidate,Upgraded, $43.50 (-3.72%),112.33%,top buy,,,,,,
+MHLD,"
+7.91
+",$3.17 ,MHLD - Maiden Holdings,Strong Buy Candidate,Unchanged, $3.07 (-3.26%),,top buy,,,,,,
+DESP,"
+7.91
+",$16.95 ,DESP - Despegar.com Corp,Strong Buy Candidate,Unchanged, $16.33 (-3.68%),13.19%,top buy,,,,,,
+ATEC,"
+7.89
+",$17.36 ,ATEC - Alphatec Holdings,Strong Buy Candidate,Unchanged, $16.78 (-3.34%),$17.40,top buy,,,,,,
+FOR,"
+7.85
+",$23.48 ,FOR - Forestar Group Inc,Strong Buy Candidate,Upgraded, $22.63 (-3.61%),9.81%,top buy,,,,,,
+KE,"
+7.75
+",$28.43 ,KE - Kimball Electronics,Strong Buy Candidate,Upgraded, $27.37 (-3.72%),$28.79,top buy,,,,,,
+FE,"
+7.66
+",$35.56 ,FE - FirstEnergy Corporation,Strong Buy Candidate,Unchanged, $34.12 (-4.04%),,top buy,,,,,,
+VOD,"
+7.63
+",$18.98 ,VOD - Vodafone Group Plc,Strong Buy Candidate,Upgraded, $18.32 (-3.50%),9.58%,top buy,,,,,,
+GDEN,"
+7.59
+",$30.03 ,GDEN - Golden Entertainment,Strong Buy Candidate,Upgraded, $29.00 (-3.44%),28.94%,top buy,,,,,,
+AVXL,"
+7.56
+",$16.13 ,AVXL - Anavex Life Sciences Corp.,Strong Buy Candidate,Unchanged, $15.56 (-3.56%),122.52%,top buy,C,F,F,F,Bottom 28% (182 out of 253),5/6/21
+FTDR,"
+7.54
+",$56.43 ,FTDR - frontdoor Inc.,Strong Buy Candidate,Upgraded, $53.83 (-4.60%),8.71%,top buy,,,,,,
+IFN,"
+7.49
+",$21.92 ,IFN - India Fund Inc (The),Strong Buy Candidate,Unchanged, $21.00 (-4.19%),$22.04,top buy,,,,,,
+IHIT,"
+7.46
+",$9.31 ,IHIT - Invesco High Income 2023 Target Term Fund of Beneficial Interest,Strong Buy Candidate,Unchanged,$8.88(-4.67%),10.43%,top buy,,,,,,
+MYGN,"
+7.40
+",$31.60 ,MYGN - Myriad Genetics,Strong Buy Candidate,Upgraded, $30.39 (-3.84%),56.84%,top buy,,,,,,
+SOLY,"
+7.37
+",$17.52 ,SOLY - Soliton Inc.,Strong Buy Candidate,Unchanged, $16.99 (-3.00%),,top buy,,,,,,
+ICHR,"
+7.29
+",$48.43 ,ICHR - Ichor Holdings,Strong Buy Candidate,Upgraded, $46.50 (-3.98%),46.4%,top buy,,,,,,
+FWONK,"
+7.19
+",$47.86 ,FWONK - Liberty Media Corporation Series C,Strong Buy Candidate,Unchanged, $45.80 (-4.30%),$48.06,top buy,,,,,,
+CQP,"
+7.11
+",$44.13 ,CQP - Cheniere Energy Partners LP.,Strong Buy Candidate,Upgraded, $42.55 (-3.58%),24.55%,top buy,C,D,C,D,Top 45% (113 out of 253),4/29/21
+DS,"
+7.06
+",$3.36 ,DS - Drive Shack Inc.,Strong Buy Candidate,Upgraded, $3.24 (-3.54%),$3.24,top buy,,,,,,
+FRA,"
+7.03
+",$13.05 ,FRA - Blackrock Floating Rate Income Strategies Fund Inc,Strong Buy Candidate,Upgraded, $12.50 (-4.24%),8.51%,top buy,,,,,,
+NXST,"
+7.00
+",$158.60 ,NXST - Nexstar Broadcasting Group,Strong Buy Candidate,Unchanged, $152.89 (-3.60%),,top buy,,,,,,
+ECHO,"
+6.99
+",$33.52 ,ECHO - Echo Global Logistics,Strong Buy Candidate,Upgraded, $32.40 (-3.34%),,top buy,,,,,,
+XPER,"
+6.94
+",$24.39 ,XPER - Tessera Holding Corp,Strong Buy Candidate,Unchanged, $23.65 (-3.02%),,top buy,,,,,,
+OLN,"
+6.91
+",$35.48 ,OLN - Olin Corporation,Strong Buy Candidate,Unchanged, $34.14 (-3.78%),,top buy,,,,,,
+INFY,"
+6.89
+",$19.33 ,INFY - Infosys Limited,Strong Buy Candidate,Unchanged,$18.63(-3.62%),8.41%,top buy,,,,,,
+CSU,"
+8.37
+",$45.18 ,CSU - Capital Senior Living Corporation,Strong Buy Candidate,Upgraded, $43.50 (-3.72%),112.33%,top buy,,,,,,
+MHLD,"
+7.91
+",$3.17 ,MHLD - Maiden Holdings,Strong Buy Candidate,Unchanged, $3.07 (-3.26%),,top buy,,,,,,
+DESP,"
+7.91
+",$16.95 ,DESP - Despegar.com Corp,Strong Buy Candidate,Unchanged, $16.33 (-3.68%),13.19%,top buy,,,,,,
+ATEC,"
+7.89
+",$17.36 ,ATEC - Alphatec Holdings,Strong Buy Candidate,Unchanged, $16.78 (-3.34%),$17.40,top buy,,,,,,
+FOR,"
+7.85
+",$23.48 ,FOR - Forestar Group Inc,Strong Buy Candidate,Upgraded, $22.63 (-3.61%),9.81%,top buy,,,,,,
+KE,"
+7.75
+",$28.43 ,KE - Kimball Electronics,Strong Buy Candidate,Upgraded, $27.37 (-3.72%),$28.79,top buy,,,,,,
+FE,"
+7.66
+",$35.56 ,FE - FirstEnergy Corporation,Strong Buy Candidate,Unchanged, $34.12 (-4.04%),,top buy,,,,,,
+VOD,"
+7.63
+",$18.98 ,VOD - Vodafone Group Plc,Strong Buy Candidate,Upgraded, $18.32 (-3.50%),9.58%,top buy,,,,,,
+GDEN,"
+7.59
+",$30.03 ,GDEN - Golden Entertainment,Strong Buy Candidate,Upgraded, $29.00 (-3.44%),28.94%,top buy,,,,,,
+AVXL,"
+7.56
+",$16.13 ,AVXL - Anavex Life Sciences Corp.,Strong Buy Candidate,Unchanged, $15.56 (-3.56%),122.52%,top buy,,,,,,
+FTDR,"
+7.54
+",$56.43 ,FTDR - frontdoor Inc.,Strong Buy Candidate,Upgraded, $53.83 (-4.60%),8.71%,top buy,,,,,,
+IFN,"
+7.49
+",$21.92 ,IFN - India Fund Inc (The),Strong Buy Candidate,Unchanged, $21.00 (-4.19%),$22.04,top buy,,,,,,
+IHIT,"
+7.46
+",$9.31 ,IHIT - Invesco High Income 2023 Target Term Fund of Beneficial Interest,Strong Buy Candidate,Unchanged,$8.88(-4.67%),10.43%,top buy,,,,,,
+MYGN,"
+7.40
+",$31.60 ,MYGN - Myriad Genetics,Strong Buy Candidate,Upgraded, $30.39 (-3.84%),56.84%,top buy,,,,,,
+SOLY,"
+7.37
+",$17.52 ,SOLY - Soliton Inc.,Strong Buy Candidate,Unchanged, $16.99 (-3.00%),,top buy,,,,,,
+ICHR,"
+7.29
+",$48.43 ,ICHR - Ichor Holdings,Strong Buy Candidate,Upgraded, $46.50 (-3.98%),46.4%,top buy,,,,,,
+FWONK,"
+7.19
+",$47.86 ,FWONK - Liberty Media Corporation Series C,Strong Buy Candidate,Unchanged, $45.80 (-4.30%),$48.06,top buy,,,,,,
+CQP,"
+7.11
+",$44.13 ,CQP - Cheniere Energy Partners LP.,Strong Buy Candidate,Upgraded, $42.55 (-3.58%),24.55%,top buy,,,,,,
+DS,"
+7.06
+",$3.36 ,DS - Drive Shack Inc.,Strong Buy Candidate,Upgraded, $3.24 (-3.54%),$3.24,top buy,,,,,,
+FRA,"
+7.03
+",$13.05 ,FRA - Blackrock Floating Rate Income Strategies Fund Inc,Strong Buy Candidate,Upgraded, $12.50 (-4.24%),8.51%,top buy,,,,,,
+NXST,"
+7.00
+",$158.60 ,NXST - Nexstar Broadcasting Group,Strong Buy Candidate,Unchanged, $152.89 (-3.60%),,top buy,,,,,,
+ECHO,"
+6.99
+",$33.52 ,ECHO - Echo Global Logistics,Strong Buy Candidate,Upgraded, $32.40 (-3.34%),,top buy,,,,,,
+XPER,"
+6.94
+",$24.39 ,XPER - Tessera Holding Corp,Strong Buy Candidate,Unchanged, $23.65 (-3.02%),,top buy,,,,,,
+OLN,"
+6.91
+",$35.48 ,OLN - Olin Corporation,Strong Buy Candidate,Unchanged, $34.14 (-3.78%),,top buy,,,,,,
+INFY,"
+6.89
+",$19.33 ,INFY - Infosys Limited,Strong Buy Candidate,Unchanged,$18.63(-3.62%),8.41%,top buy,,,,,,
+CSU,"
+8.37
+",$45.18 ,CSU - Capital Senior Living Corporation,Strong Buy Candidate,Upgraded, $43.50 (-3.72%),112.33%,top buy,,,,,,
+MHLD,"
+7.91
+",$3.17 ,MHLD - Maiden Holdings,Strong Buy Candidate,Unchanged, $3.07 (-3.26%),,top buy,,,,,,
+DESP,"
+7.91
+",$16.95 ,DESP - Despegar.com Corp,Strong Buy Candidate,Unchanged, $16.33 (-3.68%),13.19%,top buy,,,,,,
+ATEC,"
+7.89
+",$17.36 ,ATEC - Alphatec Holdings,Strong Buy Candidate,Unchanged, $16.78 (-3.34%),$17.40,top buy,,,,,,
+FOR,"
+7.85
+",$23.48 ,FOR - Forestar Group Inc,Strong Buy Candidate,Upgraded, $22.63 (-3.61%),9.81%,top buy,,,,,,
+KE,"
+7.75
+",$28.43 ,KE - Kimball Electronics,Strong Buy Candidate,Upgraded, $27.37 (-3.72%),$28.79,top buy,,,,,,
+FE,"
+7.66
+",$35.56 ,FE - FirstEnergy Corporation,Strong Buy Candidate,Unchanged, $34.12 (-4.04%),,top buy,,,,,,
+VOD,"
+7.63
+",$18.98 ,VOD - Vodafone Group Plc,Strong Buy Candidate,Upgraded, $18.32 (-3.50%),9.58%,top buy,,,,,,
+GDEN,"
+7.59
+",$30.03 ,GDEN - Golden Entertainment,Strong Buy Candidate,Upgraded, $29.00 (-3.44%),28.94%,top buy,,,,,,
+AVXL,"
+7.56
+",$16.13 ,AVXL - Anavex Life Sciences Corp.,Strong Buy Candidate,Unchanged, $15.56 (-3.56%),122.52%,top buy,,,,,,
+FTDR,"
+7.54
+",$56.43 ,FTDR - frontdoor Inc.,Strong Buy Candidate,Upgraded, $53.83 (-4.60%),8.71%,top buy,,,,,,
+IFN,"
+7.49
+",$21.92 ,IFN - India Fund Inc (The),Strong Buy Candidate,Unchanged, $21.00 (-4.19%),$22.04,top buy,,,,,,
+IHIT,"
+7.46
+",$9.31 ,IHIT - Invesco High Income 2023 Target Term Fund of Beneficial Interest,Strong Buy Candidate,Unchanged,$8.88(-4.67%),10.43%,top buy,,,,,,
+MYGN,"
+7.40
+",$31.60 ,MYGN - Myriad Genetics,Strong Buy Candidate,Upgraded, $30.39 (-3.84%),56.84%,top buy,,,,,,
+SOLY,"
+7.37
+",$17.52 ,SOLY - Soliton Inc.,Strong Buy Candidate,Unchanged, $16.99 (-3.00%),,top buy,,,,,,
+ICHR,"
+7.29
+",$48.43 ,ICHR - Ichor Holdings,Strong Buy Candidate,Upgraded, $46.50 (-3.98%),46.4%,top buy,,,,,,
+FWONK,"
+7.19
+",$47.86 ,FWONK - Liberty Media Corporation Series C,Strong Buy Candidate,Unchanged, $45.80 (-4.30%),$48.06,top buy,,,,,,
+CQP,"
+7.11
+",$44.13 ,CQP - Cheniere Energy Partners LP.,Strong Buy Candidate,Upgraded, $42.55 (-3.58%),24.55%,top buy,,,,,,
+DS,"
+7.06
+",$3.36 ,DS - Drive Shack Inc.,Strong Buy Candidate,Upgraded, $3.24 (-3.54%),$3.24,top buy,,,,,,
+FRA,"
+7.03
+",$13.05 ,FRA - Blackrock Floating Rate Income Strategies Fund Inc,Strong Buy Candidate,Upgraded, $12.50 (-4.24%),8.51%,top buy,,,,,,
+NXST,"
+7.00
+",$158.60 ,NXST - Nexstar Broadcasting Group,Strong Buy Candidate,Unchanged, $152.89 (-3.60%),,top buy,,,,,,
+ECHO,"
+6.99
+",$33.52 ,ECHO - Echo Global Logistics,Strong Buy Candidate,Upgraded, $32.40 (-3.34%),,top buy,,,,,,
+XPER,"
+6.94
+",$24.39 ,XPER - Tessera Holding Corp,Strong Buy Candidate,Unchanged, $23.65 (-3.02%),,top buy,,,,,,
+OLN,"
+6.91
+",$35.48 ,OLN - Olin Corporation,Strong Buy Candidate,Unchanged, $34.14 (-3.78%),,top buy,,,,,,
+INFY,"
+6.89
+",$19.33 ,INFY - Infosys Limited,Strong Buy Candidate,Unchanged,$18.63(-3.62%),8.41%,top buy,,,,,,
+CSU,"
+8.37
+",$45.18 ,CSU - Capital Senior Living Corporation,Strong Buy Candidate,Upgraded, $43.50 (-3.72%),112.33%,top buy,,,,,,
+MHLD,"
+7.91
+",$3.17 ,MHLD - Maiden Holdings,Strong Buy Candidate,Unchanged, $3.07 (-3.26%),,top buy,,,,,,
+DESP,"
+7.91
+",$16.95 ,DESP - Despegar.com Corp,Strong Buy Candidate,Unchanged, $16.33 (-3.68%),13.19%,top buy,,,,,,
+ATEC,"
+7.89
+",$17.36 ,ATEC - Alphatec Holdings,Strong Buy Candidate,Unchanged, $16.78 (-3.34%),$17.40,top buy,,,,,,
+FOR,"
+7.85
+",$23.48 ,FOR - Forestar Group Inc,Strong Buy Candidate,Upgraded, $22.63 (-3.61%),9.81%,top buy,,,,,,
+KE,"
+7.75
+",$28.43 ,KE - Kimball Electronics,Strong Buy Candidate,Upgraded, $27.37 (-3.72%),$28.79,top buy,,,,,,
+FE,"
+7.66
+",$35.56 ,FE - FirstEnergy Corporation,Strong Buy Candidate,Unchanged, $34.12 (-4.04%),,top buy,,,,,,
+VOD,"
+7.63
+",$18.98 ,VOD - Vodafone Group Plc,Strong Buy Candidate,Upgraded, $18.32 (-3.50%),9.58%,top buy,,,,,,
+GDEN,"
+7.59
+",$30.03 ,GDEN - Golden Entertainment,Strong Buy Candidate,Upgraded, $29.00 (-3.44%),28.94%,top buy,,,,,,
+AVXL,"
+7.56
+",$16.13 ,AVXL - Anavex Life Sciences Corp.,Strong Buy Candidate,Unchanged, $15.56 (-3.56%),122.52%,top buy,,,,,,
+FTDR,"
+7.54
+",$56.43 ,FTDR - frontdoor Inc.,Strong Buy Candidate,Upgraded, $53.83 (-4.60%),8.71%,top buy,,,,,,
+IFN,"
+7.49
+",$21.92 ,IFN - India Fund Inc (The),Strong Buy Candidate,Unchanged, $21.00 (-4.19%),$22.04,top buy,,,,,,
+IHIT,"
+7.46
+",$9.31 ,IHIT - Invesco High Income 2023 Target Term Fund of Beneficial Interest,Strong Buy Candidate,Unchanged,$8.88(-4.67%),10.43%,top buy,,,,,,
+MYGN,"
+7.40
+",$31.60 ,MYGN - Myriad Genetics,Strong Buy Candidate,Upgraded, $30.39 (-3.84%),56.84%,top buy,,,,,,
+SOLY,"
+7.37
+",$17.52 ,SOLY - Soliton Inc.,Strong Buy Candidate,Unchanged, $16.99 (-3.00%),,top buy,,,,,,
+ICHR,"
+ 7.29
+",$48.43 ,ICHR - Ichor Holdings,Strong Buy Candidate,Upgraded, $46.50 (-3.98%),46.4%,top buy,,,,,,
+FWONK,"
+7.19
+",$47.86 ,FWONK - Liberty Media Corporation Series C,Strong Buy Candidate,Unchanged, $45.80 (-4.30%),$48.06,top buy,,,,,,
+CQP,"
+7.11
+",$44.13 ,CQP - Cheniere Energy Partners LP.,Strong Buy Candidate,Upgraded, $42.55 (-3.58%),24.55%,top buy,,,,,,
+DS,"
+7.06
+",$3.36 ,DS - Drive Shack Inc.,Strong Buy Candidate,Upgraded, $3.24 (-3.54%),$3.24,top buy,,,,,,
+FRA,"
+7.03
+",$13.05 ,FRA - Blackrock Floating Rate Income Strategies Fund Inc,Strong Buy Candidate,Upgraded, $12.50 (-4.24%),8.51%,top buy,,,,,,
+NXST,"
+7.00
+",$158.60 ,NXST - Nexstar Broadcasting Group,Strong Buy Candidate,Unchanged, $152.89 (-3.60%),,top buy,,,,,,
+ECHO,"
+6.99
+",$33.52 ,ECHO - Echo Global Logistics,Strong Buy Candidate,Upgraded, $32.40 (-3.34%),,top buy,,,,,,
+XPER,"
+6.94
+",$24.39 ,XPER - Tessera Holding Corp,Strong Buy Candidate,Unchanged, $23.65 (-3.02%),,top buy,,,,,,
+OLN,"
+6.91
+",$35.48 ,OLN - Olin Corporation,Strong Buy Candidate,Unchanged, $34.14 (-3.78%),,top buy,,,,,,
+INFY,"
+6.89
+",$19.33 ,INFY - Infosys Limited,Strong Buy Candidate,Unchanged,$18.63(-3.62%),8.41%,top buy,,,,,,
+HPR,"
+-7.09
+",$5.41 ,HPR - HighPoint Resources Corp.,Strong Sell Candidate,Unchanged,NA,,top sell,,,,,,
+ALVR,"
+-7.08
+",$28.69 ,"ALVR - AlloVir, Inc.",Strong Sell Candidate,Unchanged,NA,-18.14%,top sell,,,,,,
+RIDE,"
+-6.98
+",$15.22 ,RIDE - Lordstown Motors Corp.,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.80%,top sell,,,,,,
+DPHC,"
+-6.98
+",$15.22 ,DPHC - DiamondPeak Holdings Corp. Class A,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.82%,top sell,,,,,,
+AGRX,"
+-6.89
+",$2.07 ,AGRX - Agile Therapeutics,Strong Sell Candidate,Downgraded,NA,-10.45%,top sell,,,,,,
+JE,"
+-6.75
+",$1.68 ,JE - Just Energy Group Inc,Strong Sell Candidate,Unchanged,NA,-18.91%,top sell,,,,,,
+WNW,"
+-6.71
+",$10.86 ,WNW - Wunong Net Technology Company Limited,Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+SGTX,"
+-6.66
+",$26.04 ,"SGTX - Sigilon Therapeutics, Inc.",Strong Sell Candidate,Downgraded,NA,-24.13%,top sell,,,,,,
+GLSI,"
+-6.56
+",$28.70 ,"GLSI - Greenwich LifeSciences, Inc.",Strong Sell Candidate,Downgraded,NA,-19.10%,top sell,,,,,,
+EDU,"
+-6.53
+",$17.06 ,EDU - New Oriental Education & Technology Group Inc,Strong Sell Candidate,Unchanged,NA,-15.27%,top sell,,,,,,
+ROOT,"
+-6.51
+",$11.22 ,ROOT - Root Inc,Strong Sell Candidate,Unchanged,NA,-19.06%,top sell,,,,,,
+NYC,"
+-6.41
+",$8.67 ,"NYC - New York City REIT, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+CHPT,"
+-6.38
+",$24.70 ,CHPT - Chargepoint Holdings Inc.,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+SBE,"
+-6.38
+",$24.70 ,SBE - Switchback Energy Acquisition Corporation,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+DPW,"
+-6.17
+",$3.57 ,"DPW - DPW Holdings, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+FF,"
+-6.10
+",$15.06 ,FF - FutureFuel Corp,Strong Sell Candidate,Downgraded,NA,23.8%,top sell,,,,,,
+TCRR,"
+-6.08
+",$26.19 ,TCRR - TCR2 Therapeutics Inc.,Strong Sell Candidate,Downgraded,NA,-14.98%,top sell,,,,,,
+HPK,"
+-6.01
+",$6.64 ,"HPK - HighPeak Energy, Inc.",Strong Sell Candidate,Downgraded,NA,-41.31%,top sell,,,,,,
+VMD,"
+-6.00
+",$9.61 ,VMD - Viemed Healthcare Inc,Strong Sell Candidate,Downgraded,NA,29.82%,top sell,,,,,,
+ACAM,"
+-5.92
+",$8.45 ,ACAM - Acamar Partners Acquisition Corp. Class A,Strong Sell Candidate,Downgraded,NA,-21.47%,top sell,,,,,,
+LOTZ,"
+-5.92
+",$8.45 ,"LOTZ - CarLotz, Inc.",Strong Sell Candidate,Downgraded,NA,-21.44%,top sell,,,,,,
+MAC,"
+-5.91
+",$13.45 ,MAC - Macerich Company (The),Strong Sell Candidate,Downgraded,NA,11.77%,top sell,,,,,,
+ASPS,"
+-5.88
+",$8.97 ,ASPS - Altisource Portfolio Solutions S.A.,Strong Sell Candidate,Downgraded,NA,-31.43%,top sell,,,,,,
+FTEK,"
+-5.87
+",$3.46 ,FTEK - Fuel Tech,Strong Sell Candidate,Downgraded,NA,-18.49%,top sell,,,,,,
+QUAD,"
+-5.84
+",$5.19 ,QUAD - Quad Graphics Inc,Strong Sell Candidate,Downgraded,NA,37.85%,top sell,,,,,,
+HPR,"
+-7.09
+",$5.41 ,HPR - HighPoint Resources Corp.,Strong Sell Candidate,Unchanged,NA,,top sell,,,,,,
+ALVR,"
+-7.08
+",$28.69 ,"ALVR - AlloVir, Inc.",Strong Sell Candidate,Unchanged,NA,-18.14%,top sell,,,,,,
+RIDE,"
+-6.98
+",$15.22 ,RIDE - Lordstown Motors Corp.,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.80%,top sell,,,,,,
+DPHC,"
+-6.98
+",$15.22 ,DPHC - DiamondPeak Holdings Corp. Class A,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.82%,top sell,,,,,,
+AGRX,"
+-6.89
+",$2.07 ,AGRX - Agile Therapeutics,Strong Sell Candidate,Downgraded,NA,-10.45%,top sell,,,,,,
+JE,"
+-6.75
+",$1.68 ,JE - Just Energy Group Inc,Strong Sell Candidate,Unchanged,NA,-18.91%,top sell,,,,,,
+WNW,"
+-6.71
+",$10.86 ,WNW - Wunong Net Technology Company Limited,Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+SGTX,"
+-6.66
+",$26.04 ,"SGTX - Sigilon Therapeutics, Inc.",Strong Sell Candidate,Downgraded,NA,-24.13%,top sell,,,,,,
+GLSI,"
+-6.56
+",$28.70 ,"GLSI - Greenwich LifeSciences, Inc.",Strong Sell Candidate,Downgraded,NA,-19.10%,top sell,,,,,,
+EDU,"
+-6.53
+",$17.06 ,EDU - New Oriental Education & Technology Group Inc,Strong Sell Candidate,Unchanged,NA,-15.27%,top sell,,,,,,
+ROOT,"
+-6.51
+",$11.22 ,ROOT - Root Inc,Strong Sell Candidate,Unchanged,NA,-19.06%,top sell,,,,,,
+NYC,"
+-6.41
+",$8.67 ,"NYC - New York City REIT, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+CHPT,"
+-6.38
+",$24.70 ,CHPT - Chargepoint Holdings Inc.,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+SBE,"
+-6.38
+",$24.70 ,SBE - Switchback Energy Acquisition Corporation,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+DPW,"
+-6.17
+",$3.57 ,"DPW - DPW Holdings, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+FF,"
+-6.10
+",$15.06 ,FF - FutureFuel Corp,Strong Sell Candidate,Downgraded,NA,23.8%,top sell,,,,,,
+TCRR,"
+-6.08
+",$26.19 ,TCRR - TCR2 Therapeutics Inc.,Strong Sell Candidate,Downgraded,NA,-14.98%,top sell,,,,,,
+HPK,"
+-6.01
+",$6.64 ,"HPK - HighPeak Energy, Inc.",Strong Sell Candidate,Downgraded,NA,-41.31%,top sell,,,,,,
+VMD,"
+-6.00
+",$9.61 ,VMD - Viemed Healthcare Inc,Strong Sell Candidate,Downgraded,NA,29.82%,top sell,,,,,,
+ACAM,"
+-5.92
+",$8.45 ,ACAM - Acamar Partners Acquisition Corp. Class A,Strong Sell Candidate,Downgraded,NA,-21.47%,top sell,,,,,,
+LOTZ,"
+-5.92
+",$8.45 ,"LOTZ - CarLotz, Inc.",Strong Sell Candidate,Downgraded,NA,-21.44%,top sell,,,,,,
+MAC,"
+-5.91
+",$13.45 ,MAC - Macerich Company (The),Strong Sell Candidate,Downgraded,NA,11.77%,top sell,,,,,,
+ASPS,"
+-5.88
+",$8.97 ,ASPS - Altisource Portfolio Solutions S.A.,Strong Sell Candidate,Downgraded,NA,-31.43%,top sell,,,,,,
+FTEK,"
+-5.87
+",$3.46 ,FTEK - Fuel Tech,Strong Sell Candidate,Downgraded,NA,-18.49%,top sell,,,,,,
+QUAD,"
+-5.84
+",$5.19 ,QUAD - Quad Graphics Inc,Strong Sell Candidate,Downgraded,NA,37.85%,top sell,,,,,,
+HPR,"
+-7.09
+",$5.41 ,HPR - HighPoint Resources Corp.,Strong Sell Candidate,Unchanged,NA,,top sell,,,,,,
+ALVR,"
+-7.08
+",$28.69 ,"ALVR - AlloVir, Inc.",Strong Sell Candidate,Unchanged,NA,-18.14%,top sell,,,,,,
+RIDE,"
+-6.98
+",$15.22 ,RIDE - Lordstown Motors Corp.,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.80%,top sell,,,,,,
+DPHC,"
+-6.98
+",$15.22 ,DPHC - DiamondPeak Holdings Corp. Class A,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.82%,top sell,,,,,,
+AGRX,"
+-6.89
+",$2.07 ,AGRX - Agile Therapeutics,Strong Sell Candidate,Downgraded,NA,-10.45%,top sell,,,,,,
+JE,"
+-6.75
+",$1.68 ,JE - Just Energy Group Inc,Strong Sell Candidate,Unchanged,NA,-18.91%,top sell,,,,,,
+WNW,"
+-6.71
+",$10.86 ,WNW - Wunong Net Technology Company Limited,Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+SGTX,"
+-6.66
+",$26.04 ,"SGTX - Sigilon Therapeutics, Inc.",Strong Sell Candidate,Downgraded,NA,-24.13%,top sell,,,,,,
+GLSI,"
+-6.56
+",$28.70 ,"GLSI - Greenwich LifeSciences, Inc.",Strong Sell Candidate,Downgraded,NA,-19.10%,top sell,,,,,,
+EDU,"
+-6.53
+",$17.06 ,EDU - New Oriental Education & Technology Group Inc,Strong Sell Candidate,Unchanged,NA,-15.27%,top sell,,,,,,
+ROOT,"
+-6.51
+",$11.22 ,ROOT - Root Inc,Strong Sell Candidate,Unchanged,NA,-19.06%,top sell,,,,,,
+NYC,"
+-6.41
+",$8.67 ,"NYC - New York City REIT, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+CHPT,"
+-6.38
+",$24.70 ,CHPT - Chargepoint Holdings Inc.,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+SBE,"
+-6.38
+",$24.70 ,SBE - Switchback Energy Acquisition Corporation,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+DPW,"
+-6.17
+",$3.57 ,"DPW - DPW Holdings, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+FF,"
+-6.10
+",$15.06 ,FF - FutureFuel Corp,Strong Sell Candidate,Downgraded,NA,23.8%,top sell,,,,,,
+TCRR,"
+-6.08
+",$26.19 ,TCRR - TCR2 Therapeutics Inc.,Strong Sell Candidate,Downgraded,NA,-14.98%,top sell,,,,,,
+HPK,"
+-6.01
+",$6.64 ,"HPK - HighPeak Energy, Inc.",Strong Sell Candidate,Downgraded,NA,-41.31%,top sell,,,,,,
+VMD,"
+-6.00
+",$9.61 ,VMD - Viemed Healthcare Inc,Strong Sell Candidate,Downgraded,NA,29.82%,top sell,,,,,,
+ACAM,"
+-5.92
+",$8.45 ,ACAM - Acamar Partners Acquisition Corp. Class A,Strong Sell Candidate,Downgraded,NA,-21.47%,top sell,,,,,,
+LOTZ,"
+-5.92
+",$8.45 ,"LOTZ - CarLotz, Inc.",Strong Sell Candidate,Downgraded,NA,-21.44%,top sell,,,,,,
+MAC,"
+-5.91
+",$13.45 ,MAC - Macerich Company (The),Strong Sell Candidate,Downgraded,NA,11.77%,top sell,,,,,,
+ASPS,"
+-5.88
+",$8.97 ,ASPS - Altisource Portfolio Solutions S.A.,Strong Sell Candidate,Downgraded,NA,-31.43%,top sell,,,,,,
+FTEK,"
+-5.87
+",$3.46 ,FTEK - Fuel Tech,Strong Sell Candidate,Downgraded,NA,-18.49%,top sell,,,,,,
+QUAD,"
+-5.84
+",$5.19 ,QUAD - Quad Graphics Inc,Strong Sell Candidate,Downgraded,NA,37.85%,top sell,,,,,,
+HPR,"
+-7.09
+",$5.41 ,HPR - HighPoint Resources Corp.,Strong Sell Candidate,Unchanged,NA,,top sell,,,,,,
+ALVR,"
+-7.08
+",$28.69 ,"ALVR - AlloVir, Inc.",Strong Sell Candidate,Unchanged,NA,-18.14%,top sell,,,,,,
+RIDE,"
+-6.98
+",$15.22 ,RIDE - Lordstown Motors Corp.,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.80%,top sell,,,,,,
+DPHC,"
+-6.98
+",$15.22 ,DPHC - DiamondPeak Holdings Corp. Class A,Strong Sell Candidate,Downgraded,Golden Star Signal*,-10.82%,top sell,,,,,,
+AGRX,"
+-6.89
+",$2.07 ,AGRX - Agile Therapeutics,Strong Sell Candidate,Downgraded,NA,-10.45%,top sell,,,,,,
+JE,"
+-6.75
+",$1.68 ,JE - Just Energy Group Inc,Strong Sell Candidate,Unchanged,NA,-18.91%,top sell,,,,,,
+WNW,"
+-6.71
+",$10.86 ,WNW - Wunong Net Technology Company Limited,Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+SGTX,"
+-6.66
+",$26.04 ,"SGTX - Sigilon Therapeutics, Inc.",Strong Sell Candidate,Downgraded,NA,-24.13%,top sell,,,,,,
+GLSI,"
+-6.56
+",$28.70 ,"GLSI - Greenwich LifeSciences, Inc.",Strong Sell Candidate,Downgraded,NA,-19.10%,top sell,,,,,,
+EDU,"
+-6.53
+",$17.06 ,EDU - New Oriental Education & Technology Group Inc,Strong Sell Candidate,Unchanged,NA,-15.27%,top sell,,,,,,
+ROOT,"
+-6.51
+",$11.22 ,ROOT - Root Inc,Strong Sell Candidate,Unchanged,NA,-19.06%,top sell,,,,,,
+NYC,"
+-6.41
+",$8.67 ,"NYC - New York City REIT, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+CHPT,"
+-6.38
+",$24.70 ,CHPT - Chargepoint Holdings Inc.,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+SBE,"
+-6.38
+",$24.70 ,SBE - Switchback Energy Acquisition Corporation,Strong Sell Candidate,Unchanged,NA,-32.35%,top sell,,,,,,
+DPW,"
+-6.17
+",$3.57 ,"DPW - DPW Holdings, Inc.",Strong Sell Candidate,Downgraded,NA,,top sell,,,,,,
+FF,"
+-6.10
+",$15.06 ,FF - FutureFuel Corp,Strong Sell Candidate,Downgraded,NA,23.8%,top sell,,,,,,
+TCRR,"
+-6.08
+",$26.19 ,TCRR - TCR2 Therapeutics Inc.,Strong Sell Candidate,Downgraded,NA,-14.98%,top sell,,,,,,
+HPK,"
+-6.01
+",$6.64 ,"HPK - HighPeak Energy, Inc.",Strong Sell Candidate,Downgraded,NA,-41.31%,top sell,,,,,,
+VMD,"
+-6.00
+",$9.61 ,VMD - Viemed Healthcare Inc,Strong Sell Candidate,Downgraded,NA,29.82%,top sell,,,,,,
+ACAM,"
+-5.92
+",$8.45 ,ACAM - Acamar Partners Acquisition Corp. Class A,Strong Sell Candidate,Downgraded,NA,-21.47%,top sell,,,,,,
+LOTZ,"
+-5.92
+",$8.45 ,"LOTZ - CarLotz, Inc.",Strong Sell Candidate,Downgraded,NA,-21.44%,top sell,,,,,,
+MAC,"
+-5.91
+",$13.45 ,MAC - Macerich Company (The),Strong Sell Candidate,Downgraded,NA,11.77%,top sell,,,,,,
+ASPS,"
+-5.88
+",$8.97 ,ASPS - Altisource Portfolio Solutions S.A.,Strong Sell Candidate,Downgraded,NA,-31.43%,top sell,,,,,,
+FTEK,"
+-5.87
+",$3.46 ,FTEK - Fuel Tech,Strong Sell Candidate,Downgraded,NA,-18.49%,top sell,,,,,,
+QUAD,"
+-5.84
+",$5.19 ,QUAD - Quad Graphics Inc,Strong Sell Candidate,Downgraded,NA,37.85%,top sell,,,,,,
+GWPH,"
+6.39
+",$215.54 ,GWPH - GW Pharmaceuticals Plc,Strong Buy Candidate,Upgraded, $207.18 (-3.88%),124.23%,undervalued list,D,C,D,D,Bottom 38% (156 out of 253),5/10/21
+BABY,"
+5.91
+",$27.41 ,BABY - Natus Medical Incorporated,Strong Buy Candidate,Unchanged, $26.37 (-3.80%),,undervalued list,,,,,,
+CMPR,"
+5.28
+",$102.90 ,CMPR - Cimpress N.V,Strong Buy Candidate,Unchanged, $98.89 (-3.90%),12.36%,undervalued list,,,,,,
+EOS,"
+2.31
+",$21.80 ,EOS - Eaton Vance Enhanced Equity Income Fund II,Buy Candidate,Unchanged, $20.67 (-5.19%),4%,undervalued list,,,,,,
+WK,"
+1.40
+",$95.86 ,WK - Workiva Inc,Buy Candidate,Upgraded, $90.22 (-5.88%),11.22%,undervalued list,,,,,,
+AACQ,"
+1.35
+",$10.45 ,AACQ - Artius Acquisition Inc.,Buy Candidate,Upgraded,$9.82(-6.03%) ,6.37%,undervalued list,,,,,,
+TRS,"
+1.30
+",$32.16 ,TRS - TriMas Corporation,Buy Candidate,Unchanged, $30.51 (-5.14%),5.58%,undervalued list,,,,,,
+GCP,"
+1.24
+",$24.50 ,GCP - GCP Applied Technologies Inc,Buy Candidate,Upgraded, $23.35 (-4.70%),8.06%,undervalued list,,,,,,
+CRHC,"
+1.20
+",$10.21 ,CRHC - Cohn Robbins Holdings Corp.,Buy Candidate,Upgraded,$9.62(-5.73%) ,,undervalued list,,,,,,
+NOK,"
+1.18
+",$4.24 ,NOK - Nokia Corporation,Buy Candidate,Unchanged, $4.08 (-3.80%),,undervalued list,,,,,,
+LOCO,"
+1.17
+",$18.89 ,LOCO - El Pollo Loco Holdings,Buy Candidate,Upgraded, $17.84 (-5.55%),4.55%,undervalued list,,,,,,
+CBPO,"
+1.01
+",$117.06 ,CBPO - China Biologic Products,Buy Candidate,Unchanged, $110.51 (-5.59%),,undervalued list,,,,,,
+RCM,"
+0.87
+",$25.69 ,RCM - R1 RCM Inc,Hold/Accumulate,Upgraded, $24.38 (-5.10%),18.65%,undervalued list,,,,,,
+FOCS,"
+0.80
+",$46.43 ,FOCS - Focus Financial Partners Inc. Class A,Hold/Accumulate,Upgraded, $44.15 (-4.92%),7.92%,undervalued list,B,B,A,A,Top 33% (84 out of 253),5/6/21
+PRPB,"
+0.71
+",$10.20 ,PRPB - CC Neuberger Principal Holdings II,Hold/Accumulate,Downgraded,$9.71(-4.84%),,undervalued list,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,undervalued list,,,,,,
+NGAC,"
+0.52
+",$10.32 ,NGAC - NextGen Acquisition Corporation,Hold/Accumulate,Upgraded,$9.66 (-6.35%),,undervalued list,,,,,,
+SNPR,"
+0.43
+",$11.13 ,SNPR - Tortoise Acquisition Corp. II,Hold/Accumulate,Unchanged,$10.48  (-5.88%),,undervalued list,,,,,,
+YAC,"
+0.34
+",$10.10 ,YAC - Yucaipa Acquisition Corporation,Hold/Accumulate,Downgraded,$9.49(-6.08%),,undervalued list,,,,,,
+CONX,"
+0.21
+",$10.06 ,CONX - CONX Corp.,Hold/Accumulate,Unchanged,$9.53(-5.27%),,undervalued list,,,,,,
+CLGX,"
+0.19
+",$79.21 ,CLGX - CoreLogic Inc,Hold/Accumulate,Upgraded, $74.92 (-5.41%),,undervalued list,,,,,,
+CLVR,"
+0.08
+",$12.92 ,CLVR - Clever Leaves Holdings Inc.,Hold/Accumulate,Downgraded,$12.39  (-4.14%),30.93%,undervalued list,,,,,,
+HAE,"
+0.07
+",$120.21 ,HAE - Haemonetics Corporation,Hold/Accumulate,Unchanged, $113.48 (-5.60%),3.86%,undervalued list,,,,,,
+SY,"
+0.06
+",$12.53 ,SY - So-Young International Inc.,Hold/Accumulate,Upgraded,$11.98(-4.39%),22.06%,undervalued list,,,,,,
+GERN,"
+-0.02
+",$1.77 ,GERN - Geron Corporation,Hold/Accumulate,Upgraded, $1.68 (-5.23%),14.13%,undervalued list,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+DJCO,"
+0.34
+",$327.25 ,DJCO - Daily Journal Corp. (S.C.),Hold/Accumulate,Upgraded, $309.19 (-5.52%),-7.05%,possible runner,,,,,,
+TCX,"
+0.58
+",$80.23 ,TCX - Tucows Inc.,Hold/Accumulate,Upgraded, $76.12 (-5.12%),11.64%,possible runner,,,,,,
+MHNC,"
+1.96
+",$23.50 ,MHNC - Maiden Holdings Ltd,Buy Candidate,Upgraded,$22.48(-4.34%),3.71%,possible runner,,,,,,
+ELS,"
+2.60
+",$65.00 ,ELS - Equity Lifestyle Properties Inc,Buy Candidate,Upgraded, $62.61 (-3.68%),$64.87,golden star long,D,D,C,D,Bottom 13% (219 out of 253),4/19/21
+BFAM,"
+0.93
+",$167.02 ,BFAM - Bright Horizons Family Solutions Inc,Hold/Accumulate,Unchanged, $158.90 (-4.86%),,golden star long,,,,,,
+FMB,"
+-1.24
+",$56.61 ,FMB - First Trust Managed Municipal ETF,Sell Candidate,Unchanged,Golden Star Signal*,,golden star long,,,,,,
+EGP,"
+0.00
+",$146.13 ,EGP - EastGroup Properties Inc,Hold/Accumulate,Downgraded, $141.31 (-3.30%),$148.22,golden star long,,,,,,
+HWCPL,"
+-1.99
+",$25.60 ,HWCPL - Hancock Whitney Corporation 5.95 % Notes 2015-15.6.45 Subord,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long,,,,,,
+ORAN,"
+1.51
+",$12.42 ,ORAN - Orange,Buy Candidate,Unchanged, $11.96 (-3.69%),,golden star long,,,,,,
+FRGAP,"
+-2.01
+",$25.42 ,FRGAP - Franchise Group Inc.,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long,,,,,,
+FBHS,"
+-1.25
+",$89.49 ,FBHS - Fortune Brands Home & Security Inc,Sell Candidate,Downgraded,Golden Star Signal*,,golden star long,,,,,,
+VLYPO,"
+-0.60
+",$25.72 ,VLYPO - Valley National Bancorp Non-Cum Perp Red Pfd Registered Shs Series B,Hold/Accumulate,Downgraded,$24.76(-3.75%),,golden star long,,,,,,
+AEB,"
+0.14
+",$25.22 ,AEB - Aegon NV,Hold/Accumulate,Upgraded, $24.36 (-3.40%),,golden star long,,,,,,
+KOF,"
+2.99
+",$48.49 ,KOF - Coca Cola Femsa SAB de CV,Buy Candidate,Unchanged, $46.77 (-3.54%),,golden star long,,,,,,
+GLT,"
+-0.33
+",$17.61 ,GLT - Glatfelter,Hold/Accumulate,Unchanged, $16.67 (-5.32%),-2.26%,golden star long,,,,,,
+STND,"
+-0.02
+",$32.81 ,STND - Standard AVB Financial Corp,Hold/Accumulate,Downgraded, $30.99 (-5.53%),,golden star long,,,,,,
+EDUC,"
+0.22
+",$17.14 ,EDUC - Educational Development Corporation,Hold/Accumulate,Downgraded, $16.30 (-4.90%),9.67%,golden star long,,,,,,
+CHSCP,"
+1.34
+",$30.01 ,CHSCP - CHS Inc,Buy Candidate,Unchanged, $28.79 (-4.07%),,golden star long,,,,,,
+HE,"
+0.91
+",$40.86 ,HE - Hawaiian Electric Industries Inc,Hold/Accumulate,Downgraded, $39.37 (-3.64%),$41.40,golden star long,,,,,,
+TDA,"
+2.98
+",$25.26 ,TDA - Telephone and Data Systems Inc,Buy Candidate,Upgraded,$23.92(-5.31%),,golden star long,,,,,,
+AAP,"
+0.64
+",$179.11 ,AAP - Advance Auto Parts Inc,Hold/Accumulate,Downgraded, $173.31 (-3.24%),$181.87,golden star long,,,,,,
+NGG,"
+1.67
+",$59.38 ,NGG - National Grid Transco PLC,Buy Candidate,Unchanged, $56.77 (-4.40%),,golden star long,,,,,,
+FB,"
+2.57
+",$279.28 ,FB - Facebook,Buy Candidate,Unchanged, $266.80 (-4.47%),,golden star long,,,,,,
+SINA,"
+1.76
+",$43.16 ,SINA - Sina Corporation,Buy Candidate,Unchanged, $40.15 (-6.98%),2.77%,golden star long,,,,,,
+ALCO,"
+0.79
+",$31.35 ,ALCO - Alico,Hold/Accumulate,Downgraded, $30.12 (-3.93%),,golden star long,,,,,,
+SRCL,"
+-2.27
+",$68.18 ,SRCL - Stericycle,Sell Candidate,Downgraded,Golden Star Signal*,-2.94%,golden star long,,,,,,
+RC,"
+1.38
+",$14.90 ,RC - Ready Capital Corporation,Buy Candidate,Upgraded, $14.17 (-4.91%),$15.42,golden star long,C,F,C,F,Bottom 28% (182 out of 253),5/10/21
+CCOI,"
+1.72
+",$62.20 ,CCOI - Cogent Communications Holdings,Buy Candidate,Unchanged, $58.94 (-5.25%),,golden star long,,,,,,
+ENO,"
+2.00
+",$25.60 ,ENO - Entergy New Orleans Inc. 1st Mtg Bd 5.50% Ser 04/01/2066,Buy Candidate,Upgraded,$24.13(-5.73%),-2.24%,golden star short,,,,,,
+IAE,"
+1.25
+",$9.50 ,IAE - Voya Asia Pacific High Dividend Equity Income Fund,Buy Candidate,Upgraded, $9.12 (-4.02%),8.01%,golden star short,,,,,,
+GAINL,"
+0.73
+",$25.57 ,GAINL - Gladstone Investment Corp 6.375 % Cum Red Term Pfd Registered Shs 2018-31.08.25 Series E,Hold/Accumulate,Unchanged,$24.14(-5.59%),,golden star short,,,,,,
+PPL,"
+5.45
+",$28.30 ,PPL - PPL Corporation,Strong Buy Candidate,Upgraded, $27.03 (-4.50%),,golden star short,,,,,,
+BAX,"
+0.89
+",$78.93 ,BAX - Baxter International Inc,Hold/Accumulate,Unchanged, $74.77 (-5.27%),-3.80%,golden star short,,,,,,
+WPC,"
+0.87
+",$69.91 ,WPC - WP Carey Inc,Hold/Accumulate,Downgraded, $66.94 (-4.25%),,golden star short,,,,,,
+CATM,"
+0.52
+",$38.79 ,CATM - Cardtronics,Hold/Accumulate,Downgraded, $36.51 (-5.88%),6.77%,golden star short,,,,,,
+MGLN,"
+-1.35
+",$93.76 ,MGLN - Magellan Health,Sell Candidate,Downgraded,Golden Star Signal*,9.87%,golden star short,,,,,,
+EVG,"
+3.01
+",$13.16 ,EVG - Eaton Vance Short Diversified Income Fund,Buy Candidate,Unchanged, $12.65 (-3.89%),6.62%,golden star short,,,,,,
+XPO,"
+1.96
+",$125.41 ,XPO - XPO Logistics Inc,Buy Candidate,Unchanged, $119.66 (-4.58%),,golden star short,C,C,D,C,Bottom 43% (144 out of 253),5/3/21
+BCOR,"
+2.12
+",$17.88 ,BCOR - Blucora,Buy Candidate,Downgraded, $17.35 (-2.95%),$18.01,golden star short,,,,,,
+DBOC,"
+3.93
+",$27.73 ,DBOC - Innovator Double Stacker 9 Buffer ETF – October,Buy Candidate,Unchanged,$26.24(-5.39%),,golden star short,,,,,,
+CEZ,"
+2.50
+",$28.11 ,CEZ - VICTORY CEMP EMERGING MARKET VOLATILITY WTD INDEX ETF,Buy Candidate,Upgraded,$27.11(-3.56%),6.78%,golden star short,,,,,,
+EHI,"
+6.17
+",$10.49 ,EHI - Western Asset Global High Income Fund Inc,Strong Buy Candidate,Upgraded, $9.98 (-4.82%),,golden star short,,,,,,
+JGH,"
+2.59
+",$15.66 ,JGH - Nuveen Global High Income Fund Shs,Buy Candidate,Unchanged, $15.13 (-3.38%),2.03%,golden star short,,,,,,
+OCCIP,"
+-1.26
+",$25.17 ,OCCIP - OFS Credit Company Inc 6.875% Cum Red Pfd Registered Shs Series A 2019-31.03.24,Sell Candidate,Downgraded,Golden Star Signal*,,golden star short,,,,,,
+BLKB,"
+1.21
+",$71.76 ,BLKB - Blackbaud,Buy Candidate,Unchanged, $68.63 (-4.37%),26.51%,golden star short,,,,,,
+HYB,"
+0.52
+",$8.94 ,HYB - New America High Income Fund Inc (The),Hold/Accumulate,Downgraded, $8.59 (-3.95%),2.97%,golden star short,,,,,,
+AGD,"
+4.89
+",$11.19 ,AGD - Alpine Global Dynamic Dividend Fund,Buy Candidate,Upgraded,$10.75(-3.90%),6.58%,golden star short,,,,,,
+AOD,"
+6.16
+",$9.46 ,AOD - Aberdeen Total Dynamic Dividend Fund,Strong Buy Candidate,Upgraded, $9.05 (-4.37%),6.24%,golden star short,,,,,,
+MHN,"
+-0.06
+",$14.02 0.0000%,MHN - Blackrock MuniHoldings New York Quality Fund Inc,Hold/Accumulate,Unchanged,$13.47(-3.93%),,golden star short,,,,,,
+PROS,"
+1.99
+",$12.75 ,PROS - Prosight Global Inc.,Buy Candidate,Unchanged, $12.07 (-5.33%),-3.13%,golden star short,,,,,,
+EXD,"
+6.04
+",$10.58 ,EXD - Eaton Vance Tax-Advantaged Bond,Strong Buy Candidate,Upgraded,$10.06(-4.92%),$10.68,golden star short,,,,,,
+FV,"
+4.23
+",$44.71 ,FV - First Trust Dorsey Wright Focus 5 ETF,Buy Candidate,Downgraded,$43.22(-3.34%),9.87%,golden star short,,,,,,
+SPE,"
+0.63
+",$14.82 ,SPE - Special Opportunities Fund Inc,Hold/Accumulate,Downgraded, $14.24 (-3.94%),6.4%,golden star short,,,,,,
+PSX,,,,,,,,,B,C,A,B,Bottom 34% (166 out of 253),5/7/21
+AY,,,,,,,,,B,F,A,C,Bottom 24% (193 out of 253),5/6/21
+RIGL,,,,,,,,,D,F,B,D,Bottom 33% (169 out of 253),5/4/21
+SU,,,,,,,,,F,F,B,F,Top 1% (2 out of 253),5/4/21
+HES,,,,,,,,,D,D,A,C,Top 35% (89 out of 253),5/6/21
+CVE,,,,,,,,,C,D,A,C,Top 1% (2 out of 253),5/5/21
+MRO,,,,,,,,,C,F,A,C,Top 35% (89 out of 253),5/5/21
+CNQ,,,,,,,,,B,F,A,C,Top 9% (23 out of 253),5/6/21
+ALKS,,,,,,,,,C,B,F,C,Bottom 28% (182 out of 253),5/5/21
+GPORQ,,,,,,,,,A,F,C,C,Top 22% (55 out of 253),3/18/21
+MUR,,,,,,,,,C,F,A,D,Top 22% (55 out of 253),5/5/21
+GT,,,,,,,,,A,A,B,A,Bottom 9% (229 out of 253),4/29/21
+FOUR,,,,,,,,,F,D,F,F,Bottom 38% (156 out of 253),6/3/21
+RICOY,,,,,,,,,B,C,D,B,Bottom 30% (176 out of 253),5/14/21
+IDRA,,,,,,,,,F,B,A,C,Bottom 28% (182 out of 253),4/29/21
+HLX,,,,,,,,,A,D,A,B,Bottom 41% (149 out of 253),4/28/21
+ASYS,,,,,,,,,F,D,D,F,Top 16% (40 out of 253),5/6/21
+CGC,,,,,,,,,F,D,F,F,Bottom 38% (156 out of 253),6/4/21
+CTB,,,,,,,,,A,A,C,A,Bottom 9% (229 out of 253),5/6/21
+BBBY,,,,,,,,,B,C,B,B,Bottom 38% (156 out of 253),4/21/21
+HEAR,,,,,,,,,A,A,F,A,Top 27% (69 out of 253),5/6/21
+SCYX,,,,,,,,,F,F,A,F,Bottom 33% (169 out of 253),3/17/21
+COP,,,,,,,,,F,F,A,F,Top 35% (89 out of 253),4/29/21
+TPR,,,,,,,,,C,B,B,B,Top 44% (111 out of 253),4/29/21
+ASB,,,,,,,,,B,F,A,C,Top 2% (5 out of 253),4/22/21
+BXG,,,,,,,,,A,C,F,B,Bottom 16% (212 out of 253),5/10/21
+IRBT,,,,,,,,,D,A,F,C,Top 29% (73 out of 253),4/27/21
+MEC,,,,,,,,,B,A,D,A,Top 26% (66 out of 253),5/4/21
+PLCE,,,,,,,,,A,B,A,A,Top 44% (111 out of 253),6/10/21
+BHR,,,,,,,,,D,F,F,F,Bottom 20% (202 out of 253),5/20/21
+DIS,,,,,,,,,D,D,A,D,Bottom 19% (204 out of 253),5/4/21
+C,,,,,,,,,B,D,B,C,Top 43% (109 out of 253),4/15/21
+COLM,,,,,,,,,B,A,B,A,Top 23% (57 out of 253),4/29/21
+CORE,,,,,,,,,A,A,B,A,Top 45% (113 out of 253),5/6/21
+FCX,,,,,,,,,B,B,A,A,Bottom 37% (160 out of 253),4/23/21
+GEVO,,,,,,,,,F,D,B,F,Top 40% (102 out of 253),3/17/21
+MMX,,,,,,,,,D,B,C,D,Bottom 23% (196 out of 253),3/18/21
+SIVB,,,,,,,,,F,C,B,D,Top 8% (21 out of 253),4/22/21
+TGI,,,,,,,,,F,C,B,D,Top 41% (104 out of 253),5/27/21
+AA,,,,,,,,,A,B,A,A,Bottom 19% (204 out of 253),4/28/21
+HONE,,,,,,,,,F,D,A,D,Top 9% (22 out of 253),4/26/21
+MPC,,,,,,,,,C,C,A,B,Bottom 34% (166 out of 253),5/4/21
+ESTE,,,,,,,,,B,D,F,D,Top 22% (55 out of 253),5/5/21
+SLDB,,,,,,,,,F,B,A,C,Bottom 28% (182 out of 253),3/18/21
+SRTS,,,,,,,,,D,A,A,B,Bottom 31% (175 out of 253),5/6/21
+GS,,,,,,,,,B,A,B,A,Top 2% (5 out of 253),4/14/21
+FSBW,,,,,,,,,C,F,A,D,Top 8% (21 out of 253),4/23/21
+PCH,,,,,,,,,C,B,A,B,Top 7% (17 out of 253),4/26/21
+NEP,,,,,,,,,B,C,C,B,Top 40% (102 out of 253),4/28/21
+SCCO,,,,,,,,,C,B,A,A,Bottom 37% (160 out of 253),4/26/21
+AES,,,,,,,,,B,B,B,B,Bottom 24% (193 out of 253),5/6/21
+EPR,,,,,,,,,D,F,A,F,Bottom 21% (200 out of 253),5/5/21
+SB,,,,,,,,,A,C,B,A,Bottom 32% (173 out of 253),6/14/21
+EL,,,,,,,,,F,A,D,C,Bottom 21% (200 out of 253),5/7/21
+CNP,,,,,,,,,B,D,A,C,Bottom 24% (193 out of 253),5/6/21
+TACO,,,,,,,,,B,B,A,A,Bottom 22% (197 out of 253),5/3/21
+TSE,,,,,,,,,B,A,A,A,Top 2% (4 out of 253),5/5/21
+CRK,,,,,,,,,A,C,C,A,Top 22% (55 out of 253),5/5/21
+MGY,,,,,,,,,F,C,A,D,Top 22% (55 out of 253),5/10/21
+COF,,,,,,,,,A,D,C,C,Top 15% (37 out of 253),4/22/21
+ALRN,,,,,,,,,F,C,C,D,Bottom 28% (182 out of 253),3/29/21
+ARAV,,,,,,,,,F,B,F,D,Bottom 28% (182 out of 253),3/26/21
+OTIC,,,,,,,,,F,C,D,F,Bottom 33% (169 out of 253),5/6/21
+NOG,,,,,,,,,A,A,A,A,Top 22% (55 out of 253),5/10/21
+CMD,,,,,,,,,C,B,B,B,Bottom 31% (175 out of 253),6/3/21
+WY,,,,,,,,,D,B,A,B,Top 7% (17 out of 253),5/7/21
+VIRT,,,,,,,,,B,A,C,A,Top 44% (112 out of 253),5/4/21
+OMP,,,,,,,,,A,A,F,A,Bottom 9% (229 out of 253),5/17/21
+ARCB,,,,,,,,,A,B,D,A,Top 16% (40 out of 253),5/4/21
+SMTS,,,,,,,,,A,A,F,A,Top 39% (98 out of 253),3/18/21
+ALLY,,,,,,,,,A,D,A,B,Top 15% (37 out of 253),4/19/21
+VNOM,,,,,,,,,D,C,C,D,Top 22% (55 out of 253),5/3/21
+EBC,,,,,,,,,D,D,B,D,Top 9% (22 out of 253),4/22/21
+CPF,,,,,,,,,D,F,D,F,Top 8% (21 out of 253),4/28/21
+AGTC,,,,,,,,,F,F,F,F,Bottom 28% (182 out of 253),5/12/21
+HBM,,,,,,,,,B,B,F,B,Top 39% (98 out of 253),5/13/21
+CFR,,,,,,,,,D,F,B,F,Top 14% (35 out of 253),4/29/21
+IMO,,,,,,,,,D,F,A,D,Top 1% (2 out of 253),5/7/21
+ADCT,,,,,,,,,F,D,A,F,Bottom 28% (182 out of 253),3/18/21
+ARES,,,,,,,,,D,F,C,F,Top 33% (84 out of 253),5/5/21
+CAE,,,,,,,,,D,D,A,D,Top 41% (104 out of 253),5/28/21
+DRRX,,,,,,,,,F,F,C,F,Bottom 33% (169 out of 253),5/10/21
+SWN,,,,,,,,,B,C,A,B,Top 22% (55 out of 253),4/29/21
+HEXO,,,,,,,,,F,A,C,C,Bottom 38% (156 out of 253),3/18/21
+DCP,,,,,,,,,A,C,B,B,Top 45% (113 out of 253),5/5/21
+OCFC,,,,,,,,,C,F,F,F,Top 11% (28 out of 253),4/22/21
+MTDR,,,,,,,,,D,C,C,D,Top 22% (55 out of 253),5/5/21
+CNC,,,,,,,,,A,A,D,A,Top 45% (113 out of 253),4/27/21
+FFNW,,,,,,,,,B,F,A,C,Top 8% (21 out of 253),4/27/21
+KALV,,,,,,,,,F,F,C,F,Bottom 33% (169 out of 253),7/7/21
+ATNX,,,,,,,,,F,C,C,D,Bottom 28% (182 out of 253),5/6/21
+HL,,,,,,,,,C,A,F,C,Bottom 10% (227 out of 253),5/6/21
+RDS.A,,,,,,,,,B,D,B,C,Top 15% (39 out of 253),4/29/21
+SAMG,,,,,,,,,A,B,A,A,Top 33% (84 out of 253),4/29/21
+JPM,,,,,,,,,C,B,B,B,Top 43% (109 out of 253),4/14/21
+CVX,,,,,,,,,F,F,A,F,Top 15% (39 out of 253),5/7/21
+SQZ,,,,,,,,,D,C,F,D,Bottom 28% (182 out of 253),3/18/21
+TS,,,,,,,,,C,D,A,C,Top 16% (40 out of 253),5/7/21
+RIG,,,,,,,,,B,C,C,B,Bottom 21% (199 out of 253),5/5/21
+ELF,,,,,,,,,D,D,B,D,Bottom 21% (200 out of 253),5/20/21
+BAC,,,,,,,,,C,C,A,C,Top 43% (109 out of 253),4/15/21
+NBRV,,,,,,,,,F,D,A,F,Bottom 28% (182 out of 253),5/10/21
+FSLR,,,,,,,,,B,A,B,A,Bottom 19% (204 out of 253),5/6/21
+NWE,,,,,,,,,C,F,D,D,Bottom 24% (193 out of 253),4/28/21
+GABC,,,,,,,,,F,D,B,F,Top 2% (5 out of 253),5/6/21
+TT,,,,,,,,,D,B,C,C,Bottom 24% (193 out of 253),5/4/21
+CBOE,,,,,,,,,C,A,C,B,Top 45% (113 out of 253),5/7/21
+DOOO,,,,,,,,,B,A,B,A,Top 37% (94 out of 253),3/25/21
+RPD,,,,,,,,,F,A,B,C,Bottom 33% (169 out of 253),5/6/21
+YEXT,,,,,,,,,F,D,B,F,Bottom 24% (193 out of 253),6/3/21
+LMNX,,,,,,,,,C,C,C,C,Bottom 31% (175 out of 253),5/3/21
+HARP,,,,,,,,,D,B,A,C,Bottom 33% (169 out of 253),5/5/21
+TBK,,,,,,,,,F,C,C,D,Top 8% (20 out of 253),4/19/21
+BRT,,,,,,,,,F,D,A,F,Bottom 13% (219 out of 253),6/16/21
+SNOW,,,,,,,,,F,D,F,F,Bottom 33% (169 out of 253),6/2/21
+CNX,,,,,,,,,A,C,A,B,Top 22% (55 out of 253),4/26/21
+KMI,,,,,,,,,C,C,B,C,Top 45% (113 out of 253),4/28/21
+ARLO,,,,,,,,,D,A,D,C,Bottom 33% (169 out of 253),5/10/21
+BRP,,,,,,,,,C,F,B,D,Bottom 41% (150 out of 253),5/12/21
+FMNB,,,,,,,,,A,C,B,B,Top 2% (5 out of 253),5/5/21
+TTWO,,,,,,,,,D,B,A,B,Top 29% (73 out of 253),5/19/21
+EQT,,,,,,,,,B,D,B,C,Top 22% (55 out of 253),5/6/21
+FULT,,,,,,,,,B,D,C,C,Top 9% (22 out of 253),4/20/21
+PFBC,,,,,,,,,B,F,D,D,Top 8% (21 out of 253),4/28/21
+WGO,,,,,,,,,B,A,C,A,Top 1% (3 out of 253),3/24/21
+LYFT,,,,,,,,,F,D,C,F,Bottom 41% (150 out of 253),5/5/21
+BBDC,,,,,,,,,C,F,A,D,Bottom 43% (144 out of 253),3/24/21
+MRC,,,,,,,,,B,A,A,A,Top 16% (40 out of 253),4/27/21
+FUJIY,,,,,,,,,A,C,C,B,Top 16% (40 out of 253),5/28/21
+CMCO,,,,,,,,,D,D,B,D,Top 3% (7 out of 253),5/26/21
+FITB,,,,,,,,,B,F,A,C,Top 43% (109 out of 253),4/20/21
+IQ,,,,,,,,,D,B,A,B,Top 32% (82 out of 253),5/17/21
+LAND,,,,,,,,,D,C,C,D,Bottom 20% (202 out of 253),5/5/21
+OPK,,,,,,,,,C,A,A,A,Bottom 31% (175 out of 253),5/5/21
+AXP,,,,,,,,,B,C,A,B,Top 44% (112 out of 253),4/23/21
+LLY,,,,,,,,,B,B,A,A,Bottom 13% (221 out of 253),4/27/21
+SKY,,,,,,,,,F,A,D,C,Top 1% (3 out of 253),5/19/21
+WAFD,,,,,,,,,C,D,F,F,Top 8% (21 out of 253),4/20/21
+WDC,,,,,,,,,B,C,A,B,Bottom 28% (182 out of 253),4/29/21
+WSO,,,,,,,,,C,A,D,B,Top 36% (90 out of 253),4/22/21
+SJI,,,,,,,,,C,F,A,D,Top 43% (110 out of 253),5/5/21
+FLOW,,,,,,,,,B,A,A,A,Top 39% (98 out of 253),5/11/21
+MDC,,,,,,,,,B,A,D,A,Top 13% (33 out of 253),5/4/21
+MIME,,,,,,,,,F,A,F,D,Bottom 33% (169 out of 253),5/10/21
+GDRX,,,,,,,,,F,B,A,C,Bottom 34% (166 out of 253),6/10/21
+JRVR,,,,,,,,,A,A,C,A,Bottom 39% (154 out of 253),5/5/21
+PLTK,,,,,,,,,C,B,A,B,Bottom 16% (213 out of 253),5/27/21
+EXP,,,,,,,,,C,B,D,B,Top 15% (37 out of 253),5/18/21
+KNX,,,,,,,,,A,B,B,A,Top 16% (40 out of 253),4/28/21
+RRC,,,,,,,,,B,F,A,C,Top 22% (55 out of 253),4/29/21
+NDAQ,,,,,,,,,C,C,A,C,Top 45% (113 out of 253),4/28/21
+PB,,,,,,,,,B,F,B,D,Top 14% (35 out of 253),5/5/21
+DVN,,,,,,,,,C,D,A,C,Top 22% (55 out of 253),5/4/21
+POR,,,,,,,,,B,F,D,F,Bottom 24% (193 out of 253),4/23/21
+RES,,,,,,,,,C,C,A,B,Bottom 41% (149 out of 253),5/5/21
+SC,,,,,,,,,A,D,C,B,Top 15% (37 out of 253),4/27/21
+SYY,,,,,,,,,C,C,C,C,Bottom 37% (160 out of 253),5/4/21
+TMUS,,,,,,,,,B,C,A,A,Bottom 38% (156 out of 253),5/5/21
+APA,,,,,,,,,B,C,A,B,Top 22% (55 out of 253),5/5/21
+NUE,,,,,,,,,B,B,A,A,Top 3% (7 out of 253),4/27/21
+THRM,,,,,,,,,F,C,D,D,Top 37% (94 out of 253),5/6/21
+J,,,,,,,,,C,B,C,B,Top 26% (66 out of 253),5/5/21
+IMGN,,,,,,,,,F,B,C,D,Bottom 33% (169 out of 253),5/7/21
+LMNR,,,,,,,,,D,D,A,D,Bottom 28% (182 out of 253),6/8/21
+PFE,,,,,,,,,A,D,D,C,Bottom 13% (221 out of 253),4/27/21
+ENB,,,,,,,,,C,F,C,D,Top 45% (113 out of 253),5/6/21
+LYB,,,,,,,,,A,D,A,B,Top 29% (73 out of 253),5/7/21
+USB,,,,,,,,,C,F,A,D,Top 43% (109 out of 253),4/15/21
+WPM,,,,,,,,,D,C,D,D,Top 39% (98 out of 253),5/5/21
+KHC,,,,,,,,,B,B,B,A,Bottom 37% (160 out of 253),4/29/21
+HCC,,,,,,,,,A,F,A,B,Top 22% (56 out of 253),5/5/21
+SPRO,,,,,,,,,F,F,A,F,Bottom 28% (182 out of 253),5/14/21
+EXTR,,,,,,,,,C,A,F,B,Bottom 11% (224 out of 253),5/10/21
+QTWO,,,,,,,,,F,C,D,F,Top 41% (104 out of 253),5/5/21
+HIG,,,,,,,,,A,C,F,B,Bottom 39% (154 out of 253),5/5/21
+BWA,,,,,,,,,A,D,C,B,Top 37% (94 out of 253),5/5/21
+BV,,,,,,,,,B,C,B,B,Bottom 10% (227 out of 253),5/6/21
+MIDD,,,,,,,,,D,C,B,C,Top 45% (113 out of 253),5/6/21
+OBNK,,,,,,,,,D,F,A,D,Top 8% (20 out of 253),4/28/21
+RGLD,,,,,,,,,D,C,B,C,Bottom 23% (196 out of 253),5/5/21
+CR,,,,,,,,,B,C,D,B,Top 40% (102 out of 253),4/26/21
+SMG,,,,,,,,,D,C,F,D,Top 10% (26 out of 253),5/5/21
+RVNC,,,,,,,,,F,F,D,F,Bottom 28% (182 out of 253),5/6/21
+DOCU,,,,,,,,,F,A,A,B,Bottom 24% (193 out of 253),6/3/21
+AUY,,,,,,,,,A,B,F,A,Bottom 23% (196 out of 253),4/29/21
+HBMD,,,,,,,,,C,F,A,D,Top 9% (22 out of 253),5/5/21
+FHI,,,,,,,,,A,A,B,A,Top 33% (84 out of 253),4/29/21
+PH,,,,,,,,,B,B,C,B,Top 45% (113 out of 253),4/29/21
+ENV,,,,,,,,,C,B,C,C,Bottom 38% (156 out of 253),5/6/21
+HWC,,,,,,,,,B,D,C,C,Top 8% (20 out of 253),4/27/21
+DDD,,,,,,,,,F,A,D,C,Top 29% (73 out of 253),5/5/21
+KRTX,,,,,,,,,C,F,A,D,Bottom 28% (182 out of 253),5/6/21
+MTB,,,,,,,,,D,F,D,F,Top 43% (109 out of 253),4/19/21
+RVLV,,,,,,,,,D,A,D,C,Bottom 9% (229 out of 253),5/12/21
+CTBI,,,,,,,,,C,F,C,F,Top 8% (20 out of 253),4/28/21
+SLCT,,,,,,,,,C,F,A,D,Top 11% (28 out of 253),5/5/21
+DFS,,,,,,,,,A,C,B,B,Top 15% (37 out of 253),4/28/21
+AOUT,,,,,,,,,B,D,F,C,Top 13% (33 out of 253),3/17/21
+LEA,,,,,,,,,A,A,D,A,Top 37% (94 out of 253),5/14/21
+VRAY,,,,,,,,,F,A,B,C,Bottom 31% (175 out of 253),4/29/21
+CERT,,,,,,,,,D,C,F,D,Bottom 28% (182 out of 253),6/3/21
+LHX,,,,,,,,,B,B,A,A,Bottom 15% (216 out of 253),5/4/21
+SCHW,,,,,,,,,D,D,A,D,Top 2% (5 out of 253),4/21/21
+HUBS,,,,,,,,,F,B,F,D,Bottom 33% (169 out of 253),5/5/21
+OLLI,,,,,,,,,C,B,B,C,Bottom 37% (160 out of 253),3/18/21
+LH,,,,,,,,,A,A,A,A,Top 29% (73 out of 253),5/5/21
+CACI,,,,,,,,,A,A,B,A,Bottom 39% (154 out of 253),5/5/21
+CINF,,,,,,,,,C,D,D,D,Top 38% (95 out of 253),4/26/21
+VNO,,,,,,,,,D,D,A,C,Bottom 20% (202 out of 253),5/3/21
+MRVI,,,,,,,,,D,C,A,C,Bottom 38% (156 out of 253),6/1/21
+WRB,,,,,,,,,B,B,F,B,Top 38% (95 out of 253),4/20/21
+XOM,,,,,,,,,D,F,A,D,Top 15% (39 out of 253),5/7/21
+EOG,,,,,,,,,F,F,A,F,Top 22% (55 out of 253),5/6/21
+PAGS,,,,,,,,,D,B,A,C,Bottom 38% (156 out of 253),5/27/21
+CTRE,,,,,,,,,D,D,A,C,Bottom 20% (202 out of 253),5/6/21
+ICE,,,,,,,,,C,D,B,D,Top 45% (113 out of 253),4/29/21
+GIB,,,,,,,,,B,A,B,A,Bottom 39% (154 out of 253),5/5/21
+KZR,,,,,,,,,F,D,C,D,Bottom 28% (182 out of 253),5/6/21
+NOV,,,,,,,,,B,B,A,B,Bottom 24% (193 out of 253),4/27/21
+NVR,,,,,,,,,B,A,C,A,Top 13% (33 out of 253),4/22/21
+PMT,,,,,,,,,C,F,C,D,Bottom 32% (173 out of 253),5/6/21
+BANF,,,,,,,,,C,F,B,C,Top 14% (35 out of 253),4/20/21
+CGNX,,,,,,,,,F,D,D,F,Top 21% (53 out of 253),4/26/21
+MPLX,,,,,,,,,B,B,C,B,Top 45% (113 out of 253),5/4/21
+TW,,,,,,,,,F,C,F,F,Top 2% (5 out of 253),4/29/21
+NTNX,,,,,,,,,F,B,A,C,Bottom 42% (148 out of 253),5/26/21
+CSWC,,,,,,,,,F,D,B,F,Top 33% (84 out of 253),6/7/21
+BRX,,,,,,,,,B,F,C,D,Bottom 21% (200 out of 253),5/6/21
+AIMC,,,,,,,,,B,B,C,A,Top 45% (113 out of 253),4/29/21
+XEC,,,,,,,,,C,D,A,B,Top 22% (55 out of 253),5/5/21
+FNV,,,,,,,,,D,B,A,C,Bottom 23% (196 out of 253),5/5/21
+BCRX,,,,,,,,,F,F,F,F,Bottom 33% (169 out of 253),5/5/21
+COHR,,,,,,,,,F,A,D,C,Top 3% (7 out of 253),5/26/21
+FMTX,,,,,,,,,F,F,F,F,Bottom 28% (182 out of 253),3/18/21
+NOC,,,,,,,,,A,A,D,A,Bottom 15% (216 out of 253),5/5/21
+SO,,,,,,,,,C,D,B,C,Bottom 24% (193 out of 253),4/29/21
+ARCC,,,,,,,,,D,F,F,F,Bottom 43% (144 out of 253),5/4/21
+HI,,,,,,,,,B,A,D,B,Top 16% (40 out of 253),5/5/21
+AGR,,,,,,,,,C,F,B,D,Bottom 24% (193 out of 253),4/27/21
+DRI,,,,,,,,,D,F,A,D,Bottom 22% (197 out of 253),3/25/21
+SIEN,,,,,,,,,F,A,A,C,Bottom 31% (175 out of 253),5/10/21
+AME,,,,,,,,,D,C,A,C,Top 21% (53 out of 253),5/4/21
+PRG,,,,,,,,,A,B,B,A,Top 15% (37 out of 253),5/6/21
+EFX,,,,,,,,,C,A,C,B,Bottom 38% (156 out of 253),4/19/21
+FOXA,,,,,,,,,C,D,D,D,Bottom 42% (147 out of 253),5/5/21
+RBNC,,,,,,,,,F,F,A,F,Top 8% (20 out of 253),4/26/21
+GRA,,,,,,,,,B,C,F,C,Bottom 43% (144 out of 253),4/29/21
+PDCO,,,,,,,,,B,F,A,C,Top 29% (73 out of 253),6/23/21
+AVID,,,,,,,,,B,A,D,A,Top 45% (113 out of 253),5/6/21
+TRMB,,,,,,,,,D,C,D,D,Top 27% (69 out of 253),5/5/21
+HPE,,,,,,,,,A,D,A,B,Bottom 19% (204 out of 253),5/20/21
+HWM,,,,,,,,,F,C,C,D,Top 26% (66 out of 253),5/4/21
+NKE,,,,,,,,,F,C,B,D,Bottom 41% (150 out of 253),3/18/21
+MPW,,,,,,,,,C,D,A,C,Bottom 20% (202 out of 253),5/5/21
+TDG,,,,,,,,,D,C,C,D,Top 41% (104 out of 253),5/4/21
+UMH,,,,,,,,,C,C,C,C,Bottom 13% (219 out of 253),5/6/21
+WFC,,,,,,,,,D,F,A,F,Top 43% (109 out of 253),4/14/21
+SSB,,,,,,,,,B,D,B,C,Top 8% (20 out of 253),4/22/21
+NSA,,,,,,,,,C,D,A,C,Bottom 20% (202 out of 253),5/10/21
+TECK,,,,,,,,,A,D,B,B,Top 39% (98 out of 253),4/28/21
+OHI,,,,,,,,,C,D,C,C,Bottom 20% (202 out of 253),5/3/21
+K,,,,,,,,,B,D,F,C,Bottom 37% (160 out of 253),4/29/21
+HII,,,,,,,,,A,A,B,A,Bottom 15% (216 out of 253),5/6/21
+BLL,,,,,,,,,C,A,A,A,Top 23% (57 out of 253),5/6/21
+ADS,,,,,,,,,A,F,A,B,Bottom 38% (156 out of 253),4/22/21
+BAP,,,,,,,,,A,C,C,B,Top 23% (57 out of 253),5/6/21
+GPC,,,,,,,,,B,A,D,A,Bottom 37% (160 out of 253),5/5/21
+HASI,,,,,,,,,F,F,A,F,Bottom 28% (182 out of 253),5/6/21
+WMB,,,,,,,,,C,C,B,C,Top 45% (113 out of 253),5/3/21
+DEA,,,,,,,,,C,D,A,C,Bottom 20% (202 out of 253),5/4/21
+RF,,,,,,,,,A,F,B,C,Top 8% (20 out of 253),4/23/21
+AUTL,,,,,,,,,F,F,B,F,Bottom 28% (182 out of 253),5/6/21
+ABBV,,,,,,,,,A,C,B,A,Bottom 13% (221 out of 253),5/7/21
+PGR,,,,,,,,,A,D,A,B,Top 38% (95 out of 253),4/21/21
+CMI,,,,,,,,,B,B,A,A,Top 45% (113 out of 253),4/27/21
+BKR,,,,,,,,,B,B,A,A,Bottom 41% (149 out of 253),4/28/21
+BLK,,,,,,,,,D,C,B,C,Top 33% (84 out of 253),4/15/21
+TRP,,,,,,,,,B,D,F,D,Top 40% (102 out of 253),5/7/21
+CPE,,,,,,,,,D,D,D,D,Top 22% (55 out of 253),5/10/21
+UNFI,,,,,,,,,A,A,D,A,Bottom 37% (160 out of 253),6/9/21
+OMER,,,,,,,,,F,D,D,F,Bottom 38% (156 out of 253),5/10/21
+EMN,,,,,,,,,A,B,A,A,Top 29% (73 out of 253),4/29/21
+AVY,,,,,,,,,C,A,A,A,Top 23% (57 out of 253),5/5/21
+SAFE,,,,,,,,,F,C,D,F,Bottom 28% (182 out of 253),4/22/21
+NTRS,,,,,,,,,C,C,A,C,Top 43% (109 out of 253),4/20/21
+CUBE,,,,,,,,,D,D,C,D,Bottom 20% (202 out of 253),5/6/21
+PBH,,,,,,,,,B,D,D,D,Top 27% (68 out of 253),5/6/21
+PSTG,,,,,,,,,D,B,C,D,Bottom 28% (182 out of 253),5/27/21
+NYCB,,,,,,,,,B,F,B,C,Top 11% (28 out of 253),5/5/21
+AEE,,,,,,,,,C,F,D,D,Bottom 24% (193 out of 253),5/10/21
+FLXN,,,,,,,,,F,A,A,B,Bottom 33% (169 out of 253),5/6/21
+PLD,,,,,,,,,D,D,A,D,Bottom 20% (202 out of 253),4/20/21
+OKE,,,,,,,,,B,C,D,B,Top 43% (110 out of 253),4/27/21
+AKAM,,,,,,,,,B,C,D,C,Bottom 41% (150 out of 253),4/27/21
+ICFI,,,,,,,,,A,A,B,A,Top 45% (113 out of 253),5/4/21
+IDXX,,,,,,,,,F,A,F,C,Bottom 31% (175 out of 253),4/29/21
+DOW,,,,,,,,,A,C,B,A,Top 29% (73 out of 253),4/22/21
+CSCO,,,,,,,,,B,D,C,C,Bottom 11% (224 out of 253),5/12/21
+DVA,,,,,,,,,A,B,B,A,Bottom 11% (224 out of 253),5/4/21
+SYNA,,,,,,,,,D,B,D,C,Top 29% (73 out of 253),5/6/21
+PFC,,,,,,,,,F,F,D,F,Top 9% (22 out of 253),4/27/21
+EXR,,,,,,,,,F,D,B,F,Bottom 20% (202 out of 253),5/5/21
+FCPT,,,,,,,,,D,D,C,D,Bottom 20% (202 out of 253),5/5/21
+LAD,,,,,,,,,B,C,C,B,Top 14% (36 out of 253),4/28/21
+CE,,,,,,,,,B,D,B,C,Bottom 43% (144 out of 253),4/26/21
+CPRT,,,,,,,,,D,C,B,C,Bottom 9% (229 out of 253),5/19/21
+RPT,,,,,,,,,C,F,C,D,Bottom 13% (219 out of 253),5/10/21
+KRYS,,,,,,,,,C,F,D,F,Bottom 28% (182 out of 253),5/3/21
+JCOM,,,,,,,,,B,C,D,B,Bottom 33% (169 out of 253),5/10/21
+HUN,,,,,,,,,A,C,A,A,Top 29% (73 out of 253),5/7/21
+PINE,,,,,,,,,D,D,B,D,Bottom 20% (202 out of 253),4/26/21
+ZI,,,,,,,,,F,F,B,F,Bottom 19% (204 out of 253),5/24/21
+LOW,,,,,,,,,B,B,B,A,Top 32% (82 out of 253),5/19/21
+FOLD,,,,,,,,,F,B,C,C,Bottom 28% (182 out of 253),5/6/21
+OTIS,,,,,,,,,C,C,D,C,Top 42% (106 out of 253),5/5/21
+VIAC,,,,,,,,,B,B,D,B,Top 32% (82 out of 253),5/6/21
+ARNA,,,,,,,,,F,F,D,F,Bottom 28% (182 out of 253),5/6/21
+ORLY,,,,,,,,,B,B,D,B,Top 45% (113 out of 253),4/28/21
+KURA,,,,,,,,,D,D,A,D,Bottom 28% (182 out of 253),5/3/21
+TWNK,,,,,,,,,B,C,D,B,Top 45% (113 out of 253),5/14/21
+KEYS,,,,,,,,,C,B,D,C,Bottom 30% (176 out of 253),5/25/21
+WM,,,,,,,,,B,C,B,B,Bottom 26% (186 out of 253),5/5/21
+PLAY,,,,,,,,,D,F,C,F,Bottom 22% (197 out of 253),4/1/21
+UBA,,,,,,,,,D,D,A,C,Bottom 21% (200 out of 253),6/14/21
+AMGN,,,,,,,,,B,D,C,C,Bottom 28% (182 out of 253),4/29/21
+TOL,,,,,,,,,A,C,B,B,Top 13% (33 out of 253),5/26/21
+STT,,,,,,,,,D,F,B,F,Top 43% (109 out of 253),4/16/21
+BIGC,,,,,,,,,F,F,C,F,Bottom 9% (229 out of 253),5/24/21
+EPRT,,,,,,,,,D,D,B,D,Bottom 32% (173 out of 253),5/10/21
+WDAY,,,,,,,,,F,A,A,B,Bottom 33% (169 out of 253),5/26/21
+CHMA,,,,,,,,,F,F,D,F,Bottom 28% (182 out of 253),5/6/21
+CMA,,,,,,,,,D,F,A,F,Top 43% (109 out of 253),4/20/21
+IRM,,,,,,,,,B,C,A,B,Bottom 20% (202 out of 253),5/6/21
+HTA,,,,,,,,,C,D,B,D,Bottom 20% (202 out of 253),5/4/21
+ENDP,,,,,,,,,A,D,F,C,Bottom 33% (169 out of 253),5/6/21
+SEDG,,,,,,,,,D,F,C,F,Bottom 19% (204 out of 253),5/5/21
+WSM,,,,,,,,,B,A,A,A,Top 8% (19 out of 253),3/17/21
+CBRE,,,,,,,,,B,A,C,A,Bottom 32% (173 out of 253),5/6/21
+MANT,,,,,,,,,B,C,B,B,Bottom 39% (154 out of 253),5/5/21
+EPZM,,,,,,,,,F,F,B,F,Bottom 28% (182 out of 253),5/3/21
+MNST,,,,,,,,,D,C,B,C,Top 45% (113 out of 253),5/6/21
+OFC,,,,,,,,,B,D,A,B,Bottom 20% (202 out of 253),4/29/21
+STAG,,,,,,,,,D,D,C,D,Bottom 20% (202 out of 253),4/29/21
+FMBI,,,,,,,,,D,F,B,F,Top 2% (5 out of 253),4/29/21
+CFX,,,,,,,,,B,D,A,B,Top 45% (113 out of 253),5/6/21
+HIW,,,,,,,,,B,F,D,D,Bottom 20% (202 out of 253),4/27/21
+COO,,,,,,,,,D,D,A,C,Top 29% (73 out of 253),6/3/21
+SBAC,,,,,,,,,D,C,F,D,Bottom 20% (202 out of 253),5/4/21
+FTS,,,,,,,,,C,D,B,C,Bottom 24% (193 out of 253),5/5/21
+AHH,,,,,,,,,C,D,A,C,Bottom 13% (219 out of 253),4/29/21
+BBIO,,,,,,,,,F,F,C,F,Bottom 28% (181 out of 253),5/12/21
+CRM,,,,,,,,,D,B,D,D,Top 45% (113 out of 253),5/27/21
+CARR,,,,,,,,,B,B,F,B,Top 27% (69 out of 253),5/14/21
+FLT,,,,,,,,,C,D,B,C,Bottom 38% (156 out of 253),5/6/21
+EPD,,,,,,,,,B,D,B,C,Bottom 9% (229 out of 253),5/5/21
+XHR,,,,,,,,,F,F,F,F,Bottom 20% (202 out of 253),5/10/21
+INVH,,,,,,,,,D,F,D,F,Bottom 13% (219 out of 253),5/5/21
+HTH,,,,,,,,,A,B,A,A,Top 8% (20 out of 253),4/29/21
+ONEW,,,,,,,,,A,A,F,A,Top 13% (33 out of 253),5/6/21
+T,,,,,,,,,A,C,D,B,Bottom 38% (156 out of 253),4/22/21
+BHF,,,,,,,,,A,F,F,C,Bottom 41% (150 out of 253),5/10/21
+IOVA,,,,,,,,,D,D,A,C,Bottom 28% (182 out of 253),5/4/21
+MTD,,,,,,,,,F,A,C,C,Top 16% (40 out of 253),5/6/21
+MMS,,,,,,,,,B,A,D,A,Top 45% (113 out of 253),5/6/21
+ZBRA,,,,,,,,,F,B,F,D,Top 29% (73 out of 253),4/27/21
+BEAM,,,,,,,,,D,F,D,F,Bottom 28% (182 out of 253),5/11/21
+RSG,,,,,,,,,B,C,D,C,Bottom 26% (186 out of 253),5/4/21
+PM,,,,,,,,,B,A,B,A,Top 29% (73 out of 253),4/20/21
+MHK,,,,,,,,,A,B,C,A,Top 45% (113 out of 253),5/3/21
+RBC,,,,,,,,,B,C,D,C,Top 39% (98 out of 253),5/3/21
+PWR,,,,,,,,,B,A,B,A,Top 26% (66 out of 253),5/6/21
+BDX,,,,,,,,,B,A,A,A,Top 29% (73 out of 253),5/6/21
+HD,,,,,,,,,C,B,B,B,Top 32% (82 out of 253),5/18/21
+VZ,,,,,,,,,A,C,A,A,Bottom 38% (156 out of 253),4/21/21
+MGP,,,,,,,,,B,D,A,B,Bottom 20% (202 out of 253),5/4/21
+AZO,,,,,,,,,B,A,C,A,Top 45% (113 out of 253),5/25/21
+CPT,,,,,,,,,D,D,F,F,Bottom 13% (219 out of 253),5/6/21
+CTAS,,,,,,,,,D,B,A,C,Top 23% (57 out of 253),3/17/21
+ETN,,,,,,,,,C,C,C,C,Top 39% (98 out of 253),4/29/21
+LECO,,,,,,,,,C,B,F,C,Top 45% (113 out of 253),4/26/21
+PEAK,,,,,,,,,D,D,F,F,Bottom 20% (202 out of 253),5/4/21
+NTLA,,,,,,,,,D,D,C,D,Bottom 28% (182 out of 253),5/6/21
+WEN,,,,,,,,,B,B,C,B,Bottom 22% (197 out of 253),5/5/21
+CPB,,,,,,,,,B,C,C,B,Bottom 37% (160 out of 253),6/2/21
+INTU,,,,,,,,,D,F,C,F,Top 45% (113 out of 253),5/20/21
+TTC,,,,,,,,,C,A,D,B,Top 3% (7 out of 253),6/3/21
+GLYC,,,,,,,,,F,F,D,F,Bottom 33% (169 out of 253),5/7/21
+ORTX,,,,,,,,,F,C,C,F,Bottom 28% (182 out of 253),5/6/21
+AMP,,,,,,,,,C,F,B,F,Top 33% (84 out of 253),5/5/21
+DG,,,,,,,,,B,A,A,A,Bottom 26% (187 out of 253),3/18/21
+TMX,,,,,,,,,D,F,B,D,Top 35% (88 out of 253),5/6/21
+ADI,,,,,,,,,D,D,B,D,Top 21% (54 out of 253),5/19/21
+CME,,,,,,,,,D,F,C,F,Top 45% (113 out of 253),4/28/21
+MDT,,,,,,,,,C,D,B,C,Bottom 38% (156 out of 253),5/20/21
+PSA,,,,,,,,,D,D,A,D,Bottom 20% (202 out of 253),4/29/21
+JACK,,,,,,,,,B,B,C,B,Bottom 22% (197 out of 253),5/12/21
+DGX,,,,,,,,,A,A,A,A,Bottom 11% (224 out of 253),4/28/21

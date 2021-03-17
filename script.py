@@ -22,9 +22,14 @@ headers = {
 }
 links = [
     {
-        "type": "top candiates",
+        "type": "top buy",
         "link": "https://stockinvest.us/list/buy/top100",
-        "limit": 50,
+        "limit": 100,
+    },
+    {
+        "type": "top sell",
+        "link": "https://stockinvest.us/list/sell/top100",
+        "limit": 100,
     },
     {
         "type": "undervalued list",
@@ -67,7 +72,7 @@ def get_page_data(response):
             "span", {"class": "font-weight-400 float-right"}
         ).get_text()
     else:
-        stop_loss = soup.find("b").get_text()
+        stop_loss = soup.find("b").get_text() if soup.find("b") else 'NA'
     stop_loss = stop_loss.replace("\n", "")
     next_3_months = ""
     all_p = soup.find_all("p", {"class": "text-justified"})
